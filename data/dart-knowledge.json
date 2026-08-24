@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T01:47:06.440Z",
+  "generatedAt": "2026-08-24T09:51:35.809Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,15 +11,16 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 9,
-    "totalSignals": 34,
+    "highRiskCount": 10,
+    "totalSignals": 42,
     "topRisks": [
       {
         "name": "본느",
-        "score": 85,
+        "score": 95,
         "signals": [
           "소송/분쟁",
           "CB발행",
+          "증자/감자",
           "횡령/배임"
         ]
       },
@@ -28,6 +29,14 @@
         "score": 75,
         "signals": [
           "소송/분쟁"
+        ]
+      },
+      {
+        "name": "헝셩그룹",
+        "score": 65,
+        "signals": [
+          "증자/감자",
+          "상장폐지위험"
         ]
       },
       {
