@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-23T09:31:03.762Z",
+  "generatedAt": "2026-08-24T01:47:06.440Z",
   "period": {
-    "from": "20260816",
-    "to": "20260823"
+    "from": "20260817",
+    "to": "20260824"
   },
-  "totalCompanies": 63,
-  "totalDisclosures": 92,
+  "totalCompanies": 65,
+  "totalDisclosures": 95,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -219,6 +219,35 @@
           "date": "20260818",
           "rceptNo": "20260818900443",
           "title": "전환사채(해외전환사채포함)발행후만기전사채취득              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "010640",
+      "corpCode": "00160375",
+      "name": "진양폴리우레탄",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 40,
+          "count": 2,
+          "latestDate": "2026-08-24"
+        }
+      ],
+      "riskScore": 40,
+      "recentDisclosures": [
+        {
+          "date": "20260824",
+          "rceptNo": "20260824800085",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        },
+        {
+          "date": "20260820",
+          "rceptNo": "20260820800124",
+          "title": "최대주주등소유주식변동신고서              ",
           "type": "I"
         }
       ]
@@ -488,6 +517,35 @@
       ]
     },
     {
+      "stockCode": "010640",
+      "corpCode": "00160375",
+      "name": "진양폴리우레탄",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 40,
+          "count": 2,
+          "latestDate": "2026-08-24"
+        }
+      ],
+      "riskScore": 40,
+      "recentDisclosures": [
+        {
+          "date": "20260824",
+          "rceptNo": "20260824800085",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        },
+        {
+          "date": "20260820",
+          "rceptNo": "20260820800124",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "001000",
       "corpCode": "00135999",
       "name": "신라섬유",
@@ -720,29 +778,6 @@
           "date": "20260821",
           "rceptNo": "20260821900503",
           "title": "[기재정정]최대주주변경을수반하는주식담보제공계약체결              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "010640",
-      "corpCode": "00160375",
-      "name": "진양폴리우레탄",
-      "totalDisclosures": 1,
-      "signals": [
-        {
-          "rule": "대주주변경",
-          "weight": 20,
-          "count": 1,
-          "latestDate": "2026-08-20"
-        }
-      ],
-      "riskScore": 20,
-      "recentDisclosures": [
-        {
-          "date": "20260820",
-          "rceptNo": "20260820800124",
-          "title": "최대주주등소유주식변동신고서              ",
           "type": "I"
         }
       ]
@@ -1502,6 +1537,22 @@
       ]
     },
     {
+      "stockCode": "010120",
+      "corpCode": "00105855",
+      "name": "엘에스일렉트릭",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260824",
+          "rceptNo": "20260824800095",
+          "title": "단일판매ㆍ공급계약체결              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "344860",
       "corpCode": "01419135",
       "name": "이노진",
@@ -1601,6 +1652,22 @@
           "date": "20260819",
           "rceptNo": "20260819900300",
           "title": "파산신청기각              (취하)",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "383310",
+      "corpCode": "01566248",
+      "name": "에코프로에이치엔",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260824",
+          "rceptNo": "20260824900046",
+          "title": "단일판매ㆍ공급계약체결              ",
           "type": "I"
         }
       ]

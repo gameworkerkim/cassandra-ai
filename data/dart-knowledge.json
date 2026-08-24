@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T09:31:03.763Z",
+  "generatedAt": "2026-08-24T01:47:06.440Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,7 +11,7 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 8,
+    "highRiskCount": 9,
     "totalSignals": 34,
     "topRisks": [
       {
@@ -43,6 +43,13 @@
         "signals": [
           "CB발행",
           "상장폐지위험"
+        ]
+      },
+      {
+        "name": "진양폴리우레탄",
+        "score": 40,
+        "signals": [
+          "대주주변경"
         ]
       },
       {
