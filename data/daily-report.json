@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-24T09:51:35.808Z",
+  "generatedAt": "2026-08-25T01:41:23.986Z",
   "period": {
-    "from": "20260817",
-    "to": "20260824"
+    "from": "20260818",
+    "to": "20260825"
   },
   "totalCompanies": 78,
-  "totalDisclosures": 123,
+  "totalDisclosures": 126,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -290,6 +290,35 @@
           "date": "20260818",
           "rceptNo": "20260818900443",
           "title": "전환사채(해외전환사채포함)발행후만기전사채취득              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "047400",
+      "corpCode": "00369833",
+      "name": "유니온머티리얼",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 40,
+          "count": 2,
+          "latestDate": "2026-08-25"
+        }
+      ],
+      "riskScore": 40,
+      "recentDisclosures": [
+        {
+          "date": "20260825",
+          "rceptNo": "20260825800122",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        },
+        {
+          "date": "20260824",
+          "rceptNo": "20260824800104",
+          "title": "최대주주등소유주식변동신고서              ",
           "type": "I"
         }
       ]
@@ -665,6 +694,35 @@
       ]
     },
     {
+      "stockCode": "047400",
+      "corpCode": "00369833",
+      "name": "유니온머티리얼",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 40,
+          "count": 2,
+          "latestDate": "2026-08-25"
+        }
+      ],
+      "riskScore": 40,
+      "recentDisclosures": [
+        {
+          "date": "20260825",
+          "rceptNo": "20260825800122",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        },
+        {
+          "date": "20260824",
+          "rceptNo": "20260824800104",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "010640",
       "corpCode": "00160375",
       "name": "진양폴리우레탄",
@@ -876,7 +934,7 @@
       "stockCode": "069460",
       "corpCode": "00428729",
       "name": "대호에이엘",
-      "totalDisclosures": 1,
+      "totalDisclosures": 3,
       "signals": [
         {
           "rule": "소송/분쟁",
@@ -887,6 +945,18 @@
       ],
       "riskScore": 25,
       "recentDisclosures": [
+        {
+          "date": "20260825",
+          "rceptNo": "20260825800007",
+          "title": "대표이사(대표집행임원)변경(안내공시)              ",
+          "type": "I"
+        },
+        {
+          "date": "20260825",
+          "rceptNo": "20260825800006",
+          "title": "임시주주총회결과              ",
+          "type": "I"
+        },
         {
           "date": "20260824",
           "rceptNo": "20260824800135",
@@ -966,9 +1036,9 @@
       ]
     },
     {
-      "stockCode": "047400",
-      "corpCode": "00369833",
-      "name": "유니온머티리얼",
+      "stockCode": "003010",
+      "corpCode": "00165343",
+      "name": "혜인",
       "totalDisclosures": 1,
       "signals": [
         {
@@ -982,7 +1052,7 @@
       "recentDisclosures": [
         {
           "date": "20260824",
-          "rceptNo": "20260824800104",
+          "rceptNo": "20260824800077",
           "title": "최대주주등소유주식변동신고서              ",
           "type": "I"
         }
@@ -2213,22 +2283,6 @@
         {
           "date": "20260821",
           "rceptNo": "20260821900470",
-          "title": "기업설명회(IR)개최              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "054950",
-      "corpCode": "00361381",
-      "name": "제이브이엠",
-      "totalDisclosures": 1,
-      "signals": [],
-      "riskScore": 0,
-      "recentDisclosures": [
-        {
-          "date": "20260820",
-          "rceptNo": "20260820900518",
           "title": "기업설명회(IR)개최              ",
           "type": "I"
         }

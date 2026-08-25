@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T09:51:35.809Z",
+  "generatedAt": "2026-08-25T01:41:23.987Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 10,
-    "totalSignals": 42,
+    "highRiskCount": 11,
+    "totalSignals": 43,
     "topRisks": [
       {
         "name": "본느",
@@ -55,6 +55,13 @@
         ]
       },
       {
+        "name": "유니온머티리얼",
+        "score": 40,
+        "signals": [
+          "대주주변경"
+        ]
+      },
+      {
         "name": "진양폴리우레탄",
         "score": 40,
         "signals": [
@@ -77,13 +84,6 @@
       },
       {
         "name": "진영",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "대창솔루션",
         "score": 35,
         "signals": [
           "상장폐지위험"
