@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T09:38:19.431Z",
+  "generatedAt": "2026-08-26T01:46:57.493Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,19 +11,9 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 13,
-    "totalSignals": 48,
+    "highRiskCount": 10,
+    "totalSignals": 35,
     "topRisks": [
-      {
-        "name": "본느",
-        "score": 95,
-        "signals": [
-          "소송/분쟁",
-          "CB발행",
-          "증자/감자",
-          "횡령/배임"
-        ]
-      },
       {
         "name": "고려아연",
         "score": 75,
@@ -47,11 +37,12 @@
         ]
       },
       {
-        "name": "이브이첨단소재",
-        "score": 45,
+        "name": "본느",
+        "score": 55,
         "signals": [
+          "소송/분쟁",
           "CB발행",
-          "상장폐지위험"
+          "증자/감자"
         ]
       },
       {
@@ -76,17 +67,24 @@
         ]
       },
       {
-        "name": "신라섬유",
+        "name": "대창솔루션",
         "score": 35,
         "signals": [
           "상장폐지위험"
         ]
       },
       {
-        "name": "대신정보통신",
+        "name": "이스트에이드",
         "score": 35,
         "signals": [
           "상장폐지위험"
+        ]
+      },
+      {
+        "name": "엔투텍",
+        "score": 30,
+        "signals": [
+          "CB발행"
         ]
       }
     ]
