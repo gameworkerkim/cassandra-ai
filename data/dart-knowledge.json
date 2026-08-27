@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T08:45:03.578Z",
+  "generatedAt": "2026-08-27T19:30:00.072Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 11,
-    "totalSignals": 35,
+    "highRiskCount": 12,
+    "totalSignals": 37,
     "topRisks": [
       {
         "name": "고려아연",
@@ -52,6 +52,21 @@
         ]
       },
       {
+        "name": "나노씨엠에스",
+        "score": 60,
+        "signals": [
+          "대주주변경",
+          "증자/감자"
+        ]
+      },
+      {
+        "name": "리파인",
+        "score": 60,
+        "signals": [
+          "대주주변경"
+        ]
+      },
+      {
         "name": "본느",
         "score": 55,
         "signals": [
@@ -68,21 +83,7 @@
         ]
       },
       {
-        "name": "리파인",
-        "score": 40,
-        "signals": [
-          "대주주변경"
-        ]
-      },
-      {
         "name": "아스트",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "대창솔루션",
         "score": 35,
         "signals": [
           "상장폐지위험"
