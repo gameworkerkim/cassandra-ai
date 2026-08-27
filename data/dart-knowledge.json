@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T09:44:09.886Z",
+  "generatedAt": "2026-08-27T08:45:03.578Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,7 +11,7 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 10,
+    "highRiskCount": 11,
     "totalSignals": 35,
     "topRisks": [
       {
@@ -61,6 +61,13 @@
         ]
       },
       {
+        "name": "삼천리자전거",
+        "score": 40,
+        "signals": [
+          "횡령/배임"
+        ]
+      },
+      {
         "name": "리파인",
         "score": 40,
         "signals": [
@@ -68,24 +75,17 @@
         ]
       },
       {
+        "name": "아스트",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
         "name": "대창솔루션",
         "score": 35,
         "signals": [
           "상장폐지위험"
-        ]
-      },
-      {
-        "name": "이스트에이드",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "엔투텍",
-        "score": 30,
-        "signals": [
-          "CB발행"
         ]
       }
     ]
