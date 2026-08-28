@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-28T10:57:43.110Z",
+  "generatedAt": "2026-08-28T20:47:13.861Z",
   "period": {
     "from": "20260821",
     "to": "20260828"
   },
   "totalCompanies": 89,
-  "totalDisclosures": 168,
+  "totalDisclosures": 170,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -1044,6 +1044,52 @@
       ]
     },
     {
+      "stockCode": "0220W0",
+      "corpCode": "02042949",
+      "name": "한화머시너리앤서비스홀딩스",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-08-28"
+        }
+      ],
+      "riskScore": 20,
+      "recentDisclosures": [
+        {
+          "date": "20260828",
+          "rceptNo": "20260828800652",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "227610",
+      "corpCode": "01080687",
+      "name": "아우딘퓨쳐스",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-08-28"
+        }
+      ],
+      "riskScore": 20,
+      "recentDisclosures": [
+        {
+          "date": "20260828",
+          "rceptNo": "20260828900723",
+          "title": "[기재정정]최대주주변경을수반하는주식담보제공계약체결              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "003780",
       "corpCode": "00150439",
       "name": "진양산업",
@@ -1367,29 +1413,6 @@
       ]
     },
     {
-      "stockCode": "005820",
-      "corpCode": "00143794",
-      "name": "원림",
-      "totalDisclosures": 1,
-      "signals": [
-        {
-          "rule": "대주주변경",
-          "weight": 20,
-          "count": 1,
-          "latestDate": "2026-08-24"
-        }
-      ],
-      "riskScore": 20,
-      "recentDisclosures": [
-        {
-          "date": "20260824",
-          "rceptNo": "20260824800661",
-          "title": "최대주주등소유주식변동신고서              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
       "stockCode": "215790",
       "corpCode": "01065679",
       "name": "이노인스트루먼트",
@@ -1605,24 +1628,47 @@
       ]
     },
     {
-      "stockCode": "032300",
-      "corpCode": "00187770",
-      "name": "한국파마",
-      "totalDisclosures": 1,
-      "signals": [
-        {
-          "rule": "CB발행",
-          "weight": 10,
-          "count": 1,
-          "latestDate": "2026-08-28"
-        }
-      ],
-      "riskScore": 10,
+      "stockCode": "034730",
+      "corpCode": "00181712",
+      "name": "SK",
+      "totalDisclosures": 6,
+      "signals": [],
+      "riskScore": 0,
       "recentDisclosures": [
         {
-          "date": "20260828",
-          "rceptNo": "20260828900465",
-          "title": "전환사채(해외전환사채포함)발행후만기전사채취득              ",
+          "date": "20260825",
+          "rceptNo": "20260825000473",
+          "title": "주요사항보고서(자기주식처분결정)",
+          "type": "B"
+        },
+        {
+          "date": "20260827",
+          "rceptNo": "20260827800685",
+          "title": "타법인주식및출자증권처분결정(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
+        {
+          "date": "20260827",
+          "rceptNo": "20260827800149",
+          "title": "주요사항보고서(자기주식처분결정)(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
+        {
+          "date": "20260826",
+          "rceptNo": "20260826800742",
+          "title": "지주회사의자회사탈퇴(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
+        {
+          "date": "20260826",
+          "rceptNo": "20260826800334",
+          "title": "[기재정정]주요사항보고서(회사합병결정)(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
+        {
+          "date": "20260825",
+          "rceptNo": "20260825800615",
+          "title": "주요사항보고서(회사합병결정)(자회사의 주요경영사항)              ",
           "type": "I"
         }
       ]
@@ -2659,40 +2705,6 @@
           "date": "20260821",
           "rceptNo": "20260821900242",
           "title": "주주명부폐쇄기간또는기준일설정              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "134580",
-      "corpCode": "00608699",
-      "name": "탑코미디어",
-      "totalDisclosures": 4,
-      "signals": [],
-      "riskScore": 0,
-      "recentDisclosures": [
-        {
-          "date": "20260828",
-          "rceptNo": "20260828900910",
-          "title": "교환청구권행사              ",
-          "type": "I"
-        },
-        {
-          "date": "20260826",
-          "rceptNo": "20260826900731",
-          "title": "교환청구권행사              ",
-          "type": "I"
-        },
-        {
-          "date": "20260825",
-          "rceptNo": "20260825900604",
-          "title": "[첨부정정]주주총회소집결의              ",
-          "type": "I"
-        },
-        {
-          "date": "20260825",
-          "rceptNo": "20260825900697",
-          "title": "교환청구권행사              ",
           "type": "I"
         }
       ]
