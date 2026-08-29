@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T20:47:13.863Z",
+  "generatedAt": "2026-08-29T06:44:08.919Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,16 +11,9 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 12,
-    "totalSignals": 40,
+    "highRiskCount": 10,
+    "totalSignals": 34,
     "topRisks": [
-      {
-        "name": "고려아연",
-        "score": 75,
-        "signals": [
-          "소송/분쟁"
-        ]
-      },
       {
         "name": "유니온머티리얼",
         "score": 70,
@@ -45,13 +38,6 @@
         ]
       },
       {
-        "name": "진양화학",
-        "score": 60,
-        "signals": [
-          "대주주변경"
-        ]
-      },
-      {
         "name": "나노씨엠에스",
         "score": 60,
         "signals": [
@@ -67,10 +53,24 @@
         ]
       },
       {
+        "name": "고려아연",
+        "score": 50,
+        "signals": [
+          "소송/분쟁"
+        ]
+      },
+      {
         "name": "삼천리자전거",
         "score": 40,
         "signals": [
           "횡령/배임"
+        ]
+      },
+      {
+        "name": "진양화학",
+        "score": 40,
+        "signals": [
+          "대주주변경"
         ]
       },
       {
