@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T14:21:09.007Z",
+  "generatedAt": "2026-08-31T05:01:29.898Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -12,7 +12,7 @@
   "companies": {},
   "dailyReport": {
     "highRiskCount": 10,
-    "totalSignals": 34,
+    "totalSignals": 35,
     "topRisks": [
       {
         "name": "유니온머티리얼",

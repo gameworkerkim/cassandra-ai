@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-30T14:21:09.006Z",
+  "generatedAt": "2026-08-31T05:01:29.897Z",
   "period": {
-    "from": "20260823",
-    "to": "20260830"
+    "from": "20260824",
+    "to": "20260831"
   },
-  "totalCompanies": 75,
-  "totalDisclosures": 142,
+  "totalCompanies": 80,
+  "totalDisclosures": 152,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -163,7 +163,7 @@
       "stockCode": "010640",
       "corpCode": "00160375",
       "name": "진양폴리우레탄",
-      "totalDisclosures": 6,
+      "totalDisclosures": 7,
       "signals": [
         {
           "rule": "대주주변경",
@@ -174,6 +174,12 @@
       ],
       "riskScore": 60,
       "recentDisclosures": [
+        {
+          "date": "20260831",
+          "rceptNo": "20260831000743",
+          "title": "[기재정정]주요사항보고서(유형자산양수결정)",
+          "type": "B"
+        },
         {
           "date": "20260825",
           "rceptNo": "20260825000437",
@@ -545,7 +551,7 @@
       "stockCode": "010640",
       "corpCode": "00160375",
       "name": "진양폴리우레탄",
-      "totalDisclosures": 6,
+      "totalDisclosures": 7,
       "signals": [
         {
           "rule": "대주주변경",
@@ -556,6 +562,12 @@
       ],
       "riskScore": 60,
       "recentDisclosures": [
+        {
+          "date": "20260831",
+          "rceptNo": "20260831000743",
+          "title": "[기재정정]주요사항보고서(유형자산양수결정)",
+          "type": "B"
+        },
         {
           "date": "20260825",
           "rceptNo": "20260825000437",
@@ -1267,6 +1279,29 @@
       ]
     },
     {
+      "stockCode": "273060",
+      "corpCode": "01236532",
+      "name": "와이즈버즈",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "CB발행",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-08-31"
+        }
+      ],
+      "riskScore": 10,
+      "recentDisclosures": [
+        {
+          "date": "20260831",
+          "rceptNo": "20260831900134",
+          "title": "전환사채(해외전환사채포함)발행후만기전사채취득              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "138610",
       "corpCode": "00767628",
       "name": "나이벡",
@@ -1479,13 +1514,35 @@
       ]
     },
     {
-      "stockCode": "250930",
-      "corpCode": "01166109",
-      "name": "예선테크",
-      "totalDisclosures": 2,
+      "stockCode": "438700",
+      "corpCode": "01605529",
+      "name": "버넥트",
+      "totalDisclosures": 1,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20260831",
+          "rceptNo": "20260831900209",
+          "title": "단일판매ㆍ공급계약체결              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "250930",
+      "corpCode": "01166109",
+      "name": "예선테크",
+      "totalDisclosures": 3,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260831",
+          "rceptNo": "20260831900155",
+          "title": "주식소각결정              ",
+          "type": "I"
+        },
         {
           "date": "20260825",
           "rceptNo": "20260825900143",
@@ -1539,13 +1596,35 @@
       ]
     },
     {
-      "stockCode": "263050",
-      "corpCode": "01110678",
-      "name": "유틸렉스",
-      "totalDisclosures": 2,
+      "stockCode": "016610",
+      "corpCode": "00115694",
+      "name": "DB증권",
+      "totalDisclosures": 1,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20260831",
+          "rceptNo": "20260831800228",
+          "title": "기업가치제고계획(자율공시)              (2026년 이행현황)",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "263050",
+      "corpCode": "01110678",
+      "name": "유틸렉스",
+      "totalDisclosures": 3,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260831",
+          "rceptNo": "20260831900088",
+          "title": "[기재정정]대표이사변경              ",
+          "type": "I"
+        },
         {
           "date": "20260828",
           "rceptNo": "20260828900729",
@@ -1627,6 +1706,22 @@
       ]
     },
     {
+      "stockCode": "011370",
+      "corpCode": "00131504",
+      "name": "서한",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260831",
+          "rceptNo": "20260831900184",
+          "title": "단일판매ㆍ공급계약체결              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "194480",
       "corpCode": "01008762",
       "name": "데브시스터즈",
@@ -1702,6 +1797,22 @@
           "date": "20260825",
           "rceptNo": "20260825900260",
           "title": "기업설명회(IR)개최              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "196170",
+      "corpCode": "00989619",
+      "name": "알테오젠",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260831",
+          "rceptNo": "20260831900176",
+          "title": "투자판단관련주요경영사항              (ALT-B4 라이선스 계약 파트너사 MSD로부터 판매 마일스톤 수령 예정)",
           "type": "I"
         }
       ]
@@ -1844,10 +1955,16 @@
       "stockCode": "267250",
       "corpCode": "01205709",
       "name": "HD현대",
-      "totalDisclosures": 3,
+      "totalDisclosures": 4,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20260831",
+          "rceptNo": "20260831800069",
+          "title": "중대재해발생(종속회사의주요경영사항)              ",
+          "type": "I"
+        },
         {
           "date": "20260825",
           "rceptNo": "20260825800677",
@@ -2096,10 +2213,16 @@
       "stockCode": "002020",
       "corpCode": "00152862",
       "name": "코오롱",
-      "totalDisclosures": 3,
+      "totalDisclosures": 4,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20260831",
+          "rceptNo": "20260831800003",
+          "title": "중대재해발생(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
         {
           "date": "20260825",
           "rceptNo": "20260825800683",
