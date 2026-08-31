@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T05:01:29.898Z",
+  "generatedAt": "2026-08-31T16:48:15.259Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,9 +11,16 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 10,
-    "totalSignals": 35,
+    "highRiskCount": 14,
+    "totalSignals": 47,
     "topRisks": [
+      {
+        "name": "고려아연",
+        "score": 75,
+        "signals": [
+          "소송/분쟁"
+        ]
+      },
       {
         "name": "유니온머티리얼",
         "score": 70,
@@ -53,10 +60,17 @@
         ]
       },
       {
-        "name": "고려아연",
+        "name": "대호에이엘",
         "score": 50,
         "signals": [
           "소송/분쟁"
+        ]
+      },
+      {
+        "name": "퓨릿",
+        "score": 40,
+        "signals": [
+          "횡령/배임"
         ]
       },
       {
@@ -71,20 +85,6 @@
         "score": 40,
         "signals": [
           "대주주변경"
-        ]
-      },
-      {
-        "name": "아스트",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "더라미",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
         ]
       }
     ]

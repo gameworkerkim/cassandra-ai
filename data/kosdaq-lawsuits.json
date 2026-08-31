@@ -1,15 +1,15 @@
 [
   {
-    "rank": 3,
+    "rank": 17,
     "name": "한국비엔씨",
     "code": "256840",
-    "price": "2,600",
-    "change": "+190 (+7.88%)",
-    "changePercent": 7.88,
-    "volume": "9,005,556",
-    "volumeRaw": 9005556,
-    "marketCap": "1778억",
-    "marketCapRaw": 1778,
+    "price": "2,650",
+    "change": "+240 (+9.96%)",
+    "changePercent": 9.96,
+    "volume": "9,796,649",
+    "volumeRaw": 9796649,
+    "marketCap": "1812억",
+    "marketCapRaw": 1812,
     "flags": {
       "hasNameChange": false,
       "hasMajorHolderChange": false,
