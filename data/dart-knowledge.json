@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T16:48:15.259Z",
+  "generatedAt": "2026-09-01T04:39:42.227Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,37 +11,14 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 14,
-    "totalSignals": 47,
+    "highRiskCount": 11,
+    "totalSignals": 43,
     "topRisks": [
       {
         "name": "고려아연",
         "score": 75,
         "signals": [
           "소송/분쟁"
-        ]
-      },
-      {
-        "name": "유니온머티리얼",
-        "score": 70,
-        "signals": [
-          "대주주변경",
-          "증자/감자"
-        ]
-      },
-      {
-        "name": "헝셩그룹",
-        "score": 65,
-        "signals": [
-          "증자/감자",
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "진양폴리우레탄",
-        "score": 60,
-        "signals": [
-          "대주주변경"
         ]
       },
       {
@@ -60,10 +37,11 @@
         ]
       },
       {
-        "name": "대호에이엘",
+        "name": "유니온머티리얼",
         "score": 50,
         "signals": [
-          "소송/분쟁"
+          "대주주변경",
+          "증자/감자"
         ]
       },
       {
@@ -74,6 +52,13 @@
         ]
       },
       {
+        "name": "진양폴리우레탄",
+        "score": 40,
+        "signals": [
+          "대주주변경"
+        ]
+      },
+      {
         "name": "삼천리자전거",
         "score": 40,
         "signals": [
@@ -81,10 +66,24 @@
         ]
       },
       {
-        "name": "진양화학",
-        "score": 40,
+        "name": "아스트",
+        "score": 35,
         "signals": [
-          "대주주변경"
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "더라미",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "서한",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
         ]
       }
     ]
