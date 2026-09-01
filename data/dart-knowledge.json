@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T04:39:42.227Z",
+  "generatedAt": "2026-09-01T14:00:45.148Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 11,
-    "totalSignals": 43,
+    "highRiskCount": 12,
+    "totalSignals": 48,
     "topRisks": [
       {
         "name": "고려아연",
@@ -66,6 +66,14 @@
         ]
       },
       {
+        "name": "본느",
+        "score": 35,
+        "signals": [
+          "소송/분쟁",
+          "증자/감자"
+        ]
+      },
+      {
         "name": "아스트",
         "score": 35,
         "signals": [
@@ -74,13 +82,6 @@
       },
       {
         "name": "더라미",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "서한",
         "score": 35,
         "signals": [
           "상장폐지위험"
