@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "rank": 13,
+    "name": "한국비엔씨",
+    "code": "256840",
+    "price": "2,705",
+    "change": "-80 (-2.87%)",
+    "changePercent": -2.87,
+    "volume": "3,761,396",
+    "volumeRaw": 3761396,
+    "marketCap": "1850억",
+    "marketCapRaw": 1850,
+    "flags": {
+      "hasNameChange": false,
+      "hasMajorHolderChange": false,
+      "hasPurposeAddition": false,
+      "hasLawsuit": true,
+      "lawsuitDetail": "기타경영사항(자율공시)              (의약품 회수·폐기 및 잠정 제조중지 등 명령 취소 소송 상고심 판결)",
+      "hasCB": false,
+      "cbCount": 0,
+      "volatilityScore": 25
+    }
+  }
+]

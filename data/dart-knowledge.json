@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T14:00:45.148Z",
+  "generatedAt": "2026-09-02T04:02:16.141Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,16 +11,9 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 12,
-    "totalSignals": 48,
+    "highRiskCount": 13,
+    "totalSignals": 46,
     "topRisks": [
-      {
-        "name": "고려아연",
-        "score": 75,
-        "signals": [
-          "소송/분쟁"
-        ]
-      },
       {
         "name": "나노씨엠에스",
         "score": 60,
@@ -30,18 +23,10 @@
         ]
       },
       {
-        "name": "리파인",
-        "score": 60,
-        "signals": [
-          "대주주변경"
-        ]
-      },
-      {
-        "name": "유니온머티리얼",
+        "name": "고려아연",
         "score": 50,
         "signals": [
-          "대주주변경",
-          "증자/감자"
+          "소송/분쟁"
         ]
       },
       {
@@ -63,6 +48,20 @@
         "score": 40,
         "signals": [
           "횡령/배임"
+        ]
+      },
+      {
+        "name": "리파인",
+        "score": 40,
+        "signals": [
+          "대주주변경"
+        ]
+      },
+      {
+        "name": "한국캐피탈",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
         ]
       },
       {
