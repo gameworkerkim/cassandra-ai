@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T13:20:45.987Z",
+  "generatedAt": "2026-09-03T04:01:15.711Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 15,
-    "totalSignals": 50,
+    "highRiskCount": 11,
+    "totalSignals": 48,
     "topRisks": [
       {
         "name": "나노씨엠에스",
@@ -20,13 +20,6 @@
         "signals": [
           "대주주변경",
           "증자/감자"
-        ]
-      },
-      {
-        "name": "고려아연",
-        "score": 50,
-        "signals": [
-          "소송/분쟁"
         ]
       },
       {
@@ -52,13 +45,6 @@
         ]
       },
       {
-        "name": "진양폴리우레탄",
-        "score": 40,
-        "signals": [
-          "대주주변경"
-        ]
-      },
-      {
         "name": "삼천리자전거",
         "score": 40,
         "signals": [
@@ -73,18 +59,32 @@
         ]
       },
       {
-        "name": "한국캐피탈",
+        "name": "본느",
+        "score": 35,
+        "signals": [
+          "소송/분쟁",
+          "증자/감자"
+        ]
+      },
+      {
+        "name": "아스트",
         "score": 35,
         "signals": [
           "상장폐지위험"
         ]
       },
       {
-        "name": "본느",
+        "name": "더라미",
         "score": 35,
         "signals": [
-          "소송/분쟁",
-          "증자/감자"
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "서한",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
         ]
       }
     ]
