@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T04:01:15.711Z",
+  "generatedAt": "2026-09-03T13:19:50.123Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,9 +11,17 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 11,
-    "totalSignals": 48,
+    "highRiskCount": 13,
+    "totalSignals": 50,
     "topRisks": [
+      {
+        "name": "본느",
+        "score": 85,
+        "signals": [
+          "소송/분쟁",
+          "증자/감자"
+        ]
+      },
       {
         "name": "나노씨엠에스",
         "score": 60,
@@ -52,18 +60,17 @@
         ]
       },
       {
-        "name": "리파인",
+        "name": "토니모리",
         "score": 40,
         "signals": [
           "대주주변경"
         ]
       },
       {
-        "name": "본느",
-        "score": 35,
+        "name": "리파인",
+        "score": 40,
         "signals": [
-          "소송/분쟁",
-          "증자/감자"
+          "대주주변경"
         ]
       },
       {
@@ -75,13 +82,6 @@
       },
       {
         "name": "더라미",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "서한",
         "score": 35,
         "signals": [
           "상장폐지위험"

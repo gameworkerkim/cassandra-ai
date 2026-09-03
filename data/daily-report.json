@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-03T04:01:15.710Z",
+  "generatedAt": "2026-09-03T13:19:50.122Z",
   "period": {
     "from": "20260827",
     "to": "20260903"
   },
-  "totalCompanies": 99,
-  "totalDisclosures": 151,
+  "totalCompanies": 104,
+  "totalDisclosures": 169,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -60,6 +60,71 @@
   ],
   "highRisk": [
     {
+      "stockCode": "226340",
+      "corpCode": "01098792",
+      "name": "본느",
+      "totalDisclosures": 7,
+      "signals": [
+        {
+          "rule": "소송/분쟁",
+          "weight": 75,
+          "count": 4,
+          "latestDate": "2026-09-03"
+        },
+        {
+          "rule": "증자/감자",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-09-01"
+        }
+      ],
+      "riskScore": 85,
+      "recentDisclosures": [
+        {
+          "date": "20260903",
+          "rceptNo": "20260903000258",
+          "title": "[기재정정]주요사항보고서(소송등의제기)",
+          "type": "B"
+        },
+        {
+          "date": "20260903",
+          "rceptNo": "20260903000251",
+          "title": "주요사항보고서(소송등의제기)",
+          "type": "B"
+        },
+        {
+          "date": "20260903",
+          "rceptNo": "20260903000204",
+          "title": "주요사항보고서(소송등의제기)",
+          "type": "B"
+        },
+        {
+          "date": "20260901",
+          "rceptNo": "20260901000157",
+          "title": "[기재정정]주요사항보고서(유상증자결정)",
+          "type": "B"
+        },
+        {
+          "date": "20260901",
+          "rceptNo": "20260901900198",
+          "title": "소송등의판결ㆍ결정              (신주발행금지 등 가처분)",
+          "type": "I"
+        },
+        {
+          "date": "20260828",
+          "rceptNo": "20260828900571",
+          "title": "증권발행결과(자율공시)              (제6회차 CB)",
+          "type": "I"
+        },
+        {
+          "date": "20260828",
+          "rceptNo": "20260828900566",
+          "title": "증권발행결과(자율공시)              (제5회차 CB)",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "247660",
       "corpCode": "00660459",
       "name": "나노씨엠에스",
@@ -229,6 +294,35 @@
       ]
     },
     {
+      "stockCode": "214420",
+      "corpCode": "00816544",
+      "name": "토니모리",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 40,
+          "count": 2,
+          "latestDate": "2026-09-03"
+        }
+      ],
+      "riskScore": 40,
+      "recentDisclosures": [
+        {
+          "date": "20260903",
+          "rceptNo": "20260903800469",
+          "title": "최대주주변경              ",
+          "type": "I"
+        },
+        {
+          "date": "20260903",
+          "rceptNo": "20260903800415",
+          "title": "최대주주등소유주식변동신고서(최대주주변경시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "377450",
       "corpCode": "01210066",
       "name": "리파인",
@@ -253,53 +347,6 @@
           "date": "20260827",
           "rceptNo": "20260827900704",
           "title": "최대주주변경을수반하는주식담보제공계약해제ㆍ취소등              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "226340",
-      "corpCode": "01098792",
-      "name": "본느",
-      "totalDisclosures": 4,
-      "signals": [
-        {
-          "rule": "소송/분쟁",
-          "weight": 25,
-          "count": 1,
-          "latestDate": "2026-09-01"
-        },
-        {
-          "rule": "증자/감자",
-          "weight": 10,
-          "count": 1,
-          "latestDate": "2026-09-01"
-        }
-      ],
-      "riskScore": 35,
-      "recentDisclosures": [
-        {
-          "date": "20260901",
-          "rceptNo": "20260901000157",
-          "title": "[기재정정]주요사항보고서(유상증자결정)",
-          "type": "B"
-        },
-        {
-          "date": "20260901",
-          "rceptNo": "20260901900198",
-          "title": "소송등의판결ㆍ결정              (신주발행금지 등 가처분)",
-          "type": "I"
-        },
-        {
-          "date": "20260828",
-          "rceptNo": "20260828900571",
-          "title": "증권발행결과(자율공시)              (제6회차 CB)",
-          "type": "I"
-        },
-        {
-          "date": "20260828",
-          "rceptNo": "20260828900566",
-          "title": "증권발행결과(자율공시)              (제5회차 CB)",
           "type": "I"
         }
       ]
@@ -398,6 +445,59 @@
           "date": "20260831",
           "rceptNo": "20260831900803",
           "title": "기타시장안내(관리종목지정우려종목)              (시가총액 200억원 미달)",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "223220",
+      "corpCode": "01060735",
+      "name": "로지스몬",
+      "totalDisclosures": 6,
+      "signals": [
+        {
+          "rule": "증자/감자",
+          "weight": 30,
+          "count": 3,
+          "latestDate": "2026-09-03"
+        }
+      ],
+      "riskScore": 30,
+      "recentDisclosures": [
+        {
+          "date": "20260903",
+          "rceptNo": "20260903000343",
+          "title": "[기재정정]주요사항보고서(유상증자결정)",
+          "type": "B"
+        },
+        {
+          "date": "20260901",
+          "rceptNo": "20260901000339",
+          "title": "주요사항보고서(유상증자결정)",
+          "type": "B"
+        },
+        {
+          "date": "20260903",
+          "rceptNo": "20260903600628",
+          "title": "주주명부폐쇄기간또는기준일설정              ",
+          "type": "I"
+        },
+        {
+          "date": "20260903",
+          "rceptNo": "20260903600627",
+          "title": "주주총회소집결의              ",
+          "type": "I"
+        },
+        {
+          "date": "20260903",
+          "rceptNo": "20260903600562",
+          "title": "유상증자최종발행가액확정              (일반소액공모)",
+          "type": "I"
+        },
+        {
+          "date": "20260901",
+          "rceptNo": "20260901600683",
+          "title": "본점소재지변경              ",
           "type": "I"
         }
       ]
@@ -405,6 +505,71 @@
   ],
   "companies": [
     {
+      "stockCode": "226340",
+      "corpCode": "01098792",
+      "name": "본느",
+      "totalDisclosures": 7,
+      "signals": [
+        {
+          "rule": "소송/분쟁",
+          "weight": 75,
+          "count": 4,
+          "latestDate": "2026-09-03"
+        },
+        {
+          "rule": "증자/감자",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-09-01"
+        }
+      ],
+      "riskScore": 85,
+      "recentDisclosures": [
+        {
+          "date": "20260903",
+          "rceptNo": "20260903000258",
+          "title": "[기재정정]주요사항보고서(소송등의제기)",
+          "type": "B"
+        },
+        {
+          "date": "20260903",
+          "rceptNo": "20260903000251",
+          "title": "주요사항보고서(소송등의제기)",
+          "type": "B"
+        },
+        {
+          "date": "20260903",
+          "rceptNo": "20260903000204",
+          "title": "주요사항보고서(소송등의제기)",
+          "type": "B"
+        },
+        {
+          "date": "20260901",
+          "rceptNo": "20260901000157",
+          "title": "[기재정정]주요사항보고서(유상증자결정)",
+          "type": "B"
+        },
+        {
+          "date": "20260901",
+          "rceptNo": "20260901900198",
+          "title": "소송등의판결ㆍ결정              (신주발행금지 등 가처분)",
+          "type": "I"
+        },
+        {
+          "date": "20260828",
+          "rceptNo": "20260828900571",
+          "title": "증권발행결과(자율공시)              (제6회차 CB)",
+          "type": "I"
+        },
+        {
+          "date": "20260828",
+          "rceptNo": "20260828900566",
+          "title": "증권발행결과(자율공시)              (제5회차 CB)",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "247660",
       "corpCode": "00660459",
       "name": "나노씨엠에스",
@@ -574,6 +739,35 @@
       ]
     },
     {
+      "stockCode": "214420",
+      "corpCode": "00816544",
+      "name": "토니모리",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 40,
+          "count": 2,
+          "latestDate": "2026-09-03"
+        }
+      ],
+      "riskScore": 40,
+      "recentDisclosures": [
+        {
+          "date": "20260903",
+          "rceptNo": "20260903800469",
+          "title": "최대주주변경              ",
+          "type": "I"
+        },
+        {
+          "date": "20260903",
+          "rceptNo": "20260903800415",
+          "title": "최대주주등소유주식변동신고서(최대주주변경시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "377450",
       "corpCode": "01210066",
       "name": "리파인",
@@ -598,53 +792,6 @@
           "date": "20260827",
           "rceptNo": "20260827900704",
           "title": "최대주주변경을수반하는주식담보제공계약해제ㆍ취소등              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "226340",
-      "corpCode": "01098792",
-      "name": "본느",
-      "totalDisclosures": 4,
-      "signals": [
-        {
-          "rule": "소송/분쟁",
-          "weight": 25,
-          "count": 1,
-          "latestDate": "2026-09-01"
-        },
-        {
-          "rule": "증자/감자",
-          "weight": 10,
-          "count": 1,
-          "latestDate": "2026-09-01"
-        }
-      ],
-      "riskScore": 35,
-      "recentDisclosures": [
-        {
-          "date": "20260901",
-          "rceptNo": "20260901000157",
-          "title": "[기재정정]주요사항보고서(유상증자결정)",
-          "type": "B"
-        },
-        {
-          "date": "20260901",
-          "rceptNo": "20260901900198",
-          "title": "소송등의판결ㆍ결정              (신주발행금지 등 가처분)",
-          "type": "I"
-        },
-        {
-          "date": "20260828",
-          "rceptNo": "20260828900571",
-          "title": "증권발행결과(자율공시)              (제6회차 CB)",
-          "type": "I"
-        },
-        {
-          "date": "20260828",
-          "rceptNo": "20260828900566",
-          "title": "증권발행결과(자율공시)              (제5회차 CB)",
           "type": "I"
         }
       ]
@@ -743,6 +890,59 @@
           "date": "20260831",
           "rceptNo": "20260831900803",
           "title": "기타시장안내(관리종목지정우려종목)              (시가총액 200억원 미달)",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "223220",
+      "corpCode": "01060735",
+      "name": "로지스몬",
+      "totalDisclosures": 6,
+      "signals": [
+        {
+          "rule": "증자/감자",
+          "weight": 30,
+          "count": 3,
+          "latestDate": "2026-09-03"
+        }
+      ],
+      "riskScore": 30,
+      "recentDisclosures": [
+        {
+          "date": "20260903",
+          "rceptNo": "20260903000343",
+          "title": "[기재정정]주요사항보고서(유상증자결정)",
+          "type": "B"
+        },
+        {
+          "date": "20260901",
+          "rceptNo": "20260901000339",
+          "title": "주요사항보고서(유상증자결정)",
+          "type": "B"
+        },
+        {
+          "date": "20260903",
+          "rceptNo": "20260903600628",
+          "title": "주주명부폐쇄기간또는기준일설정              ",
+          "type": "I"
+        },
+        {
+          "date": "20260903",
+          "rceptNo": "20260903600627",
+          "title": "주주총회소집결의              ",
+          "type": "I"
+        },
+        {
+          "date": "20260903",
+          "rceptNo": "20260903600562",
+          "title": "유상증자최종발행가액확정              (일반소액공모)",
+          "type": "I"
+        },
+        {
+          "date": "20260901",
+          "rceptNo": "20260901600683",
+          "title": "본점소재지변경              ",
           "type": "I"
         }
       ]
@@ -1210,6 +1410,53 @@
       ]
     },
     {
+      "stockCode": "267250",
+      "corpCode": "01205709",
+      "name": "HD현대",
+      "totalDisclosures": 5,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-09-03"
+        }
+      ],
+      "riskScore": 20,
+      "recentDisclosures": [
+        {
+          "date": "20260903",
+          "rceptNo": "20260903800626",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        },
+        {
+          "date": "20260903",
+          "rceptNo": "20260903800541",
+          "title": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
+        {
+          "date": "20260902",
+          "rceptNo": "20260902800537",
+          "title": "[기재정정]타인에대한채무보증결정(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
+        {
+          "date": "20260902",
+          "rceptNo": "20260902800531",
+          "title": "[기재정정]타인에대한채무보증결정(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
+        {
+          "date": "20260831",
+          "rceptNo": "20260831800069",
+          "title": "중대재해발생(종속회사의주요경영사항)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "000180",
       "corpCode": "00133335",
       "name": "성창기업지주",
@@ -1459,35 +1706,6 @@
           "date": "20260831",
           "rceptNo": "20260831900134",
           "title": "전환사채(해외전환사채포함)발행후만기전사채취득              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "223220",
-      "corpCode": "01060735",
-      "name": "로지스몬",
-      "totalDisclosures": 2,
-      "signals": [
-        {
-          "rule": "증자/감자",
-          "weight": 10,
-          "count": 1,
-          "latestDate": "2026-09-01"
-        }
-      ],
-      "riskScore": 10,
-      "recentDisclosures": [
-        {
-          "date": "20260901",
-          "rceptNo": "20260901000339",
-          "title": "주요사항보고서(유상증자결정)",
-          "type": "B"
-        },
-        {
-          "date": "20260901",
-          "rceptNo": "20260901600683",
-          "title": "본점소재지변경              ",
           "type": "I"
         }
       ]
@@ -1872,10 +2090,16 @@
       "stockCode": "250930",
       "corpCode": "01166109",
       "name": "예선테크",
-      "totalDisclosures": 1,
+      "totalDisclosures": 2,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20260903",
+          "rceptNo": "20260903900193",
+          "title": "기업설명회(IR)개최              ",
+          "type": "I"
+        },
         {
           "date": "20260831",
           "rceptNo": "20260831900155",
@@ -1896,6 +2120,22 @@
           "date": "20260903",
           "rceptNo": "20260903800106",
           "title": "풍문또는보도에대한해명(미확정)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "005960",
+      "corpCode": "00115612",
+      "name": "동부건설",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260903",
+          "rceptNo": "20260903800512",
+          "title": "[기재정정]금전대여결정              ",
           "type": "I"
         }
       ]
@@ -1934,6 +2174,22 @@
           "date": "20260831",
           "rceptNo": "20260831900416",
           "title": "임시주주총회결과              (제25기)",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "073240",
+      "corpCode": "00481454",
+      "name": "금호타이어",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260903",
+          "rceptNo": "20260903800665",
+          "title": "임시주주총회결과              ",
           "type": "I"
         }
       ]
@@ -2072,10 +2328,16 @@
       "stockCode": "092040",
       "corpCode": "00545734",
       "name": "아미코젠",
-      "totalDisclosures": 2,
+      "totalDisclosures": 3,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20260903",
+          "rceptNo": "20260903900622",
+          "title": "불성실공시법인지정예고              (공시번복 2건)",
+          "type": "I"
+        },
         {
           "date": "20260831",
           "rceptNo": "20260831900815",
@@ -2139,6 +2401,22 @@
       ]
     },
     {
+      "stockCode": "047050",
+      "corpCode": "00124504",
+      "name": "포스코인터내셔널",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260903",
+          "rceptNo": "20260903800385",
+          "title": "기업설명회(IR)개최(안내공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "196170",
       "corpCode": "00989619",
       "name": "알테오젠",
@@ -2173,6 +2451,22 @@
           "rceptNo": "20260901900621",
           "title": "기업설명회(IR)개최              ",
           "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "413300",
+      "corpCode": "01583953",
+      "name": "티엘엔지니어링",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260903",
+          "rceptNo": "20260903000103",
+          "title": "[기재정정]주요사항보고서(유형자산양도결정)",
+          "type": "B"
         }
       ]
     },
@@ -2252,34 +2546,6 @@
           "date": "20260828",
           "rceptNo": "20260828900428",
           "title": "임시주주총회결과              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "267250",
-      "corpCode": "01205709",
-      "name": "HD현대",
-      "totalDisclosures": 3,
-      "signals": [],
-      "riskScore": 0,
-      "recentDisclosures": [
-        {
-          "date": "20260902",
-          "rceptNo": "20260902800537",
-          "title": "[기재정정]타인에대한채무보증결정(자회사의 주요경영사항)              ",
-          "type": "I"
-        },
-        {
-          "date": "20260902",
-          "rceptNo": "20260902800531",
-          "title": "[기재정정]타인에대한채무보증결정(자회사의 주요경영사항)              ",
-          "type": "I"
-        },
-        {
-          "date": "20260831",
-          "rceptNo": "20260831800069",
-          "title": "중대재해발생(종속회사의주요경영사항)              ",
           "type": "I"
         }
       ]
@@ -2482,10 +2748,16 @@
       "stockCode": "002020",
       "corpCode": "00152862",
       "name": "코오롱",
-      "totalDisclosures": 4,
+      "totalDisclosures": 5,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20260903",
+          "rceptNo": "20260903800414",
+          "title": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
         {
           "date": "20260831",
           "rceptNo": "20260831800896",

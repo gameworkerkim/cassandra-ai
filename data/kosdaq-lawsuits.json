@@ -1,15 +1,15 @@
 [
   {
-    "rank": 17,
+    "rank": 20,
     "name": "아이큐어",
     "code": "175250",
-    "price": "2,510",
-    "change": "-360 (-12.54%)",
-    "changePercent": -12.54,
-    "volume": "2,874,851",
-    "volumeRaw": 2874851,
-    "marketCap": "943억",
-    "marketCapRaw": 943,
+    "price": "2,110",
+    "change": "-760 (-26.48%)",
+    "changePercent": -26.48,
+    "volume": "3,481,923",
+    "volumeRaw": 3481923,
+    "marketCap": "792억",
+    "marketCapRaw": 792,
     "flags": {
       "hasNameChange": false,
       "hasMajorHolderChange": false,
