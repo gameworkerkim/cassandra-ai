@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T04:06:43.007Z",
+  "generatedAt": "2026-09-04T13:14:37.941Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 11,
-    "totalSignals": 42,
+    "highRiskCount": 13,
+    "totalSignals": 49,
     "topRisks": [
       {
         "name": "본느",
@@ -80,7 +80,7 @@
         ]
       },
       {
-        "name": "파인텍",
+        "name": "이브이첨단소재",
         "score": 35,
         "signals": [
           "상장폐지위험"
