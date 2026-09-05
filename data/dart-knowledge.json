@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T13:14:37.941Z",
+  "generatedAt": "2026-09-05T03:59:39.172Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 13,
-    "totalSignals": 49,
+    "highRiskCount": 12,
+    "totalSignals": 46,
     "topRisks": [
       {
         "name": "본느",
@@ -66,13 +66,6 @@
         ]
       },
       {
-        "name": "더라미",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
         "name": "서한",
         "score": 35,
         "signals": [
@@ -81,6 +74,13 @@
       },
       {
         "name": "이브이첨단소재",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "파인텍",
         "score": 35,
         "signals": [
           "상장폐지위험"
