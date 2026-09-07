@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T12:42:48.066Z",
+  "generatedAt": "2026-09-07T04:05:43.094Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 12,
-    "totalSignals": 46,
+    "highRiskCount": 13,
+    "totalSignals": 48,
     "topRisks": [
       {
         "name": "본느",
@@ -24,7 +24,7 @@
       },
       {
         "name": "고려아연",
-        "score": 50,
+        "score": 75,
         "signals": [
           "소송/분쟁"
         ]
@@ -52,6 +52,14 @@
         ]
       },
       {
+        "name": "계양전기",
+        "score": 40,
+        "signals": [
+          "CB발행",
+          "증자/감자"
+        ]
+      },
+      {
         "name": "진양화학",
         "score": 40,
         "signals": [
@@ -74,13 +82,6 @@
       },
       {
         "name": "이브이첨단소재",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "파인텍",
         "score": 35,
         "signals": [
           "상장폐지위험"

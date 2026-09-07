@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-06T12:42:48.065Z",
+  "generatedAt": "2026-09-07T04:05:43.093Z",
   "period": {
-    "from": "20260830",
-    "to": "20260906"
+    "from": "20260831",
+    "to": "20260907"
   },
   "totalCompanies": 93,
-  "totalDisclosures": 144,
+  "totalDisclosures": 147,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -116,17 +116,23 @@
       "stockCode": "010130",
       "corpCode": "00102858",
       "name": "고려아연",
-      "totalDisclosures": 2,
+      "totalDisclosures": 3,
       "signals": [
         {
           "rule": "소송/분쟁",
-          "weight": 50,
-          "count": 2,
-          "latestDate": "2026-09-04"
+          "weight": 75,
+          "count": 3,
+          "latestDate": "2026-09-07"
         }
       ],
-      "riskScore": 50,
+      "riskScore": 75,
       "recentDisclosures": [
+        {
+          "date": "20260907",
+          "rceptNo": "20260907800121",
+          "title": "소송등의판결ㆍ결정              ",
+          "type": "I"
+        },
         {
           "date": "20260904",
           "rceptNo": "20260904800002",
@@ -236,6 +242,47 @@
           "date": "20260831",
           "rceptNo": "20260831900414",
           "title": "횡령ㆍ배임혐의진행사항              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "012200",
+      "corpCode": "00102618",
+      "name": "계양전기",
+      "totalDisclosures": 3,
+      "signals": [
+        {
+          "rule": "CB발행",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-09-07"
+        },
+        {
+          "rule": "증자/감자",
+          "weight": 30,
+          "count": 3,
+          "latestDate": "2026-09-07"
+        }
+      ],
+      "riskScore": 40,
+      "recentDisclosures": [
+        {
+          "date": "20260901",
+          "rceptNo": "20260901000140",
+          "title": "[기재정정]주요사항보고서(유상증자결정)",
+          "type": "B"
+        },
+        {
+          "date": "20260907",
+          "rceptNo": "20260907800095",
+          "title": "유상증자또는주식관련사채등의청약결과(자율공시)              ",
+          "type": "I"
+        },
+        {
+          "date": "20260901",
+          "rceptNo": "20260901800201",
+          "title": "유상증자신주발행가액(안내공시)              ",
           "type": "I"
         }
       ]
@@ -514,17 +561,23 @@
       "stockCode": "010130",
       "corpCode": "00102858",
       "name": "고려아연",
-      "totalDisclosures": 2,
+      "totalDisclosures": 3,
       "signals": [
         {
           "rule": "소송/분쟁",
-          "weight": 50,
-          "count": 2,
-          "latestDate": "2026-09-04"
+          "weight": 75,
+          "count": 3,
+          "latestDate": "2026-09-07"
         }
       ],
-      "riskScore": 50,
+      "riskScore": 75,
       "recentDisclosures": [
+        {
+          "date": "20260907",
+          "rceptNo": "20260907800121",
+          "title": "소송등의판결ㆍ결정              ",
+          "type": "I"
+        },
         {
           "date": "20260904",
           "rceptNo": "20260904800002",
@@ -634,6 +687,47 @@
           "date": "20260831",
           "rceptNo": "20260831900414",
           "title": "횡령ㆍ배임혐의진행사항              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "012200",
+      "corpCode": "00102618",
+      "name": "계양전기",
+      "totalDisclosures": 3,
+      "signals": [
+        {
+          "rule": "CB발행",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-09-07"
+        },
+        {
+          "rule": "증자/감자",
+          "weight": 30,
+          "count": 3,
+          "latestDate": "2026-09-07"
+        }
+      ],
+      "riskScore": 40,
+      "recentDisclosures": [
+        {
+          "date": "20260901",
+          "rceptNo": "20260901000140",
+          "title": "[기재정정]주요사항보고서(유상증자결정)",
+          "type": "B"
+        },
+        {
+          "date": "20260907",
+          "rceptNo": "20260907800095",
+          "title": "유상증자또는주식관련사채등의청약결과(자율공시)              ",
+          "type": "I"
+        },
+        {
+          "date": "20260901",
+          "rceptNo": "20260901800201",
+          "title": "유상증자신주발행가액(안내공시)              ",
           "type": "I"
         }
       ]
@@ -1079,6 +1173,35 @@
       ]
     },
     {
+      "stockCode": "010400",
+      "corpCode": "00143262",
+      "name": "우진아이엔에스",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-09-07"
+        }
+      ],
+      "riskScore": 20,
+      "recentDisclosures": [
+        {
+          "date": "20260907",
+          "rceptNo": "20260907800133",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        },
+        {
+          "date": "20260901",
+          "rceptNo": "20260901800132",
+          "title": "타법인주식및출자증권처분결정              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "034730",
       "corpCode": "00181712",
       "name": "SK",
@@ -1149,35 +1272,6 @@
           "date": "20260831",
           "rceptNo": "20260831900520",
           "title": "[기재정정]최대주주변경을수반하는주식담보제공계약체결              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "012200",
-      "corpCode": "00102618",
-      "name": "계양전기",
-      "totalDisclosures": 2,
-      "signals": [
-        {
-          "rule": "증자/감자",
-          "weight": 20,
-          "count": 2,
-          "latestDate": "2026-09-01"
-        }
-      ],
-      "riskScore": 20,
-      "recentDisclosures": [
-        {
-          "date": "20260901",
-          "rceptNo": "20260901000140",
-          "title": "[기재정정]주요사항보고서(유상증자결정)",
-          "type": "B"
-        },
-        {
-          "date": "20260901",
-          "rceptNo": "20260901800201",
-          "title": "유상증자신주발행가액(안내공시)              ",
           "type": "I"
         }
       ]
@@ -1781,22 +1875,6 @@
           "date": "20260904",
           "rceptNo": "20260904900105",
           "title": "신규시설투자등              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "010400",
-      "corpCode": "00143262",
-      "name": "우진아이엔에스",
-      "totalDisclosures": 1,
-      "signals": [],
-      "riskScore": 0,
-      "recentDisclosures": [
-        {
-          "date": "20260901",
-          "rceptNo": "20260901800132",
-          "title": "타법인주식및출자증권처분결정              ",
           "type": "I"
         }
       ]
