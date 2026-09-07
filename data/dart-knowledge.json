@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T04:05:43.094Z",
+  "generatedAt": "2026-09-07T14:53:03.907Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,13 +11,14 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 13,
-    "totalSignals": 48,
+    "highRiskCount": 16,
+    "totalSignals": 54,
     "topRisks": [
       {
         "name": "본느",
-        "score": 85,
+        "score": 100,
         "signals": [
+          "대주주변경",
           "소송/분쟁",
           "증자/감자"
         ]
@@ -27,6 +28,15 @@
         "score": 75,
         "signals": [
           "소송/분쟁"
+        ]
+      },
+      {
+        "name": "서울식품공업",
+        "score": 45,
+        "signals": [
+          "대주주변경",
+          "CB발행",
+          "CB리픽싱"
         ]
       },
       {
@@ -67,24 +77,17 @@
         ]
       },
       {
-        "name": "토니모리",
+        "name": "DB증권",
         "score": 40,
         "signals": [
           "대주주변경"
         ]
       },
       {
-        "name": "서한",
-        "score": 35,
+        "name": "토니모리",
+        "score": 40,
         "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "이브이첨단소재",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
+          "대주주변경"
         ]
       }
     ]

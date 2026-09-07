@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-07T04:05:43.093Z",
+  "generatedAt": "2026-09-07T14:53:03.906Z",
   "period": {
     "from": "20260831",
     "to": "20260907"
   },
-  "totalCompanies": 93,
-  "totalDisclosures": 147,
+  "totalCompanies": 99,
+  "totalDisclosures": 161,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -63,8 +63,14 @@
       "stockCode": "226340",
       "corpCode": "01098792",
       "name": "본느",
-      "totalDisclosures": 5,
+      "totalDisclosures": 6,
       "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-09-07"
+        },
         {
           "rule": "소송/분쟁",
           "weight": 75,
@@ -78,7 +84,7 @@
           "latestDate": "2026-09-01"
         }
       ],
-      "riskScore": 85,
+      "riskScore": 100,
       "recentDisclosures": [
         {
           "date": "20260903",
@@ -103,6 +109,12 @@
           "rceptNo": "20260901000157",
           "title": "[기재정정]주요사항보고서(유상증자결정)",
           "type": "B"
+        },
+        {
+          "date": "20260907",
+          "rceptNo": "20260907900199",
+          "title": "[기재정정]최대주주변경을수반하는주식양수도계약체결              ",
+          "type": "I"
         },
         {
           "date": "20260901",
@@ -143,6 +155,47 @@
           "date": "20260831",
           "rceptNo": "20260831800412",
           "title": "소송등의판결ㆍ결정              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "004410",
+      "corpCode": "00130879",
+      "name": "서울식품공업",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-09-07"
+        },
+        {
+          "rule": "CB발행",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-08-31"
+        },
+        {
+          "rule": "CB리픽싱",
+          "weight": 15,
+          "count": 1,
+          "latestDate": "2026-08-31"
+        }
+      ],
+      "riskScore": 45,
+      "recentDisclosures": [
+        {
+          "date": "20260907",
+          "rceptNo": "20260907800499",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        },
+        {
+          "date": "20260831",
+          "rceptNo": "20260831800449",
+          "title": "전환가액ㆍ신주인수권행사가액ㆍ교환가액의조정(안내공시)              ",
           "type": "I"
         }
       ]
@@ -317,6 +370,41 @@
       ]
     },
     {
+      "stockCode": "016610",
+      "corpCode": "00115694",
+      "name": "DB증권",
+      "totalDisclosures": 3,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 40,
+          "count": 2,
+          "latestDate": "2026-09-07"
+        }
+      ],
+      "riskScore": 40,
+      "recentDisclosures": [
+        {
+          "date": "20260907",
+          "rceptNo": "20260907800452",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        },
+        {
+          "date": "20260831",
+          "rceptNo": "20260831800701",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        },
+        {
+          "date": "20260831",
+          "rceptNo": "20260831800228",
+          "title": "기업가치제고계획(자율공시)              (2026년 이행현황)",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "214420",
       "corpCode": "00816544",
       "name": "토니모리",
@@ -416,6 +504,29 @@
           "date": "20260831",
           "rceptNo": "20260831900803",
           "title": "기타시장안내(관리종목지정우려종목)              (시가총액 200억원 미달)",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "056090",
+      "corpCode": "00346610",
+      "name": "시지메드텍",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "상장폐지위험",
+          "weight": 35,
+          "count": 1,
+          "latestDate": "2026-09-07"
+        }
+      ],
+      "riskScore": 35,
+      "recentDisclosures": [
+        {
+          "date": "20260907",
+          "rceptNo": "20260907900642",
+          "title": "주권매매거래정지              (주식의 병합, 분할 등 전자등록 변경, 말소)",
           "type": "I"
         }
       ]
@@ -508,8 +619,14 @@
       "stockCode": "226340",
       "corpCode": "01098792",
       "name": "본느",
-      "totalDisclosures": 5,
+      "totalDisclosures": 6,
       "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-09-07"
+        },
         {
           "rule": "소송/분쟁",
           "weight": 75,
@@ -523,7 +640,7 @@
           "latestDate": "2026-09-01"
         }
       ],
-      "riskScore": 85,
+      "riskScore": 100,
       "recentDisclosures": [
         {
           "date": "20260903",
@@ -548,6 +665,12 @@
           "rceptNo": "20260901000157",
           "title": "[기재정정]주요사항보고서(유상증자결정)",
           "type": "B"
+        },
+        {
+          "date": "20260907",
+          "rceptNo": "20260907900199",
+          "title": "[기재정정]최대주주변경을수반하는주식양수도계약체결              ",
+          "type": "I"
         },
         {
           "date": "20260901",
@@ -588,6 +711,47 @@
           "date": "20260831",
           "rceptNo": "20260831800412",
           "title": "소송등의판결ㆍ결정              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "004410",
+      "corpCode": "00130879",
+      "name": "서울식품공업",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-09-07"
+        },
+        {
+          "rule": "CB발행",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-08-31"
+        },
+        {
+          "rule": "CB리픽싱",
+          "weight": 15,
+          "count": 1,
+          "latestDate": "2026-08-31"
+        }
+      ],
+      "riskScore": 45,
+      "recentDisclosures": [
+        {
+          "date": "20260907",
+          "rceptNo": "20260907800499",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        },
+        {
+          "date": "20260831",
+          "rceptNo": "20260831800449",
+          "title": "전환가액ㆍ신주인수권행사가액ㆍ교환가액의조정(안내공시)              ",
           "type": "I"
         }
       ]
@@ -762,6 +926,41 @@
       ]
     },
     {
+      "stockCode": "016610",
+      "corpCode": "00115694",
+      "name": "DB증권",
+      "totalDisclosures": 3,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 40,
+          "count": 2,
+          "latestDate": "2026-09-07"
+        }
+      ],
+      "riskScore": 40,
+      "recentDisclosures": [
+        {
+          "date": "20260907",
+          "rceptNo": "20260907800452",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        },
+        {
+          "date": "20260831",
+          "rceptNo": "20260831800701",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        },
+        {
+          "date": "20260831",
+          "rceptNo": "20260831800228",
+          "title": "기업가치제고계획(자율공시)              (2026년 이행현황)",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "214420",
       "corpCode": "00816544",
       "name": "토니모리",
@@ -866,6 +1065,29 @@
       ]
     },
     {
+      "stockCode": "056090",
+      "corpCode": "00346610",
+      "name": "시지메드텍",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "상장폐지위험",
+          "weight": 35,
+          "count": 1,
+          "latestDate": "2026-09-07"
+        }
+      ],
+      "riskScore": 35,
+      "recentDisclosures": [
+        {
+          "date": "20260907",
+          "rceptNo": "20260907900642",
+          "title": "주권매매거래정지              (주식의 병합, 분할 등 전자등록 변경, 말소)",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "469750",
       "corpCode": "01516766",
       "name": "아이비젼웍스",
@@ -943,35 +1165,6 @@
           "date": "20260901",
           "rceptNo": "20260901600683",
           "title": "본점소재지변경              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "004410",
-      "corpCode": "00130879",
-      "name": "서울식품공업",
-      "totalDisclosures": 1,
-      "signals": [
-        {
-          "rule": "CB발행",
-          "weight": 10,
-          "count": 1,
-          "latestDate": "2026-08-31"
-        },
-        {
-          "rule": "CB리픽싱",
-          "weight": 15,
-          "count": 1,
-          "latestDate": "2026-08-31"
-        }
-      ],
-      "riskScore": 25,
-      "recentDisclosures": [
-        {
-          "date": "20260831",
-          "rceptNo": "20260831800449",
-          "title": "전환가액ㆍ신주인수권행사가액ㆍ교환가액의조정(안내공시)              ",
           "type": "I"
         }
       ]
@@ -1277,30 +1470,47 @@
       ]
     },
     {
-      "stockCode": "016610",
-      "corpCode": "00115694",
-      "name": "DB증권",
-      "totalDisclosures": 2,
+      "stockCode": "107590",
+      "corpCode": "00706715",
+      "name": "미원홀딩스",
+      "totalDisclosures": 1,
       "signals": [
         {
           "rule": "대주주변경",
           "weight": 20,
           "count": 1,
-          "latestDate": "2026-08-31"
+          "latestDate": "2026-09-07"
         }
       ],
       "riskScore": 20,
       "recentDisclosures": [
         {
-          "date": "20260831",
-          "rceptNo": "20260831800701",
+          "date": "20260907",
+          "rceptNo": "20260907800475",
           "title": "최대주주등소유주식변동신고서              ",
           "type": "I"
-        },
+        }
+      ]
+    },
+    {
+      "stockCode": "0126Z0",
+      "corpCode": "01965324",
+      "name": "삼성에피스홀딩스",
+      "totalDisclosures": 1,
+      "signals": [
         {
-          "date": "20260831",
-          "rceptNo": "20260831800228",
-          "title": "기업가치제고계획(자율공시)              (2026년 이행현황)",
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-09-07"
+        }
+      ],
+      "riskScore": 20,
+      "recentDisclosures": [
+        {
+          "date": "20260907",
+          "rceptNo": "20260907800490",
+          "title": "최대주주등소유주식변동신고서              ",
           "type": "I"
         }
       ]
@@ -1371,6 +1581,41 @@
           "date": "20260901",
           "rceptNo": "20260901800425",
           "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "207940",
+      "corpCode": "00877059",
+      "name": "삼성바이오로직스",
+      "totalDisclosures": 3,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-09-07"
+        }
+      ],
+      "riskScore": 20,
+      "recentDisclosures": [
+        {
+          "date": "20260907",
+          "rceptNo": "20260907800372",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        },
+        {
+          "date": "20260903",
+          "rceptNo": "20260903800071",
+          "title": "[기재정정]기업설명회(IR)개최(안내공시)              ",
+          "type": "I"
+        },
+        {
+          "date": "20260831",
+          "rceptNo": "20260831800556",
+          "title": "타법인주식및출자증권취득결정(종속회사의주요경영사항)              ",
           "type": "I"
         }
       ]
@@ -1823,10 +2068,22 @@
       "stockCode": "298050",
       "corpCode": "01316254",
       "name": "HS효성첨단소재",
-      "totalDisclosures": 2,
+      "totalDisclosures": 4,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20260907",
+          "rceptNo": "20260907800498",
+          "title": "타인에대한채무보증결정              ",
+          "type": "I"
+        },
+        {
+          "date": "20260907",
+          "rceptNo": "20260907800491",
+          "title": "타인에대한채무보증결정              ",
+          "type": "I"
+        },
         {
           "date": "20260904",
           "rceptNo": "20260904800679",
@@ -1838,6 +2095,22 @@
           "rceptNo": "20260831800838",
           "title": "[기재정정]타법인주식및출자증권취득결정              ",
           "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "023760",
+      "corpCode": "00149594",
+      "name": "한국캐피탈",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260907",
+          "rceptNo": "20260907000318",
+          "title": "주요사항보고서(자본으로인정되는채무증권발행결정)",
+          "type": "B"
         }
       ]
     },
@@ -1923,6 +2196,22 @@
           "date": "20260831",
           "rceptNo": "20260831900790",
           "title": "[기재정정]타법인주식및출자증권처분결정              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "002780",
+      "corpCode": "00150828",
+      "name": "진흥기업",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260907",
+          "rceptNo": "20260907800459",
+          "title": "[기재정정]단일판매ㆍ공급계약체결              ",
           "type": "I"
         }
       ]
@@ -2183,10 +2472,22 @@
       "stockCode": "089860",
       "corpCode": "00545716",
       "name": "롯데렌탈",
-      "totalDisclosures": 1,
+      "totalDisclosures": 3,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20260907",
+          "rceptNo": "20260907800211",
+          "title": "주주명부폐쇄기간또는기준일설정              ",
+          "type": "I"
+        },
+        {
+          "date": "20260907",
+          "rceptNo": "20260907800183",
+          "title": "주주총회소집결의              ",
+          "type": "I"
+        },
         {
           "date": "20260901",
           "rceptNo": "20260901800431",
@@ -2236,6 +2537,22 @@
           "rceptNo": "20260831900819",
           "title": "[기재정정]주주총회소집결의              (임시주주총회)",
           "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "045520",
+      "corpCode": "00185222",
+      "name": "크린앤사이언스",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260907",
+          "rceptNo": "20260907000134",
+          "title": "주요사항보고서(자기주식취득결정)",
+          "type": "B"
         }
       ]
     },
@@ -2493,28 +2810,6 @@
           "date": "20260901",
           "rceptNo": "20260901900241",
           "title": "단일판매ㆍ공급계약체결              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "207940",
-      "corpCode": "00877059",
-      "name": "삼성바이오로직스",
-      "totalDisclosures": 2,
-      "signals": [],
-      "riskScore": 0,
-      "recentDisclosures": [
-        {
-          "date": "20260903",
-          "rceptNo": "20260903800071",
-          "title": "[기재정정]기업설명회(IR)개최(안내공시)              ",
-          "type": "I"
-        },
-        {
-          "date": "20260831",
-          "rceptNo": "20260831800556",
-          "title": "타법인주식및출자증권취득결정(종속회사의주요경영사항)              ",
           "type": "I"
         }
       ]
