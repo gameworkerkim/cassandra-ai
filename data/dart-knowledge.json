@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T04:07:38.532Z",
+  "generatedAt": "2026-09-08T13:23:46.836Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,14 +11,22 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 11,
-    "totalSignals": 39,
+    "highRiskCount": 13,
+    "totalSignals": 41,
     "topRisks": [
       {
         "name": "본느",
         "score": 100,
         "signals": [
           "대주주변경",
+          "소송/분쟁",
+          "증자/감자"
+        ]
+      },
+      {
+        "name": "로지스몬",
+        "score": 55,
+        "signals": [
           "소송/분쟁",
           "증자/감자"
         ]
@@ -68,21 +76,14 @@
         ]
       },
       {
+        "name": "와이즈버즈",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
         "name": "이브이첨단소재",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "시지메드텍",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "아이비젼웍스",
         "score": 35,
         "signals": [
           "상장폐지위험"
