@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T04:11:23.733Z",
+  "generatedAt": "2026-09-10T13:23:50.048Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 11,
-    "totalSignals": 36,
+    "highRiskCount": 16,
+    "totalSignals": 41,
     "topRisks": [
       {
         "name": "본느",
@@ -36,6 +36,14 @@
         "score": 50,
         "signals": [
           "소송/분쟁"
+        ]
+      },
+      {
+        "name": "계양전기",
+        "score": 40,
+        "signals": [
+          "CB발행",
+          "증자/감자"
         ]
       },
       {
@@ -67,21 +75,14 @@
         ]
       },
       {
-        "name": "이브이첨단소재",
+        "name": "루멘스",
         "score": 35,
         "signals": [
           "상장폐지위험"
         ]
       },
       {
-        "name": "시지메드텍",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "아이비젼웍스",
+        "name": "신라섬유",
         "score": 35,
         "signals": [
           "상장폐지위험"
