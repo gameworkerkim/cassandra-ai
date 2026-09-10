@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T13:30:41.083Z",
+  "generatedAt": "2026-09-10T04:11:23.733Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 13,
-    "totalSignals": 43,
+    "highRiskCount": 11,
+    "totalSignals": 36,
     "topRisks": [
       {
         "name": "본느",
@@ -36,21 +36,6 @@
         "score": 50,
         "signals": [
           "소송/분쟁"
-        ]
-      },
-      {
-        "name": "루멘스",
-        "score": 45,
-        "signals": [
-          "사명변경",
-          "대주주변경"
-        ]
-      },
-      {
-        "name": "아모레퍼시픽홀딩스",
-        "score": 40,
-        "signals": [
-          "대주주변경"
         ]
       },
       {
@@ -83,6 +68,20 @@
       },
       {
         "name": "이브이첨단소재",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "시지메드텍",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "아이비젼웍스",
         "score": 35,
         "signals": [
           "상장폐지위험"
