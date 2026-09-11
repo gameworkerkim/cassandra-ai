@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T13:23:50.048Z",
+  "generatedAt": "2026-09-11T04:10:28.259Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,18 +11,9 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 16,
-    "totalSignals": 41,
+    "highRiskCount": 15,
+    "totalSignals": 34,
     "topRisks": [
-      {
-        "name": "본느",
-        "score": 100,
-        "signals": [
-          "대주주변경",
-          "소송/분쟁",
-          "증자/감자"
-        ]
-      },
       {
         "name": "로지스몬",
         "score": 100,
@@ -47,17 +38,11 @@
         ]
       },
       {
-        "name": "진양화학",
+        "name": "본느",
         "score": 40,
         "signals": [
-          "대주주변경"
-        ]
-      },
-      {
-        "name": "토니모리",
-        "score": 40,
-        "signals": [
-          "대주주변경"
+          "대주주변경",
+          "증자/감자"
         ]
       },
       {
@@ -83,6 +68,20 @@
       },
       {
         "name": "신라섬유",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "이브이첨단소재",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "티웨이홀딩스",
         "score": 35,
         "signals": [
           "상장폐지위험"
