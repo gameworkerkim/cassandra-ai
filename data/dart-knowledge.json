@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T13:20:40.186Z",
+  "generatedAt": "2026-09-12T04:10:24.964Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 14,
-    "totalSignals": 40,
+    "highRiskCount": 11,
+    "totalSignals": 34,
     "topRisks": [
       {
         "name": "로지스몬",
@@ -39,6 +39,14 @@
         ]
       },
       {
+        "name": "좋은사람들",
+        "score": 45,
+        "signals": [
+          "증자/감자",
+          "상장폐지위험"
+        ]
+      },
+      {
         "name": "본느",
         "score": 40,
         "signals": [
@@ -62,13 +70,6 @@
       },
       {
         "name": "신라섬유",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "이브이첨단소재",
         "score": 35,
         "signals": [
           "상장폐지위험"
