@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T04:28:42.968Z",
+  "generatedAt": "2026-09-14T15:45:19.387Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 11,
-    "totalSignals": 34,
+    "highRiskCount": 15,
+    "totalSignals": 39,
     "topRisks": [
       {
         "name": "로지스몬",
@@ -55,6 +55,21 @@
         ]
       },
       {
+        "name": "DB증권",
+        "score": 40,
+        "signals": [
+          "대주주변경"
+        ]
+      },
+      {
+        "name": "나노씨엠에스",
+        "score": 40,
+        "signals": [
+          "CB발행",
+          "증자/감자"
+        ]
+      },
+      {
         "name": "비비안",
         "score": 35,
         "signals": [
@@ -70,20 +85,6 @@
       },
       {
         "name": "신라섬유",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "티웨이홀딩스",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "시지메드텍",
         "score": 35,
         "signals": [
           "상장폐지위험"
