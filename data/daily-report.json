@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-13T13:43:57.096Z",
+  "generatedAt": "2026-09-14T04:28:42.967Z",
   "period": {
-    "from": "20260906",
-    "to": "20260913"
+    "from": "20260907",
+    "to": "20260914"
   },
-  "totalCompanies": 70,
-  "totalDisclosures": 131,
+  "totalCompanies": 72,
+  "totalDisclosures": 136,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -140,13 +140,13 @@
       "stockCode": "038060",
       "corpCode": "00406329",
       "name": "루멘스",
-      "totalDisclosures": 7,
+      "totalDisclosures": 10,
       "signals": [
         {
           "rule": "증자/감자",
-          "weight": 20,
-          "count": 2,
-          "latestDate": "2026-09-11"
+          "weight": 30,
+          "count": 4,
+          "latestDate": "2026-09-14"
         },
         {
           "rule": "상장폐지위험",
@@ -158,6 +158,18 @@
       "riskScore": 100,
       "recentDisclosures": [
         {
+          "date": "20260914",
+          "rceptNo": "20260914000044",
+          "title": "[첨부정정]주요사항보고서(감자결정)",
+          "type": "B"
+        },
+        {
+          "date": "20260914",
+          "rceptNo": "20260914000039",
+          "title": "[첨부정정]주요사항보고서(유상증자결정)",
+          "type": "B"
+        },
+        {
           "date": "20260911",
           "rceptNo": "20260911000526",
           "title": "주요사항보고서(유상증자결정)",
@@ -168,6 +180,12 @@
           "rceptNo": "20260911000535",
           "title": "주요사항보고서(감자결정)",
           "type": "B"
+        },
+        {
+          "date": "20260914",
+          "rceptNo": "20260914900098",
+          "title": "[첨부정정]주주총회소집결의              (임시주주총회)",
+          "type": "I"
         },
         {
           "date": "20260911",
@@ -581,13 +599,13 @@
       "stockCode": "038060",
       "corpCode": "00406329",
       "name": "루멘스",
-      "totalDisclosures": 7,
+      "totalDisclosures": 10,
       "signals": [
         {
           "rule": "증자/감자",
-          "weight": 20,
-          "count": 2,
-          "latestDate": "2026-09-11"
+          "weight": 30,
+          "count": 4,
+          "latestDate": "2026-09-14"
         },
         {
           "rule": "상장폐지위험",
@@ -599,6 +617,18 @@
       "riskScore": 100,
       "recentDisclosures": [
         {
+          "date": "20260914",
+          "rceptNo": "20260914000044",
+          "title": "[첨부정정]주요사항보고서(감자결정)",
+          "type": "B"
+        },
+        {
+          "date": "20260914",
+          "rceptNo": "20260914000039",
+          "title": "[첨부정정]주요사항보고서(유상증자결정)",
+          "type": "B"
+        },
+        {
           "date": "20260911",
           "rceptNo": "20260911000526",
           "title": "주요사항보고서(유상증자결정)",
@@ -609,6 +639,12 @@
           "rceptNo": "20260911000535",
           "title": "주요사항보고서(감자결정)",
           "type": "B"
+        },
+        {
+          "date": "20260914",
+          "rceptNo": "20260914900098",
+          "title": "[첨부정정]주주총회소집결의              (임시주주총회)",
+          "type": "I"
         },
         {
           "date": "20260911",
@@ -2086,6 +2122,22 @@
       ]
     },
     {
+      "stockCode": "115530",
+      "corpCode": "00660033",
+      "name": "씨엔플러스",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260914",
+          "rceptNo": "20260914900139",
+          "title": "[기재정정]단일판매ㆍ공급계약체결              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "260660",
       "corpCode": "00447007",
       "name": "알리코제약",
@@ -2119,6 +2171,22 @@
           "date": "20260908",
           "rceptNo": "20260908800599",
           "title": "타인에대한채무보증결정              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "246960",
+      "corpCode": "01110182",
+      "name": "SCL사이언스",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260914",
+          "rceptNo": "20260914900157",
+          "title": "기업설명회(IR)개최              ",
           "type": "I"
         }
       ]

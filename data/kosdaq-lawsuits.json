@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "rank": 1,
+    "name": "인피니트헬스케어",
+    "code": "071200",
+    "price": "11,310",
+    "change": "+2,610 (+30%)",
+    "changePercent": 30,
+    "volume": "474,645",
+    "volumeRaw": 474645,
+    "marketCap": "2759억",
+    "marketCapRaw": 2759,
+    "flags": {
+      "hasNameChange": false,
+      "hasMajorHolderChange": false,
+      "hasPurposeAddition": false,
+      "hasLawsuit": true,
+      "lawsuitDetail": "소송등의판결ㆍ결정              (경영권 분쟁 소송)(주주총회결의무효확인 등)",
+      "hasCB": false,
+      "cbCount": 0,
+      "volatilityScore": 25
+    }
+  },
+  {
+    "rank": 11,
+    "name": "한국비엔씨",
+    "code": "256840",
+    "price": "2,945",
+    "change": "+360 (+13.93%)",
+    "changePercent": 13.93,
+    "volume": "12,502,248",
+    "volumeRaw": 12502248,
+    "marketCap": "2014억",
+    "marketCapRaw": 2014,
+    "flags": {
+      "hasNameChange": false,
+      "hasMajorHolderChange": false,
+      "hasPurposeAddition": false,
+      "hasLawsuit": true,
+      "lawsuitDetail": "기타경영사항(자율공시)              (의약품 회수·폐기 및 잠정 제조중지 등 명령 취소 소송 상고심 판결)",
+      "hasCB": false,
+      "cbCount": 0,
+      "volatilityScore": 25
+    }
+  },
+  {
+    "rank": 5,
+    "name": "본느",
+    "code": "226340",
+    "price": "4,865",
+    "change": "-435 (-8.21%)",
+    "changePercent": -8.21,
+    "volume": "362,107",
+    "volumeRaw": 362107,
+    "marketCap": "408억",
+    "marketCapRaw": 408,
+    "flags": {
+      "hasNameChange": false,
+      "hasMajorHolderChange": false,
+      "hasPurposeAddition": false,
+      "hasLawsuit": true,
+      "lawsuitDetail": "주요사항보고서(소송등의제기)",
+      "hasCB": false,
+      "cbCount": 0,
+      "volatilityScore": 25
+    }
+  }
+]
