@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T04:29:35.368Z",
+  "generatedAt": "2026-09-15T14:15:17.560Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,14 +11,15 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 12,
-    "totalSignals": 33,
+    "highRiskCount": 14,
+    "totalSignals": 39,
     "topRisks": [
       {
         "name": "로지스몬",
         "score": 100,
         "signals": [
           "소송/분쟁",
+          "CB발행",
           "증자/감자"
         ]
       },
@@ -28,6 +29,21 @@
         "signals": [
           "증자/감자",
           "상장폐지위험"
+        ]
+      },
+      {
+        "name": "신라섬유",
+        "score": 70,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "넥사다이내믹스",
+        "score": 60,
+        "signals": [
+          "대주주변경",
+          "증자/감자"
         ]
       },
       {
@@ -68,24 +84,10 @@
         ]
       },
       {
-        "name": "신라섬유",
+        "name": "대림제지",
         "score": 35,
         "signals": [
           "상장폐지위험"
-        ]
-      },
-      {
-        "name": "티웨이홀딩스",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "엔투텍",
-        "score": 30,
-        "signals": [
-          "CB발행"
         ]
       }
     ]
