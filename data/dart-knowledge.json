@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T15:45:19.387Z",
+  "generatedAt": "2026-09-15T04:29:35.368Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 15,
-    "totalSignals": 39,
+    "highRiskCount": 12,
+    "totalSignals": 33,
     "topRisks": [
       {
         "name": "로지스몬",
@@ -32,33 +32,10 @@
       },
       {
         "name": "계양전기",
-        "score": 60,
+        "score": 40,
         "signals": [
           "CB발행",
           "증자/감자"
-        ]
-      },
-      {
-        "name": "좋은사람들",
-        "score": 45,
-        "signals": [
-          "증자/감자",
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "본느",
-        "score": 40,
-        "signals": [
-          "대주주변경",
-          "증자/감자"
-        ]
-      },
-      {
-        "name": "DB증권",
-        "score": 40,
-        "signals": [
-          "대주주변경"
         ]
       },
       {
@@ -67,6 +44,13 @@
         "signals": [
           "CB발행",
           "증자/감자"
+        ]
+      },
+      {
+        "name": "좋은사람들",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
         ]
       },
       {
@@ -88,6 +72,20 @@
         "score": 35,
         "signals": [
           "상장폐지위험"
+        ]
+      },
+      {
+        "name": "티웨이홀딩스",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "엔투텍",
+        "score": 30,
+        "signals": [
+          "CB발행"
         ]
       }
     ]
