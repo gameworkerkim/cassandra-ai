@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T14:15:17.560Z",
+  "generatedAt": "2026-09-16T04:25:13.082Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 14,
-    "totalSignals": 39,
+    "highRiskCount": 11,
+    "totalSignals": 38,
     "topRisks": [
       {
         "name": "로지스몬",
@@ -55,29 +55,7 @@
         ]
       },
       {
-        "name": "나노씨엠에스",
-        "score": 40,
-        "signals": [
-          "CB발행",
-          "증자/감자"
-        ]
-      },
-      {
-        "name": "좋은사람들",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
         "name": "비비안",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "와이즈버즈",
         "score": 35,
         "signals": [
           "상장폐지위험"
@@ -88,6 +66,27 @@
         "score": 35,
         "signals": [
           "상장폐지위험"
+        ]
+      },
+      {
+        "name": "티웨이홀딩스",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "바른손이앤에이",
+        "score": 30,
+        "signals": [
+          "증자/감자"
+        ]
+      },
+      {
+        "name": "엔투텍",
+        "score": 30,
+        "signals": [
+          "CB발행"
         ]
       }
     ]
