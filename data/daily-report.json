@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-16T04:25:13.081Z",
+  "generatedAt": "2026-09-16T14:07:21.678Z",
   "period": {
     "from": "20260909",
     "to": "20260916"
   },
-  "totalCompanies": 69,
-  "totalDisclosures": 158,
+  "totalCompanies": 73,
+  "totalDisclosures": 167,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -63,8 +63,14 @@
       "stockCode": "223220",
       "corpCode": "01060735",
       "name": "로지스몬",
-      "totalDisclosures": 11,
+      "totalDisclosures": 13,
       "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-09-16"
+        },
         {
           "rule": "소송/분쟁",
           "weight": 75,
@@ -80,8 +86,8 @@
         {
           "rule": "증자/감자",
           "weight": 30,
-          "count": 5,
-          "latestDate": "2026-09-15"
+          "count": 6,
+          "latestDate": "2026-09-16"
         }
       ],
       "riskScore": 100,
@@ -112,6 +118,18 @@
         },
         {
           "date": "20260916",
+          "rceptNo": "20260916600398",
+          "title": "최대주주변경              ",
+          "type": "I"
+        },
+        {
+          "date": "20260916",
+          "rceptNo": "20260916600393",
+          "title": "증권발행결과(자율공시)              (일반공모 유상증자)",
+          "type": "I"
+        },
+        {
+          "date": "20260916",
           "rceptNo": "20260916600080",
           "title": "소송등의판결ㆍ결정              (신주발행금지가처분)",
           "type": "I"
@@ -132,18 +150,6 @@
           "date": "20260910",
           "rceptNo": "20260910600326",
           "title": "[기재정정]주주명부폐쇄기간또는기준일설정              ",
-          "type": "I"
-        },
-        {
-          "date": "20260910",
-          "rceptNo": "20260910600322",
-          "title": "[기재정정]주주총회소집결의              ",
-          "type": "I"
-        },
-        {
-          "date": "20260909",
-          "rceptNo": "20260909600332",
-          "title": "소송등의판결ㆍ결정              (신주발행금지가처분)",
           "type": "I"
         }
       ]
@@ -344,6 +350,35 @@
       ]
     },
     {
+      "stockCode": "002790",
+      "corpCode": "00154462",
+      "name": "아모레퍼시픽홀딩스",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 40,
+          "count": 2,
+          "latestDate": "2026-09-16"
+        }
+      ],
+      "riskScore": 40,
+      "recentDisclosures": [
+        {
+          "date": "20260916",
+          "rceptNo": "20260916800320",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        },
+        {
+          "date": "20260909",
+          "rceptNo": "20260909800410",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "012200",
       "corpCode": "00102618",
       "name": "계양전기",
@@ -374,6 +409,29 @@
           "date": "20260910",
           "rceptNo": "20260910800218",
           "title": "유상증자또는주식관련사채등의청약결과(자율공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "033340",
+      "corpCode": "00205003",
+      "name": "좋은사람들",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "상장폐지위험",
+          "weight": 35,
+          "count": 1,
+          "latestDate": "2026-09-16"
+        }
+      ],
+      "riskScore": 35,
+      "recentDisclosures": [
+        {
+          "date": "20260916",
+          "rceptNo": "20260916900650",
+          "title": "주권매매거래정지기간변경              (주식의 병합, 분할 등 전자등록 변경, 말소)",
           "type": "I"
         }
       ]
@@ -570,8 +628,14 @@
       "stockCode": "223220",
       "corpCode": "01060735",
       "name": "로지스몬",
-      "totalDisclosures": 11,
+      "totalDisclosures": 13,
       "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-09-16"
+        },
         {
           "rule": "소송/분쟁",
           "weight": 75,
@@ -587,8 +651,8 @@
         {
           "rule": "증자/감자",
           "weight": 30,
-          "count": 5,
-          "latestDate": "2026-09-15"
+          "count": 6,
+          "latestDate": "2026-09-16"
         }
       ],
       "riskScore": 100,
@@ -619,6 +683,18 @@
         },
         {
           "date": "20260916",
+          "rceptNo": "20260916600398",
+          "title": "최대주주변경              ",
+          "type": "I"
+        },
+        {
+          "date": "20260916",
+          "rceptNo": "20260916600393",
+          "title": "증권발행결과(자율공시)              (일반공모 유상증자)",
+          "type": "I"
+        },
+        {
+          "date": "20260916",
           "rceptNo": "20260916600080",
           "title": "소송등의판결ㆍ결정              (신주발행금지가처분)",
           "type": "I"
@@ -639,18 +715,6 @@
           "date": "20260910",
           "rceptNo": "20260910600326",
           "title": "[기재정정]주주명부폐쇄기간또는기준일설정              ",
-          "type": "I"
-        },
-        {
-          "date": "20260910",
-          "rceptNo": "20260910600322",
-          "title": "[기재정정]주주총회소집결의              ",
-          "type": "I"
-        },
-        {
-          "date": "20260909",
-          "rceptNo": "20260909600332",
-          "title": "소송등의판결ㆍ결정              (신주발행금지가처분)",
           "type": "I"
         }
       ]
@@ -851,6 +915,35 @@
       ]
     },
     {
+      "stockCode": "002790",
+      "corpCode": "00154462",
+      "name": "아모레퍼시픽홀딩스",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 40,
+          "count": 2,
+          "latestDate": "2026-09-16"
+        }
+      ],
+      "riskScore": 40,
+      "recentDisclosures": [
+        {
+          "date": "20260916",
+          "rceptNo": "20260916800320",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        },
+        {
+          "date": "20260909",
+          "rceptNo": "20260909800410",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "012200",
       "corpCode": "00102618",
       "name": "계양전기",
@@ -881,6 +974,29 @@
           "date": "20260910",
           "rceptNo": "20260910800218",
           "title": "유상증자또는주식관련사채등의청약결과(자율공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "033340",
+      "corpCode": "00205003",
+      "name": "좋은사람들",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "상장폐지위험",
+          "weight": 35,
+          "count": 1,
+          "latestDate": "2026-09-16"
+        }
+      ],
+      "riskScore": 35,
+      "recentDisclosures": [
+        {
+          "date": "20260916",
+          "rceptNo": "20260916900650",
+          "title": "주권매매거래정지기간변경              (주식의 병합, 분할 등 전자등록 변경, 말소)",
           "type": "I"
         }
       ]
@@ -1118,6 +1234,88 @@
       ]
     },
     {
+      "stockCode": "006840",
+      "corpCode": "00125080",
+      "name": "AK홀딩스",
+      "totalDisclosures": 6,
+      "signals": [
+        {
+          "rule": "증자/감자",
+          "weight": 20,
+          "count": 2,
+          "latestDate": "2026-09-16"
+        }
+      ],
+      "riskScore": 20,
+      "recentDisclosures": [
+        {
+          "date": "20260916",
+          "rceptNo": "20260916800218",
+          "title": "[기재정정]타법인주식및출자증권취득결정(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
+        {
+          "date": "20260916",
+          "rceptNo": "20260916800191",
+          "title": "[기재정정]유상증자결정(종속회사의주요경영사항)              ",
+          "type": "I"
+        },
+        {
+          "date": "20260915",
+          "rceptNo": "20260915800820",
+          "title": "신규시설투자등(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
+        {
+          "date": "20260915",
+          "rceptNo": "20260915800788",
+          "title": "타법인주식및출자증권처분결정(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
+        {
+          "date": "20260915",
+          "rceptNo": "20260915800738",
+          "title": "감자결정(종속회사의주요경영사항)              ",
+          "type": "I"
+        },
+        {
+          "date": "20260911",
+          "rceptNo": "20260911800333",
+          "title": "[기재정정]유형자산처분결정(자회사의 주요경영사항)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "031820",
+      "corpCode": "00186559",
+      "name": "아이티센씨티에스",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "CB발행",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-09-16"
+        },
+        {
+          "rule": "증자/감자",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-09-16"
+        }
+      ],
+      "riskScore": 20,
+      "recentDisclosures": [
+        {
+          "date": "20260916",
+          "rceptNo": "20260916800517",
+          "title": "유상증자또는주식관련사채등의발행결과(자율공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "050090",
       "corpCode": "00369569",
       "name": "비케이홀딩스",
@@ -1142,29 +1340,6 @@
           "date": "20260911",
           "rceptNo": "20260911900505",
           "title": "증권발행결과(자율공시)              (제3자배정 유상증자)",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "002790",
-      "corpCode": "00154462",
-      "name": "아모레퍼시픽홀딩스",
-      "totalDisclosures": 1,
-      "signals": [
-        {
-          "rule": "대주주변경",
-          "weight": 20,
-          "count": 1,
-          "latestDate": "2026-09-09"
-        }
-      ],
-      "riskScore": 20,
-      "recentDisclosures": [
-        {
-          "date": "20260909",
-          "rceptNo": "20260909800410",
-          "title": "최대주주등소유주식변동신고서              ",
           "type": "I"
         }
       ]
@@ -1525,47 +1700,6 @@
       ]
     },
     {
-      "stockCode": "006840",
-      "corpCode": "00125080",
-      "name": "AK홀딩스",
-      "totalDisclosures": 4,
-      "signals": [
-        {
-          "rule": "증자/감자",
-          "weight": 10,
-          "count": 1,
-          "latestDate": "2026-09-15"
-        }
-      ],
-      "riskScore": 10,
-      "recentDisclosures": [
-        {
-          "date": "20260915",
-          "rceptNo": "20260915800820",
-          "title": "신규시설투자등(자회사의 주요경영사항)              ",
-          "type": "I"
-        },
-        {
-          "date": "20260915",
-          "rceptNo": "20260915800788",
-          "title": "타법인주식및출자증권처분결정(자회사의 주요경영사항)              ",
-          "type": "I"
-        },
-        {
-          "date": "20260915",
-          "rceptNo": "20260915800738",
-          "title": "감자결정(종속회사의주요경영사항)              ",
-          "type": "I"
-        },
-        {
-          "date": "20260911",
-          "rceptNo": "20260911800333",
-          "title": "[기재정정]유형자산처분결정(자회사의 주요경영사항)              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
       "stockCode": "900270",
       "corpCode": "01160512",
       "name": "헝셩그룹",
@@ -1678,6 +1812,29 @@
           "date": "20260914",
           "rceptNo": "20260914800417",
           "title": "유상증자결정(종속회사의주요경영사항)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "128820",
+      "corpCode": "00828789",
+      "name": "대성산업",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "증자/감자",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-09-16"
+        }
+      ],
+      "riskScore": 10,
+      "recentDisclosures": [
+        {
+          "date": "20260916",
+          "rceptNo": "20260916800322",
+          "title": "감자결정(종속회사의주요경영사항)              ",
           "type": "I"
         }
       ]
@@ -1964,6 +2121,22 @@
           "date": "20260911",
           "rceptNo": "20260911900129",
           "title": "단기차입금증가결정              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "316140",
+      "corpCode": "01350869",
+      "name": "우리금융지주",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260916",
+          "rceptNo": "20260916800520",
+          "title": "기업설명회(IR)개최(안내공시)              ",
           "type": "I"
         }
       ]
