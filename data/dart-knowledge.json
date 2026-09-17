@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T14:07:21.679Z",
+  "generatedAt": "2026-09-17T04:30:52.767Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 13,
-    "totalSignals": 43,
+    "highRiskCount": 10,
+    "totalSignals": 42,
     "topRisks": [
       {
         "name": "로지스몬",
@@ -41,17 +41,10 @@
       },
       {
         "name": "넥사다이내믹스",
-        "score": 60,
+        "score": 50,
         "signals": [
           "대주주변경",
           "증자/감자"
-        ]
-      },
-      {
-        "name": "아모레퍼시픽홀딩스",
-        "score": 40,
-        "signals": [
-          "대주주변경"
         ]
       },
       {
@@ -70,13 +63,6 @@
         ]
       },
       {
-        "name": "비비안",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
         "name": "대림제지",
         "score": 35,
         "signals": [
@@ -88,6 +74,20 @@
         "score": 35,
         "signals": [
           "상장폐지위험"
+        ]
+      },
+      {
+        "name": "엔투텍",
+        "score": 30,
+        "signals": [
+          "CB발행"
+        ]
+      },
+      {
+        "name": "지투지바이오",
+        "score": 30,
+        "signals": [
+          "CB리픽싱"
         ]
       }
     ]
