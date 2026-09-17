@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T04:30:52.767Z",
+  "generatedAt": "2026-09-17T14:11:23.407Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -12,7 +12,7 @@
   "companies": {},
   "dailyReport": {
     "highRiskCount": 10,
-    "totalSignals": 42,
+    "totalSignals": 45,
     "topRisks": [
       {
         "name": "로지스몬",
