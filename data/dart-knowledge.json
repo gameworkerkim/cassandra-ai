@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T14:11:23.407Z",
+  "generatedAt": "2026-09-18T04:15:31.805Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 10,
-    "totalSignals": 45,
+    "highRiskCount": 8,
+    "totalSignals": 42,
     "topRisks": [
       {
         "name": "로지스몬",
@@ -33,25 +33,10 @@
         ]
       },
       {
-        "name": "신라섬유",
-        "score": 70,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
         "name": "넥사다이내믹스",
         "score": 50,
         "signals": [
           "대주주변경",
-          "증자/감자"
-        ]
-      },
-      {
-        "name": "계양전기",
-        "score": 40,
-        "signals": [
-          "CB발행",
           "증자/감자"
         ]
       },
@@ -70,7 +55,7 @@
         ]
       },
       {
-        "name": "티웨이홀딩스",
+        "name": "신라섬유",
         "score": 35,
         "signals": [
           "상장폐지위험"
