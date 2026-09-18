@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T04:15:31.805Z",
+  "generatedAt": "2026-09-18T13:29:05.442Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 8,
-    "totalSignals": 42,
+    "highRiskCount": 9,
+    "totalSignals": 49,
     "topRisks": [
       {
         "name": "로지스몬",
@@ -34,9 +34,19 @@
       },
       {
         "name": "넥사다이내믹스",
-        "score": 50,
+        "score": 60,
         "signals": [
           "대주주변경",
+          "CB발행",
+          "증자/감자"
+        ]
+      },
+      {
+        "name": "계양전기",
+        "score": 40,
+        "signals": [
+          "대주주변경",
+          "CB발행",
           "증자/감자"
         ]
       },
