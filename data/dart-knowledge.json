@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T13:29:05.442Z",
+  "generatedAt": "2026-09-19T04:11:40.584Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -12,7 +12,7 @@
   "companies": {},
   "dailyReport": {
     "highRiskCount": 9,
-    "totalSignals": 49,
+    "totalSignals": 41,
     "topRisks": [
       {
         "name": "로지스몬",
@@ -25,29 +25,25 @@
         ]
       },
       {
-        "name": "루멘스",
-        "score": 100,
-        "signals": [
-          "증자/감자",
-          "상장폐지위험"
-        ]
-      },
-      {
         "name": "넥사다이내믹스",
-        "score": 60,
+        "score": 50,
         "signals": [
           "대주주변경",
-          "CB발행",
-          "증자/감자"
+          "CB발행"
         ]
       },
       {
-        "name": "계양전기",
+        "name": "이오플로우",
         "score": 40,
         "signals": [
-          "대주주변경",
-          "CB발행",
-          "증자/감자"
+          "대주주변경"
+        ]
+      },
+      {
+        "name": "두산",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
         ]
       },
       {
@@ -72,10 +68,10 @@
         ]
       },
       {
-        "name": "엔투텍",
+        "name": "루멘스",
         "score": 30,
         "signals": [
-          "CB발행"
+          "증자/감자"
         ]
       },
       {
