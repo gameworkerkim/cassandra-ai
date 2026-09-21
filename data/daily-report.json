@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-20T13:31:05.620Z",
+  "generatedAt": "2026-09-21T04:29:25.639Z",
   "period": {
-    "from": "20260913",
-    "to": "20260920"
+    "from": "20260914",
+    "to": "20260921"
   },
-  "totalCompanies": 65,
-  "totalDisclosures": 126,
+  "totalCompanies": 67,
+  "totalDisclosures": 129,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -1344,6 +1344,29 @@
       ]
     },
     {
+      "stockCode": "038500",
+      "corpCode": "00239639",
+      "name": "삼표시멘트",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-09-21"
+        }
+      ],
+      "riskScore": 20,
+      "recentDisclosures": [
+        {
+          "date": "20260921",
+          "rceptNo": "20260921900193",
+          "title": "[기재정정]최대주주변경을수반하는주식담보제공계약체결              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "050090",
       "corpCode": "00369569",
       "name": "비케이홀딩스",
@@ -1930,10 +1953,16 @@
       "stockCode": "005960",
       "corpCode": "00115612",
       "name": "동부건설",
-      "totalDisclosures": 1,
+      "totalDisclosures": 2,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20260921",
+          "rceptNo": "20260921800094",
+          "title": "투자판단관련주요경영사항              ",
+          "type": "I"
+        },
         {
           "date": "20260914",
           "rceptNo": "20260914800424",
@@ -2018,6 +2047,22 @@
           "date": "20260918",
           "rceptNo": "20260918800340",
           "title": "타인에대한채무보증결정              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "196170",
+      "corpCode": "00989619",
+      "name": "알테오젠",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260921",
+          "rceptNo": "20260921900054",
+          "title": "기업설명회(IR)개최              ",
           "type": "I"
         }
       ]
