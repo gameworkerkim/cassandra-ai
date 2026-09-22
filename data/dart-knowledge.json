@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T04:24:29.461Z",
+  "generatedAt": "2026-09-22T13:58:23.110Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,9 +11,26 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 12,
-    "totalSignals": 48,
+    "highRiskCount": 15,
+    "totalSignals": 52,
     "topRisks": [
+      {
+        "name": "티엔엔터테인먼트",
+        "score": 100,
+        "signals": [
+          "상장폐지위험",
+          "횡령/배임"
+        ]
+      },
+      {
+        "name": "넥사다이내믹스",
+        "score": 100,
+        "signals": [
+          "대주주변경",
+          "소송/분쟁",
+          "CB발행"
+        ]
+      },
       {
         "name": "로지스몬",
         "score": 100,
@@ -25,16 +42,28 @@
         ]
       },
       {
-        "name": "넥사다이내믹스",
-        "score": 85,
+        "name": "휴맥스홀딩스",
+        "score": 70,
         "signals": [
-          "대주주변경",
-          "소송/분쟁",
-          "CB발행"
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "벡트",
+        "score": 60,
+        "signals": [
+          "대주주변경"
         ]
       },
       {
         "name": "이오플로우",
+        "score": 40,
+        "signals": [
+          "대주주변경"
+        ]
+      },
+      {
+        "name": "모나용평",
         "score": 40,
         "signals": [
           "대주주변경"
@@ -56,34 +85,6 @@
       },
       {
         "name": "좋은사람들",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "티엔엔터테인먼트",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "예선테크",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "대림제지",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "신라섬유",
         "score": 35,
         "signals": [
           "상장폐지위험"
