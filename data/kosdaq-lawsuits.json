@@ -1,15 +1,15 @@
 [
   {
-    "rank": 12,
+    "rank": 3,
     "name": "본느",
     "code": "226340",
-    "price": "4,955",
-    "change": "-195 (-3.79%)",
-    "changePercent": -3.79,
-    "volume": "155,634",
-    "volumeRaw": 155634,
-    "marketCap": "416억",
-    "marketCapRaw": 416,
+    "price": "4,830",
+    "change": "-125 (-2.52%)",
+    "changePercent": -2.52,
+    "volume": "128,923",
+    "volumeRaw": 128923,
+    "marketCap": "405억",
+    "marketCapRaw": 405,
     "flags": {
       "hasNameChange": false,
       "hasMajorHolderChange": false,

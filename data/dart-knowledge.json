@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T15:45:05.947Z",
+  "generatedAt": "2026-09-22T04:24:29.461Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 15,
-    "totalSignals": 52,
+    "highRiskCount": 12,
+    "totalSignals": 48,
     "topRisks": [
       {
         "name": "로지스몬",
@@ -35,13 +35,6 @@
       },
       {
         "name": "이오플로우",
-        "score": 40,
-        "signals": [
-          "대주주변경"
-        ]
-      },
-      {
-        "name": "DB증권",
         "score": 40,
         "signals": [
           "대주주변경"
@@ -84,6 +77,13 @@
       },
       {
         "name": "대림제지",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "신라섬유",
         "score": 35,
         "signals": [
           "상장폐지위험"
