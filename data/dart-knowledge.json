@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T14:07:22.154Z",
+  "generatedAt": "2026-09-25T04:29:52.695Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 11,
-    "totalSignals": 39,
+    "highRiskCount": 9,
+    "totalSignals": 33,
     "topRisks": [
       {
         "name": "티엔엔터테인먼트",
@@ -53,13 +53,6 @@
         ]
       },
       {
-        "name": "두산",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
         "name": "동일금속",
         "score": 35,
         "signals": [
@@ -82,9 +75,10 @@
         ]
       },
       {
-        "name": "루멘스바이오스",
+        "name": "아시아경제",
         "score": 30,
         "signals": [
+          "대주주변경",
           "증자/감자"
         ]
       }
