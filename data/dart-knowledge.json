@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T14:29:45.731Z",
+  "generatedAt": "2026-09-26T04:34:22.519Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 9,
-    "totalSignals": 33,
+    "highRiskCount": 8,
+    "totalSignals": 28,
     "topRisks": [
       {
         "name": "티엔엔터테인먼트",
@@ -23,14 +23,6 @@
         ]
       },
       {
-        "name": "넥사다이내믹스",
-        "score": 70,
-        "signals": [
-          "소송/분쟁",
-          "CB발행"
-        ]
-      },
-      {
         "name": "휴맥스홀딩스",
         "score": 70,
         "signals": [
@@ -38,10 +30,11 @@
         ]
       },
       {
-        "name": "벡트",
+        "name": "넥사다이내믹스",
         "score": 60,
         "signals": [
-          "대주주변경"
+          "소송/분쟁",
+          "CB발행"
         ]
       },
       {
@@ -50,6 +43,13 @@
         "signals": [
           "증자/감자",
           "상장폐지위험"
+        ]
+      },
+      {
+        "name": "벡트",
+        "score": 40,
+        "signals": [
+          "대주주변경"
         ]
       },
       {
@@ -64,14 +64,6 @@
         "score": 35,
         "signals": [
           "상장폐지위험"
-        ]
-      },
-      {
-        "name": "CJ CGV",
-        "score": 35,
-        "signals": [
-          "소송/분쟁",
-          "증자/감자"
         ]
       },
       {
