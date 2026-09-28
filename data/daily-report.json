@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-27T14:37:06.326Z",
+  "generatedAt": "2026-09-28T04:54:41.922Z",
   "period": {
-    "from": "20260920",
-    "to": "20260927"
+    "from": "20260921",
+    "to": "20260928"
   },
-  "totalCompanies": 64,
-  "totalDisclosures": 97,
+  "totalCompanies": 65,
+  "totalDisclosures": 98,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -1091,6 +1091,22 @@
           "date": "20260922",
           "rceptNo": "20260922900410",
           "title": "[기재정정]투자판단관련주요경영사항(임상시험계획승인신청등결정)              (BI 4060107 (ODS025)의 제 1상 임상시험계획 승인)",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "459510",
+      "corpCode": "01594791",
+      "name": "나우로보틱스",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260928",
+          "rceptNo": "20260928900204",
+          "title": "[기재정정]주주총회소집결의              (임시주주총회)",
           "type": "I"
         }
       ]
