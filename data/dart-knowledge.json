@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T04:54:41.923Z",
+  "generatedAt": "2026-09-28T17:26:56.197Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 8,
-    "totalSignals": 28,
+    "highRiskCount": 10,
+    "totalSignals": 32,
     "topRisks": [
       {
         "name": "티엔엔터테인먼트",
@@ -27,6 +27,14 @@
         "score": 70,
         "signals": [
           "상장폐지위험"
+        ]
+      },
+      {
+        "name": "벡트",
+        "score": 65,
+        "signals": [
+          "사명변경",
+          "대주주변경"
         ]
       },
       {
@@ -46,13 +54,6 @@
         ]
       },
       {
-        "name": "벡트",
-        "score": 40,
-        "signals": [
-          "대주주변경"
-        ]
-      },
-      {
         "name": "동일금속",
         "score": 35,
         "signals": [
@@ -61,6 +62,20 @@
       },
       {
         "name": "예선테크",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "서울식품공업",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "유진테크놀로지",
         "score": 35,
         "signals": [
           "상장폐지위험"
