@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T05:20:22.834Z",
+  "generatedAt": "2026-09-29T15:27:40.996Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,9 +11,25 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 6,
-    "totalSignals": 22,
+    "highRiskCount": 11,
+    "totalSignals": 33,
     "topRisks": [
+      {
+        "name": "이오플로우",
+        "score": 100,
+        "signals": [
+          "감사위험",
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "비케이홀딩스",
+        "score": 90,
+        "signals": [
+          "증자/감자",
+          "상장폐지위험"
+        ]
+      },
       {
         "name": "티엔엔터테인먼트",
         "score": 80,
@@ -31,10 +47,30 @@
         ]
       },
       {
-        "name": "비케이홀딩스",
-        "score": 55,
+        "name": "씨씨에스",
+        "score": 50,
         "signals": [
-          "증자/감자",
+          "소송/분쟁"
+        ]
+      },
+      {
+        "name": "바른손이앤에이",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "유니온머티리얼",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "KT지니뮤직",
+        "score": 35,
+        "signals": [
           "상장폐지위험"
         ]
       },
@@ -46,18 +82,10 @@
         ]
       },
       {
-        "name": "유진테크놀로지",
+        "name": "나노씨엠에스",
         "score": 35,
         "signals": [
           "상장폐지위험"
-        ]
-      },
-      {
-        "name": "이연제약",
-        "score": 30,
-        "signals": [
-          "대주주변경",
-          "CB발행"
         ]
       }
     ]
