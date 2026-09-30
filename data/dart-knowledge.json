@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T15:27:40.996Z",
+  "generatedAt": "2026-09-30T05:08:12.141Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -12,7 +12,7 @@
   "companies": {},
   "dailyReport": {
     "highRiskCount": 11,
-    "totalSignals": 33,
+    "totalSignals": 29,
     "topRisks": [
       {
         "name": "이오플로우",
@@ -31,26 +31,17 @@
         ]
       },
       {
-        "name": "티엔엔터테인먼트",
-        "score": 80,
-        "signals": [
-          "횡령/배임"
-        ]
-      },
-      {
-        "name": "벡트",
-        "score": 75,
-        "signals": [
-          "사명변경",
-          "대주주변경",
-          "증자/감자"
-        ]
-      },
-      {
         "name": "씨씨에스",
         "score": 50,
         "signals": [
           "소송/분쟁"
+        ]
+      },
+      {
+        "name": "아모레퍼시픽홀딩스",
+        "score": 40,
+        "signals": [
+          "대주주변경"
         ]
       },
       {
@@ -72,6 +63,14 @@
         "score": 35,
         "signals": [
           "상장폐지위험"
+        ]
+      },
+      {
+        "name": "벡트",
+        "score": 35,
+        "signals": [
+          "사명변경",
+          "증자/감자"
         ]
       },
       {
