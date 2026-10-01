@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T15:44:30.354Z",
+  "generatedAt": "2026-10-01T05:22:13.934Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 13,
-    "totalSignals": 39,
+    "highRiskCount": 12,
+    "totalSignals": 37,
     "topRisks": [
       {
         "name": "이오플로우",
@@ -20,14 +20,6 @@
         "signals": [
           "증자/감자",
           "감사위험",
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "비케이홀딩스",
-        "score": 100,
-        "signals": [
-          "증자/감자",
           "상장폐지위험"
         ]
       },
@@ -40,17 +32,19 @@
         ]
       },
       {
-        "name": "씨씨에스",
-        "score": 50,
+        "name": "멤레이비티",
+        "score": 45,
         "signals": [
-          "소송/분쟁"
+          "증자/감자",
+          "상장폐지위험"
         ]
       },
       {
-        "name": "아모레퍼시픽홀딩스",
-        "score": 40,
+        "name": "비케이홀딩스",
+        "score": 45,
         "signals": [
-          "대주주변경"
+          "증자/감자",
+          "상장폐지위험"
         ]
       },
       {
@@ -86,6 +80,14 @@
         "score": 35,
         "signals": [
           "상장폐지위험"
+        ]
+      },
+      {
+        "name": "벡트",
+        "score": 35,
+        "signals": [
+          "사명변경",
+          "증자/감자"
         ]
       }
     ]
