@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-01T16:04:48.821Z",
+  "generatedAt": "2026-10-02T05:10:33.535Z",
   "period": {
-    "from": "20260924",
-    "to": "20261001"
+    "from": "20260925",
+    "to": "20261002"
   },
-  "totalCompanies": 80,
-  "totalDisclosures": 125,
+  "totalCompanies": 85,
+  "totalDisclosures": 133,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -1438,7 +1438,7 @@
       "stockCode": "078860",
       "corpCode": "00543204",
       "name": "아이오케이이엔엠",
-      "totalDisclosures": 1,
+      "totalDisclosures": 3,
       "signals": [
         {
           "rule": "증자/감자",
@@ -1454,6 +1454,18 @@
           "rceptNo": "20260930000432",
           "title": "[기재정정]주요사항보고서(유상증자결정)",
           "type": "B"
+        },
+        {
+          "date": "20261002",
+          "rceptNo": "20261002900441",
+          "title": "[기재정정]주주명부폐쇄기간또는기준일설정              ",
+          "type": "I"
+        },
+        {
+          "date": "20261002",
+          "rceptNo": "20261002900437",
+          "title": "[기재정정]주주총회소집결의              ",
+          "type": "I"
         }
       ]
     },
@@ -2194,6 +2206,38 @@
       ]
     },
     {
+      "stockCode": "337840",
+      "corpCode": "01396931",
+      "name": "유엑스엔",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261002",
+          "rceptNo": "20261002600246",
+          "title": "특허권취득(자율공시)              (대향형 전극 구조를 가지는 전기 화학적 센서가 구비되는 연속식 분석물 측정기)",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "000810",
+      "corpCode": "00139214",
+      "name": "삼성화재해상보험",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261002",
+          "rceptNo": "20261002800183",
+          "title": "풍문또는보도에대한해명(미확정)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "005960",
       "corpCode": "00115612",
       "name": "동부건설",
@@ -2210,6 +2254,28 @@
       ]
     },
     {
+      "stockCode": "323410",
+      "corpCode": "01133217",
+      "name": "카카오뱅크",
+      "totalDisclosures": 2,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261002",
+          "rceptNo": "20261002800297",
+          "title": "기업설명회(IR)개최(안내공시)              ",
+          "type": "I"
+        },
+        {
+          "date": "20261002",
+          "rceptNo": "20261002800262",
+          "title": "결산실적공시예고(안내공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "900270",
       "corpCode": "01160512",
       "name": "헝셩그룹",
@@ -2221,6 +2287,22 @@
           "date": "20260928",
           "rceptNo": "20260928900609",
           "title": "임시주주총회결과              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "055550",
+      "corpCode": "00382199",
+      "name": "신한지주",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261002",
+          "rceptNo": "20261002800005",
+          "title": "해외증권거래소등에신고한주요공시사항의국내신고(자회사의 주요경영사항)              ",
           "type": "I"
         }
       ]
@@ -2317,6 +2399,22 @@
           "date": "20260930",
           "rceptNo": "20260930900401",
           "title": "[기재정정]단일판매ㆍ공급계약체결(자율공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "047050",
+      "corpCode": "00124504",
+      "name": "포스코인터내셔널",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261002",
+          "rceptNo": "20261002800003",
+          "title": "[기재정정]타인에대한채무보증결정              ",
           "type": "I"
         }
       ]
