@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-02T15:28:41.176Z",
+  "generatedAt": "2026-10-03T04:53:01.714Z",
   "period": {
-    "from": "20260925",
-    "to": "20261002"
+    "from": "20260926",
+    "to": "20261003"
   },
-  "totalCompanies": 89,
-  "totalDisclosures": 144,
+  "totalCompanies": 92,
+  "totalDisclosures": 150,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -970,6 +970,35 @@
       ]
     },
     {
+      "stockCode": "004540",
+      "corpCode": "00113492",
+      "name": "깨끗한나라",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "CB발행",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-09-29"
+        },
+        {
+          "rule": "CB리픽싱",
+          "weight": 15,
+          "count": 1,
+          "latestDate": "2026-09-29"
+        }
+      ],
+      "riskScore": 25,
+      "recentDisclosures": [
+        {
+          "date": "20260929",
+          "rceptNo": "20260929800854",
+          "title": "전환가액ㆍ신주인수권행사가액ㆍ교환가액의조정(안내공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "061040",
       "corpCode": "00309831",
       "name": "알에프텍",
@@ -1017,6 +1046,29 @@
           "date": "20260929",
           "rceptNo": "20260929900962",
           "title": "소송등의제기ㆍ신청(경영권분쟁소송)              (직무집행정지 가처분)",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "004650",
+      "corpCode": "00123523",
+      "name": "창해에탄올",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-09-30"
+        }
+      ],
+      "riskScore": 20,
+      "recentDisclosures": [
+        {
+          "date": "20260930",
+          "rceptNo": "20260930901269",
+          "title": "최대주주변경              ",
           "type": "I"
         }
       ]
@@ -1637,6 +1689,88 @@
           "date": "20261002",
           "rceptNo": "20261002600833",
           "title": "사채원리금미지급발생              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "096770",
+      "corpCode": "00631518",
+      "name": "SK이노베이션",
+      "totalDisclosures": 4,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260929",
+          "rceptNo": "20260929800640",
+          "title": "금전대여결정(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
+        {
+          "date": "20260929",
+          "rceptNo": "20260929800635",
+          "title": "금전대여결정(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
+        {
+          "date": "20260929",
+          "rceptNo": "20260929800625",
+          "title": "채무인수결정(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
+        {
+          "date": "20260928",
+          "rceptNo": "20260928800380",
+          "title": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "229640",
+      "corpCode": "01093007",
+      "name": "LS에코에너지",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260930",
+          "rceptNo": "20260930800068",
+          "title": "타법인주식및출자증권취득결정              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "307950",
+      "corpCode": "00362441",
+      "name": "현대오토에버",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260929",
+          "rceptNo": "20260929800423",
+          "title": "단일판매ㆍ공급계약체결              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "199290",
+      "corpCode": "00669450",
+      "name": "바이오프로테크",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20260930",
+          "rceptNo": "20260930600582",
+          "title": "전환주식의전환청구권행사              ",
           "type": "I"
         }
       ]
@@ -2526,54 +2660,6 @@
           "rceptNo": "20260928000182",
           "title": "주요사항보고서(자기주식취득결정)",
           "type": "B"
-        }
-      ]
-    },
-    {
-      "stockCode": "115530",
-      "corpCode": "00660033",
-      "name": "씨엔플러스",
-      "totalDisclosures": 1,
-      "signals": [],
-      "riskScore": 0,
-      "recentDisclosures": [
-        {
-          "date": "20260930",
-          "rceptNo": "20260930900462",
-          "title": "[기재정정]단일판매ㆍ공급계약체결              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "174900",
-      "corpCode": "00991191",
-      "name": "앱클론",
-      "totalDisclosures": 1,
-      "signals": [],
-      "riskScore": 0,
-      "recentDisclosures": [
-        {
-          "date": "20260930",
-          "rceptNo": "20260930900401",
-          "title": "[기재정정]단일판매ㆍ공급계약체결(자율공시)              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "047050",
-      "corpCode": "00124504",
-      "name": "포스코인터내셔널",
-      "totalDisclosures": 1,
-      "signals": [],
-      "riskScore": 0,
-      "recentDisclosures": [
-        {
-          "date": "20261002",
-          "rceptNo": "20261002800003",
-          "title": "[기재정정]타인에대한채무보증결정              ",
-          "type": "I"
         }
       ]
     }
