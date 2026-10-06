@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T05:55:45.742Z",
+  "generatedAt": "2026-10-06T15:45:52.909Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,7 +11,7 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 11,
+    "highRiskCount": 13,
     "totalSignals": 43,
     "topRisks": [
       {
@@ -24,11 +24,10 @@
         ]
       },
       {
-        "name": "이브이첨단소재",
-        "score": 55,
+        "name": "씨씨에스",
+        "score": 50,
         "signals": [
-          "증자/감자",
-          "상장폐지위험"
+          "소송/분쟁"
         ]
       },
       {
@@ -45,6 +44,13 @@
         "signals": [
           "증자/감자",
           "상장폐지위험"
+        ]
+      },
+      {
+        "name": "DB증권",
+        "score": 40,
+        "signals": [
+          "대주주변경"
         ]
       },
       {
@@ -77,13 +83,6 @@
       },
       {
         "name": "예선테크",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "KT지니뮤직",
         "score": 35,
         "signals": [
           "상장폐지위험"
