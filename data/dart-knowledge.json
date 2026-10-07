@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T15:45:52.909Z",
+  "generatedAt": "2026-10-07T05:28:30.943Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,46 +11,15 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 13,
-    "totalSignals": 43,
+    "highRiskCount": 8,
+    "totalSignals": 31,
     "topRisks": [
       {
-        "name": "이오플로우",
+        "name": "메디콕스",
         "score": 100,
         "signals": [
-          "증자/감자",
-          "감사위험",
+          "소송/분쟁",
           "상장폐지위험"
-        ]
-      },
-      {
-        "name": "씨씨에스",
-        "score": 50,
-        "signals": [
-          "소송/분쟁"
-        ]
-      },
-      {
-        "name": "멤레이비티",
-        "score": 45,
-        "signals": [
-          "증자/감자",
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "비케이홀딩스",
-        "score": 45,
-        "signals": [
-          "증자/감자",
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "DB증권",
-        "score": 40,
-        "signals": [
-          "대주주변경"
         ]
       },
       {
@@ -61,7 +30,7 @@
         ]
       },
       {
-        "name": "바른손이앤에이",
+        "name": "멤레이비티",
         "score": 35,
         "signals": [
           "상장폐지위험"
@@ -75,17 +44,31 @@
         ]
       },
       {
-        "name": "유니온머티리얼",
+        "name": "예선테크",
         "score": 35,
         "signals": [
           "상장폐지위험"
         ]
       },
       {
-        "name": "예선테크",
+        "name": "에스에너지",
         "score": 35,
         "signals": [
           "상장폐지위험"
+        ]
+      },
+      {
+        "name": "서울식품공업",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "이오플로우",
+        "score": 30,
+        "signals": [
+          "증자/감자"
         ]
       }
     ]
