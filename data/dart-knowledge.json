@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T05:28:30.943Z",
+  "generatedAt": "2026-10-07T16:10:15.680Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 8,
-    "totalSignals": 31,
+    "highRiskCount": 12,
+    "totalSignals": 37,
     "topRisks": [
       {
         "name": "메디콕스",
@@ -23,7 +23,21 @@
         ]
       },
       {
+        "name": "이노인스트루먼트",
+        "score": 70,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
         "name": "유디엠텍",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "바른손이앤에이",
         "score": 35,
         "signals": [
           "상장폐지위험"
@@ -37,7 +51,7 @@
         ]
       },
       {
-        "name": "이노인스트루먼트",
+        "name": "티케이지애강",
         "score": 35,
         "signals": [
           "상장폐지위험"
@@ -65,9 +79,10 @@
         ]
       },
       {
-        "name": "이오플로우",
+        "name": "대한제강",
         "score": 30,
         "signals": [
+          "대주주변경",
           "증자/감자"
         ]
       }
