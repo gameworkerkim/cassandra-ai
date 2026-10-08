@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T16:10:15.680Z",
+  "generatedAt": "2026-10-08T05:37:04.206Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,12 +11,12 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 12,
-    "totalSignals": 37,
+    "highRiskCount": 8,
+    "totalSignals": 23,
     "topRisks": [
       {
         "name": "메디콕스",
-        "score": 100,
+        "score": 95,
         "signals": [
           "소송/분쟁",
           "상장폐지위험"
@@ -52,20 +52,6 @@
       },
       {
         "name": "티케이지애강",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "예선테크",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "에스에너지",
         "score": 35,
         "signals": [
           "상장폐지위험"
