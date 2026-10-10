@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T15:54:04.921Z",
+  "generatedAt": "2026-10-10T05:25:48.300Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -12,15 +12,8 @@
   "companies": {},
   "dailyReport": {
     "highRiskCount": 10,
-    "totalSignals": 27,
+    "totalSignals": 25,
     "topRisks": [
-      {
-        "name": "이노인스트루먼트",
-        "score": 70,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
       {
         "name": "씨씨에스",
         "score": 60,
@@ -69,6 +62,13 @@
       },
       {
         "name": "티케이지애강",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "이노인스트루먼트",
         "score": 35,
         "signals": [
           "상장폐지위험"
