@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T05:25:48.300Z",
+  "generatedAt": "2026-10-10T16:46:51.138Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,84 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 10,
-    "totalSignals": 25,
-    "topRisks": [
-      {
-        "name": "씨씨에스",
-        "score": 60,
-        "signals": [
-          "소송/분쟁",
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "이오플로우",
-        "score": 55,
-        "signals": [
-          "증자/감자",
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "비케이홀딩스",
-        "score": 50,
-        "signals": [
-          "대주주변경",
-          "증자/감자"
-        ]
-      },
-      {
-        "name": "좋은사람들",
-        "score": 45,
-        "signals": [
-          "증자/감자",
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "세림B&G",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "바른손이앤에이",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "티케이지애강",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "이노인스트루먼트",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "서울식품공업",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "대한제강",
-        "score": 30,
-        "signals": [
-          "대주주변경",
-          "증자/감자"
-        ]
-      }
-    ]
+    "highRiskCount": 0,
+    "totalSignals": 0,
+    "topRisks": []
   }
 }
