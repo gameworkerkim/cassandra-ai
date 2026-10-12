@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-11T15:23:53.221Z",
+  "generatedAt": "2026-10-12T05:30:20.607Z",
   "period": {
-    "from": "20261004",
-    "to": "20261011"
+    "from": "20261005",
+    "to": "20261012"
   },
-  "totalCompanies": 55,
-  "totalDisclosures": 77,
+  "totalCompanies": 56,
+  "totalDisclosures": 83,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -98,7 +98,7 @@
       "stockCode": "294090",
       "corpCode": "01274310",
       "name": "이오플로우",
-      "totalDisclosures": 5,
+      "totalDisclosures": 6,
       "signals": [
         {
           "rule": "증자/감자",
@@ -126,6 +126,12 @@
           "rceptNo": "20261006000211",
           "title": "[기재정정]주요사항보고서(유상증자결정)",
           "type": "B"
+        },
+        {
+          "date": "20261012",
+          "rceptNo": "20261012900291",
+          "title": "상장적격성실질심사관련주요개선계획(자율공시)              ",
+          "type": "I"
         },
         {
           "date": "20261008",
@@ -420,7 +426,7 @@
       "stockCode": "294090",
       "corpCode": "01274310",
       "name": "이오플로우",
-      "totalDisclosures": 5,
+      "totalDisclosures": 6,
       "signals": [
         {
           "rule": "증자/감자",
@@ -448,6 +454,12 @@
           "rceptNo": "20261006000211",
           "title": "[기재정정]주요사항보고서(유상증자결정)",
           "type": "B"
+        },
+        {
+          "date": "20261012",
+          "rceptNo": "20261012900291",
+          "title": "상장적격성실질심사관련주요개선계획(자율공시)              ",
+          "type": "I"
         },
         {
           "date": "20261008",
@@ -1263,10 +1275,16 @@
       "stockCode": "300080",
       "corpCode": "01237434",
       "name": "플리토",
-      "totalDisclosures": 1,
+      "totalDisclosures": 2,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261012",
+          "rceptNo": "20261012900229",
+          "title": "단일판매ㆍ공급계약체결              ",
+          "type": "I"
+        },
         {
           "date": "20261006",
           "rceptNo": "20261006900642",
@@ -1340,13 +1358,35 @@
       ]
     },
     {
-      "stockCode": "212710",
-      "corpCode": "01208751",
-      "name": "아이에스티이",
+      "stockCode": "038540",
+      "corpCode": "00306162",
+      "name": "상상인",
       "totalDisclosures": 1,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261012",
+          "rceptNo": "20261012900286",
+          "title": "[기재정정]타법인주식및출자증권처분결정              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "212710",
+      "corpCode": "01208751",
+      "name": "아이에스티이",
+      "totalDisclosures": 2,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261012",
+          "rceptNo": "20261012900150",
+          "title": "단일판매ㆍ공급계약체결(자율공시)              ",
+          "type": "I"
+        },
         {
           "date": "20261007",
           "rceptNo": "20261007900127",
@@ -1391,10 +1431,22 @@
       "stockCode": "336040",
       "corpCode": "01118139",
       "name": "타스컴",
-      "totalDisclosures": 1,
+      "totalDisclosures": 3,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261012",
+          "rceptNo": "20261012600165",
+          "title": "주주명부폐쇄기간또는기준일설정              ",
+          "type": "I"
+        },
+        {
+          "date": "20261012",
+          "rceptNo": "20261012600164",
+          "title": "주주총회소집결의              ",
+          "type": "I"
+        },
         {
           "date": "20261007",
           "rceptNo": "20261007600087",
