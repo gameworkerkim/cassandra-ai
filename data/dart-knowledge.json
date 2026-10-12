@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T05:30:20.607Z",
+  "generatedAt": "2026-10-12T18:42:40.843Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,22 +11,22 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 10,
-    "totalSignals": 25,
+    "highRiskCount": 12,
+    "totalSignals": 30,
     "topRisks": [
+      {
+        "name": "이오플로우",
+        "score": 65,
+        "signals": [
+          "증자/감자",
+          "상장폐지위험"
+        ]
+      },
       {
         "name": "씨씨에스",
         "score": 60,
         "signals": [
           "소송/분쟁",
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "이오플로우",
-        "score": 55,
-        "signals": [
-          "증자/감자",
           "상장폐지위험"
         ]
       },
@@ -75,18 +75,17 @@
         ]
       },
       {
-        "name": "서울식품공업",
+        "name": "대림제지",
         "score": 35,
         "signals": [
           "상장폐지위험"
         ]
       },
       {
-        "name": "대한제강",
-        "score": 30,
+        "name": "서울식품공업",
+        "score": 35,
         "signals": [
-          "대주주변경",
-          "증자/감자"
+          "상장폐지위험"
         ]
       }
     ]
