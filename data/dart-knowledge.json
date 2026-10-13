@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T06:28:07.461Z",
+  "generatedAt": "2026-10-13T16:47:09.505Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -12,8 +12,16 @@
   "companies": {},
   "dailyReport": {
     "highRiskCount": 13,
-    "totalSignals": 32,
+    "totalSignals": 35,
     "topRisks": [
+      {
+        "name": "STX",
+        "score": 70,
+        "signals": [
+          "대주주변경",
+          "증자/감자"
+        ]
+      },
       {
         "name": "이오플로우",
         "score": 65,
@@ -76,13 +84,6 @@
       },
       {
         "name": "대림제지",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "서울식품공업",
         "score": 35,
         "signals": [
           "상장폐지위험"
