@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T18:42:40.843Z",
+  "generatedAt": "2026-10-13T06:28:07.461Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 12,
-    "totalSignals": 30,
+    "highRiskCount": 13,
+    "totalSignals": 32,
     "topRisks": [
       {
         "name": "이오플로우",
