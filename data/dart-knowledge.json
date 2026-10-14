@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T04:29:04.784Z",
+  "generatedAt": "2026-10-14T14:25:09.956Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,9 +11,24 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 10,
-    "totalSignals": 28,
+    "highRiskCount": 12,
+    "totalSignals": 30,
     "topRisks": [
+      {
+        "name": "씨씨에스",
+        "score": 85,
+        "signals": [
+          "소송/분쟁",
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "로지스몬",
+        "score": 75,
+        "signals": [
+          "소송/분쟁"
+        ]
+      },
       {
         "name": "STX",
         "score": 70,
@@ -24,10 +39,18 @@
       },
       {
         "name": "비케이홀딩스",
-        "score": 50,
+        "score": 70,
         "signals": [
           "대주주변경",
           "증자/감자"
+        ]
+      },
+      {
+        "name": "넥사다이내믹스",
+        "score": 55,
+        "signals": [
+          "대주주변경",
+          "상장폐지위험"
         ]
       },
       {
@@ -54,13 +77,6 @@
         ]
       },
       {
-        "name": "씨씨에스",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
         "name": "티케이지애강",
         "score": 35,
         "signals": [
@@ -72,20 +88,6 @@
         "score": 35,
         "signals": [
           "상장폐지위험"
-        ]
-      },
-      {
-        "name": "대림제지",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "이연제약",
-        "score": 30,
-        "signals": [
-          "CB발행"
         ]
       }
     ]
