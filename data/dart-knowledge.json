@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T16:47:09.505Z",
+  "generatedAt": "2026-10-14T04:29:04.784Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 13,
-    "totalSignals": 35,
+    "highRiskCount": 10,
+    "totalSignals": 28,
     "topRisks": [
       {
         "name": "STX",
@@ -20,22 +20,6 @@
         "signals": [
           "대주주변경",
           "증자/감자"
-        ]
-      },
-      {
-        "name": "이오플로우",
-        "score": 65,
-        "signals": [
-          "증자/감자",
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "씨씨에스",
-        "score": 60,
-        "signals": [
-          "소송/분쟁",
-          "상장폐지위험"
         ]
       },
       {
@@ -47,6 +31,14 @@
         ]
       },
       {
+        "name": "이오플로우",
+        "score": 45,
+        "signals": [
+          "증자/감자",
+          "상장폐지위험"
+        ]
+      },
+      {
         "name": "좋은사람들",
         "score": 45,
         "signals": [
@@ -55,14 +47,14 @@
         ]
       },
       {
-        "name": "세림B&G",
+        "name": "바른손이앤에이",
         "score": 35,
         "signals": [
           "상장폐지위험"
         ]
       },
       {
-        "name": "바른손이앤에이",
+        "name": "씨씨에스",
         "score": 35,
         "signals": [
           "상장폐지위험"
@@ -87,6 +79,13 @@
         "score": 35,
         "signals": [
           "상장폐지위험"
+        ]
+      },
+      {
+        "name": "이연제약",
+        "score": 30,
+        "signals": [
+          "CB발행"
         ]
       }
     ]
