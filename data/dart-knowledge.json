@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T14:25:09.956Z",
+  "generatedAt": "2026-10-15T04:11:33.015Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 12,
-    "totalSignals": 30,
+    "highRiskCount": 9,
+    "totalSignals": 24,
     "topRisks": [
       {
         "name": "씨씨에스",
@@ -46,14 +46,6 @@
         ]
       },
       {
-        "name": "넥사다이내믹스",
-        "score": 55,
-        "signals": [
-          "대주주변경",
-          "상장폐지위험"
-        ]
-      },
-      {
         "name": "이오플로우",
         "score": 45,
         "signals": [
@@ -70,24 +62,24 @@
         ]
       },
       {
-        "name": "바른손이앤에이",
+        "name": "넥사다이내믹스",
         "score": 35,
         "signals": [
           "상장폐지위험"
         ]
       },
       {
-        "name": "티케이지애강",
+        "name": "대림제지",
         "score": 35,
         "signals": [
           "상장폐지위험"
         ]
       },
       {
-        "name": "이노인스트루먼트",
-        "score": 35,
+        "name": "이연제약",
+        "score": 30,
         "signals": [
-          "상장폐지위험"
+          "CB발행"
         ]
       }
     ]
