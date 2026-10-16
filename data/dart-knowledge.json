@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T05:46:57.460Z",
+  "generatedAt": "2026-10-16T13:49:09.587Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,85 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 0,
-    "totalSignals": 0,
-    "topRisks": []
+    "highRiskCount": 12,
+    "totalSignals": 30,
+    "topRisks": [
+      {
+        "name": "제일엠앤에스",
+        "score": 95,
+        "signals": [
+          "대주주변경",
+          "소송/분쟁",
+          "증자/감자"
+        ]
+      },
+      {
+        "name": "씨씨에스",
+        "score": 75,
+        "signals": [
+          "소송/분쟁"
+        ]
+      },
+      {
+        "name": "로지스몬",
+        "score": 75,
+        "signals": [
+          "소송/분쟁"
+        ]
+      },
+      {
+        "name": "STX",
+        "score": 70,
+        "signals": [
+          "대주주변경",
+          "증자/감자"
+        ]
+      },
+      {
+        "name": "이연제약",
+        "score": 55,
+        "signals": [
+          "CB발행",
+          "CB리픽싱",
+          "증자/감자"
+        ]
+      },
+      {
+        "name": "본느",
+        "score": 45,
+        "signals": [
+          "대주주변경",
+          "소송/분쟁"
+        ]
+      },
+      {
+        "name": "동일산업",
+        "score": 40,
+        "signals": [
+          "대주주변경"
+        ]
+      },
+      {
+        "name": "바른손이앤에이",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "에스아이리소스",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "넥사다이내믹스",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      }
+    ]
   }
 }
