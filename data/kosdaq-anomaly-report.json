@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T13:52:40.823Z",
+  "generatedAt": "2026-10-17T04:00:56.962Z",
   "totalStocks": 265,
   "hypothesis": "회사명 변경 + 사업목적 추가 + 소송/경영권 분쟁 → 주가 변동성 증가",
   "filters": {
@@ -7,36 +7,14 @@
     "maxMarketCap": "5,000억원"
   },
   "summary": {
-    "volatilityScoreGt0": 1,
+    "volatilityScoreGt0": 0,
     "nameChanges": 0,
     "majorHolderChanges": 0,
     "purposeAdditions": 0,
-    "lawsuits": 1,
+    "lawsuits": 0,
     "cbIssuances": 0
   },
   "stocks": [
-    {
-      "rank": 20,
-      "name": "글로벌텍스프리",
-      "code": "204620",
-      "price": "5,890",
-      "change": "+20 (+0.34%)",
-      "changePercent": 0.34,
-      "volume": "2,224,592",
-      "volumeRaw": 2224592,
-      "marketCap": "4140억",
-      "marketCapRaw": 4140,
-      "flags": {
-        "hasNameChange": false,
-        "hasMajorHolderChange": false,
-        "hasPurposeAddition": false,
-        "hasLawsuit": true,
-        "lawsuitDetail": "소송등의판결ㆍ결정              (주주총회결의 취소 청구의 소)",
-        "hasCB": false,
-        "cbCount": 0,
-        "volatilityScore": 25
-      }
-    },
     {
       "rank": 1,
       "name": "에코앤드림",
@@ -1140,6 +1118,27 @@
       "volumeRaw": 2231520,
       "marketCap": "483억",
       "marketCapRaw": 483,
+      "flags": {
+        "hasNameChange": false,
+        "hasMajorHolderChange": false,
+        "hasPurposeAddition": false,
+        "hasLawsuit": false,
+        "hasCB": false,
+        "cbCount": 0,
+        "volatilityScore": 0
+      }
+    },
+    {
+      "rank": 20,
+      "name": "글로벌텍스프리",
+      "code": "204620",
+      "price": "5,890",
+      "change": "+20 (+0.34%)",
+      "changePercent": 0.34,
+      "volume": "2,224,592",
+      "volumeRaw": 2224592,
+      "marketCap": "4140억",
+      "marketCapRaw": 4140,
       "flags": {
         "hasNameChange": false,
         "hasMajorHolderChange": false,

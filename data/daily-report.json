@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T13:49:09.586Z",
+  "generatedAt": "2026-10-17T03:58:10.461Z",
   "period": {
-    "from": "20261009",
-    "to": "20261016"
+    "from": "20261010",
+    "to": "20261017"
   },
-  "totalCompanies": 62,
-  "totalDisclosures": 115,
+  "totalCompanies": 63,
+  "totalDisclosures": 118,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -396,6 +396,29 @@
           "date": "20261016",
           "rceptNo": "20261016800790",
           "title": "최대주주등소유주식변동신고서(최대주주변경시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "279600",
+      "corpCode": "01190124",
+      "name": "미디어젠",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "상장폐지위험",
+          "weight": 35,
+          "count": 1,
+          "latestDate": "2026-10-12"
+        }
+      ],
+      "riskScore": 35,
+      "recentDisclosures": [
+        {
+          "date": "20261012",
+          "rceptNo": "20261012900758",
+          "title": "기타시장안내(관리종목지정우려종목)              (시가총액 200억원 미달)",
           "type": "I"
         }
       ]
@@ -895,6 +918,29 @@
       ]
     },
     {
+      "stockCode": "279600",
+      "corpCode": "01190124",
+      "name": "미디어젠",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "상장폐지위험",
+          "weight": 35,
+          "count": 1,
+          "latestDate": "2026-10-12"
+        }
+      ],
+      "riskScore": 35,
+      "recentDisclosures": [
+        {
+          "date": "20261012",
+          "rceptNo": "20261012900758",
+          "title": "기타시장안내(관리종목지정우려종목)              (시가총액 200억원 미달)",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "035620",
       "corpCode": "00259590",
       "name": "바른손이앤에이",
@@ -1331,6 +1377,34 @@
           "rceptNo": "20261013000138",
           "title": "주요사항보고서(전환사채권발행결정)",
           "type": "B"
+        }
+      ]
+    },
+    {
+      "stockCode": "215090",
+      "corpCode": "01063884",
+      "name": "솔디펜스",
+      "totalDisclosures": 3,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261016",
+          "rceptNo": "20261016900411",
+          "title": "단일판매ㆍ공급계약체결              ",
+          "type": "I"
+        },
+        {
+          "date": "20261016",
+          "rceptNo": "20261016900410",
+          "title": "[기재정정]주주총회소집결의              (임시주주총회)",
+          "type": "I"
+        },
+        {
+          "date": "20261012",
+          "rceptNo": "20261012900473",
+          "title": "단일판매ㆍ공급계약체결              ",
+          "type": "I"
         }
       ]
     },
@@ -2046,22 +2120,6 @@
           "date": "20261014",
           "rceptNo": "20261014900594",
           "title": "증권발행결과(자율공시)              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "457600",
-      "corpCode": "01453944",
-      "name": "벡트",
-      "totalDisclosures": 1,
-      "signals": [],
-      "riskScore": 0,
-      "recentDisclosures": [
-        {
-          "date": "20261016",
-          "rceptNo": "20261016900529",
-          "title": "주주명부폐쇄기간또는기준일설정              ",
           "type": "I"
         }
       ]

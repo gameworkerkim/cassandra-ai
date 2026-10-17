@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T13:49:09.587Z",
+  "generatedAt": "2026-10-17T03:58:10.462Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 12,
-    "totalSignals": 30,
+    "highRiskCount": 13,
+    "totalSignals": 31,
     "topRisks": [
       {
         "name": "제일엠앤에스",
@@ -70,6 +70,13 @@
         ]
       },
       {
+        "name": "미디어젠",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
         "name": "바른손이앤에이",
         "score": 35,
         "signals": [
@@ -78,13 +85,6 @@
       },
       {
         "name": "에스아이리소스",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "넥사다이내믹스",
         "score": 35,
         "signals": [
           "상장폐지위험"
