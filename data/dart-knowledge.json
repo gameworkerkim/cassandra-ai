@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T13:03:23.797Z",
+  "generatedAt": "2026-10-19T04:14:02.574Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -12,7 +12,7 @@
   "companies": {},
   "dailyReport": {
     "highRiskCount": 13,
-    "totalSignals": 31,
+    "totalSignals": 32,
     "topRisks": [
       {
         "name": "제일엠앤에스",

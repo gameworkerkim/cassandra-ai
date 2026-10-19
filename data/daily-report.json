@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-18T13:03:23.795Z",
+  "generatedAt": "2026-10-19T04:14:02.573Z",
   "period": {
-    "from": "20261011",
-    "to": "20261018"
+    "from": "20261012",
+    "to": "20261019"
   },
-  "totalCompanies": 63,
-  "totalDisclosures": 118,
+  "totalCompanies": 64,
+  "totalDisclosures": 121,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -1289,6 +1289,29 @@
       ]
     },
     {
+      "stockCode": "088790",
+      "corpCode": "00557933",
+      "name": "진도",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-10-19"
+        }
+      ],
+      "riskScore": 20,
+      "recentDisclosures": [
+        {
+          "date": "20261019",
+          "rceptNo": "20261019800186",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "464080",
       "corpCode": "01686427",
       "name": "에스오에스랩",
@@ -1600,7 +1623,7 @@
       "stockCode": "018670",
       "corpCode": "00144164",
       "name": "SK가스",
-      "totalDisclosures": 4,
+      "totalDisclosures": 5,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
@@ -1609,6 +1632,12 @@
           "rceptNo": "20261013000297",
           "title": "주요사항보고서(자기주식취득신탁계약체결결정)",
           "type": "B"
+        },
+        {
+          "date": "20261019",
+          "rceptNo": "20261019800002",
+          "title": "[기재정정]타법인주식및출자증권처분결정(종속회사의주요경영사항)              ",
+          "type": "I"
         },
         {
           "date": "20261014",
@@ -1698,10 +1727,16 @@
       "stockCode": "061090",
       "corpCode": "01010615",
       "name": "세나테크놀로지",
-      "totalDisclosures": 1,
+      "totalDisclosures": 2,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261019",
+          "rceptNo": "20261019000081",
+          "title": "주요사항보고서(자기주식취득신탁계약체결결정)",
+          "type": "B"
+        },
         {
           "date": "20261014",
           "rceptNo": "20261014900180",
