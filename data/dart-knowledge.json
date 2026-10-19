@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T04:14:02.574Z",
+  "generatedAt": "2026-10-19T16:17:00.287Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -12,7 +12,7 @@
   "companies": {},
   "dailyReport": {
     "highRiskCount": 13,
-    "totalSignals": 32,
+    "totalSignals": 33,
     "topRisks": [
       {
         "name": "제일엠앤에스",
@@ -25,13 +25,6 @@
       },
       {
         "name": "씨씨에스",
-        "score": 75,
-        "signals": [
-          "소송/분쟁"
-        ]
-      },
-      {
-        "name": "로지스몬",
         "score": 75,
         "signals": [
           "소송/분쟁"
@@ -60,6 +53,13 @@
         "signals": [
           "대주주변경",
           "소송/분쟁"
+        ]
+      },
+      {
+        "name": "모나용평",
+        "score": 40,
+        "signals": [
+          "대주주변경"
         ]
       },
       {

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-19T04:14:02.573Z",
+  "generatedAt": "2026-10-19T16:17:00.286Z",
   "period": {
     "from": "20261012",
     "to": "20261019"
   },
-  "totalCompanies": 64,
-  "totalDisclosures": 121,
+  "totalCompanies": 72,
+  "totalDisclosures": 137,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -172,41 +172,6 @@
       ]
     },
     {
-      "stockCode": "223220",
-      "corpCode": "01060735",
-      "name": "로지스몬",
-      "totalDisclosures": 3,
-      "signals": [
-        {
-          "rule": "소송/분쟁",
-          "weight": 75,
-          "count": 3,
-          "latestDate": "2026-10-14"
-        }
-      ],
-      "riskScore": 75,
-      "recentDisclosures": [
-        {
-          "date": "20261014",
-          "rceptNo": "20261014600490",
-          "title": "소송등의제기ㆍ신청(경영권분쟁소송)              ",
-          "type": "I"
-        },
-        {
-          "date": "20261014",
-          "rceptNo": "20261014600488",
-          "title": "소송등의제기ㆍ신청(경영권분쟁소송)              ",
-          "type": "I"
-        },
-        {
-          "date": "20261014",
-          "rceptNo": "20261014600481",
-          "title": "소송등의제기ㆍ신청(경영권분쟁소송)              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
       "stockCode": "011810",
       "corpCode": "00138297",
       "name": "STX",
@@ -367,6 +332,35 @@
           "date": "20261012",
           "rceptNo": "20261012900735",
           "title": "최대주주변경              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "070960",
+      "corpCode": "00365989",
+      "name": "모나용평",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 40,
+          "count": 2,
+          "latestDate": "2026-10-19"
+        }
+      ],
+      "riskScore": 40,
+      "recentDisclosures": [
+        {
+          "date": "20261019",
+          "rceptNo": "20261019800264",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        },
+        {
+          "date": "20261012",
+          "rceptNo": "20261012800700",
+          "title": "최대주주등소유주식변동신고서              ",
           "type": "I"
         }
       ]
@@ -689,41 +683,6 @@
       ]
     },
     {
-      "stockCode": "223220",
-      "corpCode": "01060735",
-      "name": "로지스몬",
-      "totalDisclosures": 3,
-      "signals": [
-        {
-          "rule": "소송/분쟁",
-          "weight": 75,
-          "count": 3,
-          "latestDate": "2026-10-14"
-        }
-      ],
-      "riskScore": 75,
-      "recentDisclosures": [
-        {
-          "date": "20261014",
-          "rceptNo": "20261014600490",
-          "title": "소송등의제기ㆍ신청(경영권분쟁소송)              ",
-          "type": "I"
-        },
-        {
-          "date": "20261014",
-          "rceptNo": "20261014600488",
-          "title": "소송등의제기ㆍ신청(경영권분쟁소송)              ",
-          "type": "I"
-        },
-        {
-          "date": "20261014",
-          "rceptNo": "20261014600481",
-          "title": "소송등의제기ㆍ신청(경영권분쟁소송)              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
       "stockCode": "011810",
       "corpCode": "00138297",
       "name": "STX",
@@ -884,6 +843,35 @@
           "date": "20261012",
           "rceptNo": "20261012900735",
           "title": "최대주주변경              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "070960",
+      "corpCode": "00365989",
+      "name": "모나용평",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 40,
+          "count": 2,
+          "latestDate": "2026-10-19"
+        }
+      ],
+      "riskScore": 40,
+      "recentDisclosures": [
+        {
+          "date": "20261019",
+          "rceptNo": "20261019800264",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        },
+        {
+          "date": "20261012",
+          "rceptNo": "20261012800700",
+          "title": "최대주주등소유주식변동신고서              ",
           "type": "I"
         }
       ]
@@ -1092,6 +1080,29 @@
       ]
     },
     {
+      "stockCode": "078020",
+      "corpCode": "00330424",
+      "name": "LS증권",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "소송/분쟁",
+          "weight": 25,
+          "count": 1,
+          "latestDate": "2026-10-19"
+        }
+      ],
+      "riskScore": 25,
+      "recentDisclosures": [
+        {
+          "date": "20261019",
+          "rceptNo": "20261019900613",
+          "title": "소송등의판결ㆍ결정(자율공시:일정금액미만의청구)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "054180",
       "corpCode": "00356839",
       "name": "메디콕스",
@@ -1220,29 +1231,6 @@
       ]
     },
     {
-      "stockCode": "070960",
-      "corpCode": "00365989",
-      "name": "모나용평",
-      "totalDisclosures": 1,
-      "signals": [
-        {
-          "rule": "대주주변경",
-          "weight": 20,
-          "count": 1,
-          "latestDate": "2026-10-12"
-        }
-      ],
-      "riskScore": 20,
-      "recentDisclosures": [
-        {
-          "date": "20261012",
-          "rceptNo": "20261012800700",
-          "title": "최대주주등소유주식변동신고서              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
       "stockCode": "002240",
       "corpCode": "00103006",
       "name": "고려제강",
@@ -1331,6 +1319,29 @@
           "rceptNo": "20261012900278",
           "title": "전환가액의조정              ",
           "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "258050",
+      "corpCode": "01246742",
+      "name": "테크트랜스",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "증자/감자",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-10-15"
+        }
+      ],
+      "riskScore": 10,
+      "recentDisclosures": [
+        {
+          "date": "20261015",
+          "rceptNo": "20261014000461",
+          "title": "주요사항보고서(유상증자결정)",
+          "type": "B"
         }
       ]
     },
@@ -1591,7 +1602,7 @@
       "stockCode": "001570",
       "corpCode": "00106119",
       "name": "금양",
-      "totalDisclosures": 1,
+      "totalDisclosures": 2,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
@@ -1600,6 +1611,12 @@
           "rceptNo": "20261012000401",
           "title": "[기재정정]주요사항보고서(회사분할결정)",
           "type": "B"
+        },
+        {
+          "date": "20261019",
+          "rceptNo": "20261019800354",
+          "title": "임시주주총회결과              ",
+          "type": "I"
         }
       ]
     },
@@ -1727,7 +1744,7 @@
       "stockCode": "061090",
       "corpCode": "01010615",
       "name": "세나테크놀로지",
-      "totalDisclosures": 2,
+      "totalDisclosures": 4,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
@@ -1738,10 +1755,38 @@
           "type": "B"
         },
         {
+          "date": "20261019",
+          "rceptNo": "20261019900315",
+          "title": "주주명부폐쇄기간또는기준일설정              ",
+          "type": "I"
+        },
+        {
+          "date": "20261019",
+          "rceptNo": "20261019900283",
+          "title": "주주총회소집결의              (임시주주총회)",
+          "type": "I"
+        },
+        {
           "date": "20261014",
           "rceptNo": "20261014900180",
           "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
           "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "006980",
+      "corpCode": "00142661",
+      "name": "우성",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261019",
+          "rceptNo": "20261019000317",
+          "title": "[기재정정]주요사항보고서(회사합병결정)",
+          "type": "B"
         }
       ]
     },
@@ -1763,6 +1808,22 @@
           "date": "20261013",
           "rceptNo": "20261013900209",
           "title": "중간(분기)배당을위한주주명부폐쇄(기준일)결정              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "493280",
+      "corpCode": "01859500",
+      "name": "아이엠바이오로직스",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261019",
+          "rceptNo": "20261019900284",
+          "title": "기업설명회(IR)개최              ",
           "type": "I"
         }
       ]
@@ -1793,10 +1854,16 @@
       "stockCode": "329180",
       "corpCode": "01390344",
       "name": "HD현대중공업",
-      "totalDisclosures": 4,
+      "totalDisclosures": 5,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261019",
+          "rceptNo": "20261019800435",
+          "title": "영업(잠정)실적(공정공시)              ",
+          "type": "I"
+        },
         {
           "date": "20261015",
           "rceptNo": "20261015800353",
@@ -1859,10 +1926,16 @@
       "stockCode": "347700",
       "corpCode": "01336762",
       "name": "스피어",
-      "totalDisclosures": 2,
+      "totalDisclosures": 3,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261019",
+          "rceptNo": "20261019900272",
+          "title": "[기재정정]단일판매ㆍ공급계약체결              ",
+          "type": "I"
+        },
         {
           "date": "20261015",
           "rceptNo": "20261015900396",
@@ -1878,13 +1951,41 @@
       ]
     },
     {
-      "stockCode": "009540",
-      "corpCode": "00164830",
-      "name": "HD한국조선해양",
-      "totalDisclosures": 2,
+      "stockCode": "352820",
+      "corpCode": "01204056",
+      "name": "하이브",
+      "totalDisclosures": 1,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261019",
+          "rceptNo": "20261019800412",
+          "title": "기업설명회(IR)개최(안내공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "009540",
+      "corpCode": "00164830",
+      "name": "HD한국조선해양",
+      "totalDisclosures": 4,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261019",
+          "rceptNo": "20261019800441",
+          "title": "영업(잠정)실적(공정공시)(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
+        {
+          "date": "20261019",
+          "rceptNo": "20261019800444",
+          "title": "영업(잠정)실적(공정공시)              ",
+          "type": "I"
+        },
         {
           "date": "20261015",
           "rceptNo": "20261015800358",
@@ -1911,6 +2012,22 @@
           "date": "20261015",
           "rceptNo": "20261015900189",
           "title": "[첨부정정]타인에대한채무보증결정              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "298050",
+      "corpCode": "01316254",
+      "name": "HS효성첨단소재",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261019",
+          "rceptNo": "20261019800568",
+          "title": "타인에대한채무보증결정              ",
           "type": "I"
         }
       ]
@@ -2144,6 +2261,34 @@
       ]
     },
     {
+      "stockCode": "377300",
+      "corpCode": "01244601",
+      "name": "카카오페이",
+      "totalDisclosures": 3,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261019",
+          "rceptNo": "20261019800489",
+          "title": "기업설명회(IR)개최(안내공시)              ",
+          "type": "I"
+        },
+        {
+          "date": "20261019",
+          "rceptNo": "20261019800484",
+          "title": "기업설명회(IR)개최(안내공시)              ",
+          "type": "I"
+        },
+        {
+          "date": "20261019",
+          "rceptNo": "20261019800479",
+          "title": "결산실적공시예고(안내공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "101360",
       "corpCode": "00619640",
       "name": "에코앤드림",
@@ -2156,6 +2301,38 @@
           "rceptNo": "20261014900594",
           "title": "증권발행결과(자율공시)              ",
           "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "024950",
+      "corpCode": "00128607",
+      "name": "삼천리자전거",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261019",
+          "rceptNo": "20261019000137",
+          "title": "주요사항보고서(자기주식취득신탁계약체결결정)",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "stockCode": "039840",
+      "corpCode": "00115931",
+      "name": "디오",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261019",
+          "rceptNo": "20261019000160",
+          "title": "주요사항보고서(자기주식취득결정)",
+          "type": "B"
         }
       ]
     }
