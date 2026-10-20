@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T04:25:46.914Z",
+  "generatedAt": "2026-10-20T14:11:12.627Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 9,
-    "totalSignals": 26,
+    "highRiskCount": 11,
+    "totalSignals": 30,
     "topRisks": [
       {
         "name": "씨씨에스",
@@ -54,6 +54,14 @@
         ]
       },
       {
+        "name": "이오플로우",
+        "score": 35,
+        "signals": [
+          "소송/분쟁",
+          "CB발행"
+        ]
+      },
+      {
         "name": "바른손이앤에이",
         "score": 35,
         "signals": [
@@ -68,14 +76,14 @@
         ]
       },
       {
-        "name": "넥사다이내믹스",
+        "name": "에코볼트",
         "score": 35,
         "signals": [
           "상장폐지위험"
         ]
       },
       {
-        "name": "티케이지애강",
+        "name": "넥사다이내믹스",
         "score": 35,
         "signals": [
           "상장폐지위험"
