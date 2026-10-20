@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "rank": 16,
+    "name": "일월지엠엘",
+    "code": "178780",
+    "price": "2,185",
+    "change": "-145 (-6.22%)",
+    "changePercent": -6.22,
+    "volume": "21,803",
+    "volumeRaw": 21803,
+    "marketCap": "407억",
+    "marketCapRaw": 407,
+    "flags": {
+      "hasNameChange": false,
+      "hasMajorHolderChange": false,
+      "hasPurposeAddition": false,
+      "hasLawsuit": true,
+      "lawsuitDetail": "소송등의제기ㆍ신청(경영권분쟁소송)              (주주총회결의 무효 등의 소)",
+      "hasCB": false,
+      "cbCount": 0,
+      "volatilityScore": 25
+    }
+  }
+]

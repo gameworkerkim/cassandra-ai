@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T16:17:00.287Z",
+  "generatedAt": "2026-10-20T04:25:46.914Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,23 +11,22 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 13,
-    "totalSignals": 33,
+    "highRiskCount": 9,
+    "totalSignals": 26,
     "topRisks": [
-      {
-        "name": "제일엠앤에스",
-        "score": 95,
-        "signals": [
-          "대주주변경",
-          "소송/분쟁",
-          "증자/감자"
-        ]
-      },
       {
         "name": "씨씨에스",
         "score": 75,
         "signals": [
           "소송/분쟁"
+        ]
+      },
+      {
+        "name": "제일엠앤에스",
+        "score": 70,
+        "signals": [
+          "대주주변경",
+          "증자/감자"
         ]
       },
       {
@@ -48,32 +47,10 @@
         ]
       },
       {
-        "name": "본느",
-        "score": 45,
-        "signals": [
-          "대주주변경",
-          "소송/분쟁"
-        ]
-      },
-      {
-        "name": "모나용평",
-        "score": 40,
-        "signals": [
-          "대주주변경"
-        ]
-      },
-      {
         "name": "동일산업",
         "score": 40,
         "signals": [
           "대주주변경"
-        ]
-      },
-      {
-        "name": "미디어젠",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
         ]
       },
       {
@@ -85,6 +62,20 @@
       },
       {
         "name": "에스아이리소스",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "넥사다이내믹스",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "티케이지애강",
         "score": 35,
         "signals": [
           "상장폐지위험"
