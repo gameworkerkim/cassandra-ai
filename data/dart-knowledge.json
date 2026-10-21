@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T04:16:08.523Z",
+  "generatedAt": "2026-10-21T14:25:47.160Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 10,
-    "totalSignals": 28,
+    "highRiskCount": 12,
+    "totalSignals": 34,
     "topRisks": [
       {
         "name": "씨씨에스",
@@ -22,7 +22,24 @@
         ]
       },
       {
+        "name": "알에프텍",
+        "score": 55,
+        "signals": [
+          "소송/분쟁",
+          "CB발행",
+          "증자/감자"
+        ]
+      },
+      {
         "name": "제일엠앤에스",
+        "score": 50,
+        "signals": [
+          "대주주변경",
+          "증자/감자"
+        ]
+      },
+      {
+        "name": "비케이홀딩스",
         "score": 50,
         "signals": [
           "대주주변경",
@@ -69,20 +86,6 @@
       },
       {
         "name": "에코볼트",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "넥사다이내믹스",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "티케이지애강",
         "score": 35,
         "signals": [
           "상장폐지위험"
