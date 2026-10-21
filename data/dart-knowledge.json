@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T14:11:12.627Z",
+  "generatedAt": "2026-10-21T04:16:08.523Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 11,
-    "totalSignals": 30,
+    "highRiskCount": 10,
+    "totalSignals": 28,
     "topRisks": [
       {
         "name": "씨씨에스",
@@ -23,15 +23,7 @@
       },
       {
         "name": "제일엠앤에스",
-        "score": 70,
-        "signals": [
-          "대주주변경",
-          "증자/감자"
-        ]
-      },
-      {
-        "name": "STX",
-        "score": 70,
+        "score": 50,
         "signals": [
           "대주주변경",
           "증자/감자"
@@ -39,7 +31,7 @@
       },
       {
         "name": "이연제약",
-        "score": 55,
+        "score": 45,
         "signals": [
           "CB발행",
           "CB리픽싱",
@@ -84,6 +76,13 @@
       },
       {
         "name": "넥사다이내믹스",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "티케이지애강",
         "score": 35,
         "signals": [
           "상장폐지위험"
