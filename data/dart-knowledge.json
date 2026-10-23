@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T04:20:22.339Z",
+  "generatedAt": "2026-10-23T14:07:51.600Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,9 +11,17 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 11,
-    "totalSignals": 31,
+    "highRiskCount": 13,
+    "totalSignals": 35,
     "topRisks": [
+      {
+        "name": "바른손이앤에이",
+        "score": 100,
+        "signals": [
+          "소송/분쟁",
+          "상장폐지위험"
+        ]
+      },
       {
         "name": "삼영이엔씨",
         "score": 75,
@@ -32,12 +40,26 @@
         ]
       },
       {
+        "name": "티케이지애강",
+        "score": 70,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
         "name": "알에프텍",
         "score": 55,
         "signals": [
           "소송/분쟁",
           "CB발행",
           "증자/감자"
+        ]
+      },
+      {
+        "name": "LS증권",
+        "score": 50,
+        "signals": [
+          "소송/분쟁"
         ]
       },
       {
@@ -58,38 +80,18 @@
         ]
       },
       {
+        "name": "하이드로리튬",
+        "score": 45,
+        "signals": [
+          "증자/감자",
+          "상장폐지위험"
+        ]
+      },
+      {
         "name": "동일산업",
         "score": 40,
         "signals": [
           "대주주변경"
-        ]
-      },
-      {
-        "name": "진도",
-        "score": 40,
-        "signals": [
-          "대주주변경"
-        ]
-      },
-      {
-        "name": "바른손이앤에이",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "에코볼트",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "티케이지애강",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
         ]
       }
     ]

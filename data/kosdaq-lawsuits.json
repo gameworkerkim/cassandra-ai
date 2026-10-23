@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "rank": 13,
+    "name": "넥사다이내믹스",
+    "code": "351320",
+    "price": "5,400",
+    "change": "+485 (+9.87%)",
+    "changePercent": 9.87,
+    "volume": "661,254",
+    "volumeRaw": 661254,
+    "marketCap": "2349억",
+    "marketCapRaw": 2349,
+    "flags": {
+      "hasNameChange": false,
+      "hasMajorHolderChange": false,
+      "hasPurposeAddition": false,
+      "hasLawsuit": true,
+      "lawsuitDetail": "주요사항보고서(소송등의제기)",
+      "hasCB": false,
+      "cbCount": 0,
+      "volatilityScore": 25
+    }
+  }
+]
