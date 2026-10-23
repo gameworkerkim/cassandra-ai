@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T14:25:38.371Z",
+  "generatedAt": "2026-10-23T04:20:22.339Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 12,
-    "totalSignals": 37,
+    "highRiskCount": 11,
+    "totalSignals": 31,
     "topRisks": [
       {
         "name": "삼영이엔씨",
@@ -29,29 +29,6 @@
         "score": 75,
         "signals": [
           "소송/분쟁"
-        ]
-      },
-      {
-        "name": "바른손이앤에이",
-        "score": 70,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "티케이지애강",
-        "score": 70,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "이오플로우",
-        "score": 55,
-        "signals": [
-          "대주주변경",
-          "소송/분쟁",
-          "CB발행"
         ]
       },
       {
@@ -73,6 +50,14 @@
         ]
       },
       {
+        "name": "이오플로우",
+        "score": 45,
+        "signals": [
+          "대주주변경",
+          "소송/분쟁"
+        ]
+      },
+      {
         "name": "동일산업",
         "score": 40,
         "signals": [
@@ -87,7 +72,21 @@
         ]
       },
       {
-        "name": "에스아이리소스",
+        "name": "바른손이앤에이",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "에코볼트",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "티케이지애강",
         "score": 35,
         "signals": [
           "상장폐지위험"
