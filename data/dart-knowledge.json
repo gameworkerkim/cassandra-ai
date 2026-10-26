@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T13:38:18.254Z",
+  "generatedAt": "2026-10-26T04:17:50.878Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -12,7 +12,7 @@
   "companies": {},
   "dailyReport": {
     "highRiskCount": 11,
-    "totalSignals": 30,
+    "totalSignals": 33,
     "topRisks": [
       {
         "name": "바른손이앤에이",

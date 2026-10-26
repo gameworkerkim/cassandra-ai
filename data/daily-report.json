@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T13:38:18.253Z",
+  "generatedAt": "2026-10-26T04:17:50.877Z",
   "period": {
-    "from": "20261018",
-    "to": "20261025"
+    "from": "20261019",
+    "to": "20261026"
   },
-  "totalCompanies": 70,
-  "totalDisclosures": 132,
+  "totalCompanies": 72,
+  "totalDisclosures": 139,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -903,6 +903,35 @@
       ]
     },
     {
+      "stockCode": "002320",
+      "corpCode": "00163512",
+      "name": "한진",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "CB발행",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-10-26"
+        },
+        {
+          "rule": "CB리픽싱",
+          "weight": 15,
+          "count": 1,
+          "latestDate": "2026-10-26"
+        }
+      ],
+      "riskScore": 25,
+      "recentDisclosures": [
+        {
+          "date": "20261026",
+          "rceptNo": "20261026800139",
+          "title": "전환가액ㆍ신주인수권행사가액ㆍ교환가액의조정(안내공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "039980",
       "corpCode": "00369213",
       "name": "폴라리스AI",
@@ -1175,6 +1204,47 @@
       ]
     },
     {
+      "stockCode": "229640",
+      "corpCode": "01093007",
+      "name": "LS에코에너지",
+      "totalDisclosures": 4,
+      "signals": [
+        {
+          "rule": "증자/감자",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-10-26"
+        }
+      ],
+      "riskScore": 10,
+      "recentDisclosures": [
+        {
+          "date": "20261026",
+          "rceptNo": "20261026800116",
+          "title": "타법인주식및출자증권취득결정              ",
+          "type": "I"
+        },
+        {
+          "date": "20261026",
+          "rceptNo": "20261026800114",
+          "title": "유상증자결정(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
+        {
+          "date": "20261026",
+          "rceptNo": "20261026800112",
+          "title": "신규시설투자등(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
+        {
+          "date": "20261020",
+          "rceptNo": "20261020800175",
+          "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "206560",
       "corpCode": "01021949",
       "name": "덱스터",
@@ -1322,10 +1392,22 @@
       "stockCode": "041590",
       "corpCode": "00297448",
       "name": "플래스크",
-      "totalDisclosures": 1,
+      "totalDisclosures": 3,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261026",
+          "rceptNo": "20261026900187",
+          "title": "주주총회소집결의              (임시주주총회)",
+          "type": "I"
+        },
+        {
+          "date": "20261026",
+          "rceptNo": "20261026900185",
+          "title": "주주명부폐쇄기간또는기준일설정              ",
+          "type": "I"
+        },
         {
           "date": "20261023",
           "rceptNo": "20261023900427",
@@ -1351,6 +1433,22 @@
       ]
     },
     {
+      "stockCode": "266690",
+      "corpCode": "00960623",
+      "name": "덕산넵코어스",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261026",
+          "rceptNo": "20261026900143",
+          "title": "기업설명회(IR)개최              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "200710",
       "corpCode": "00657002",
       "name": "에이디테크놀로지",
@@ -1362,22 +1460,6 @@
           "date": "20261020",
           "rceptNo": "20261020900472",
           "title": "[기재정정]단일판매ㆍ공급계약체결              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "229640",
-      "corpCode": "01093007",
-      "name": "LS에코에너지",
-      "totalDisclosures": 1,
-      "signals": [],
-      "riskScore": 0,
-      "recentDisclosures": [
-        {
-          "date": "20261020",
-          "rceptNo": "20261020800175",
-          "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
           "type": "I"
         }
       ]
