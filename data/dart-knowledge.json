@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T04:17:50.878Z",
+  "generatedAt": "2026-10-26T15:56:07.754Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 11,
-    "totalSignals": 33,
+    "highRiskCount": 15,
+    "totalSignals": 39,
     "topRisks": [
       {
         "name": "바른손이앤에이",
@@ -53,6 +53,14 @@
         ]
       },
       {
+        "name": "SBI인베스트먼트",
+        "score": 45,
+        "signals": [
+          "증자/감자",
+          "상장폐지위험"
+        ]
+      },
+      {
         "name": "이오플로우",
         "score": 45,
         "signals": [
@@ -69,25 +77,17 @@
         ]
       },
       {
-        "name": "진도",
+        "name": "모나용평",
         "score": 40,
         "signals": [
           "대주주변경"
         ]
       },
       {
-        "name": "삼영이엔씨",
-        "score": 35,
+        "name": "진도",
+        "score": 40,
         "signals": [
-          "소송/분쟁",
-          "증자/감자"
-        ]
-      },
-      {
-        "name": "에코볼트",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
+          "대주주변경"
         ]
       }
     ]
