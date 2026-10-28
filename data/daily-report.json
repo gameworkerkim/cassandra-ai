@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-28T05:09:28.268Z",
+  "generatedAt": "2026-10-28T15:48:09.893Z",
   "period": {
     "from": "20261021",
     "to": "20261028"
   },
-  "totalCompanies": 73,
-  "totalDisclosures": 141,
+  "totalCompanies": 80,
+  "totalDisclosures": 157,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -195,6 +195,59 @@
       ]
     },
     {
+      "stockCode": "102460",
+      "corpCode": "00145598",
+      "name": "이연제약",
+      "totalDisclosures": 4,
+      "signals": [
+        {
+          "rule": "CB발행",
+          "weight": 30,
+          "count": 4,
+          "latestDate": "2026-10-28"
+        },
+        {
+          "rule": "CB리픽싱",
+          "weight": 15,
+          "count": 1,
+          "latestDate": "2026-10-26"
+        },
+        {
+          "rule": "증자/감자",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-10-28"
+        }
+      ],
+      "riskScore": 55,
+      "recentDisclosures": [
+        {
+          "date": "20261027",
+          "rceptNo": "20261027000356",
+          "title": "[기재정정]주요사항보고서(전환사채권발행결정)",
+          "type": "B"
+        },
+        {
+          "date": "20261026",
+          "rceptNo": "20261026000297",
+          "title": "주요사항보고서(자기전환사채만기전취득결정)",
+          "type": "B"
+        },
+        {
+          "date": "20261028",
+          "rceptNo": "20261028800573",
+          "title": "유상증자또는주식관련사채등의발행결과(자율공시)              ",
+          "type": "I"
+        },
+        {
+          "date": "20261026",
+          "rceptNo": "20261026800475",
+          "title": "전환가액ㆍ신주인수권행사가액ㆍ교환가액의조정(안내공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "061040",
       "corpCode": "00309831",
       "name": "알에프텍",
@@ -290,47 +343,6 @@
           "date": "20261022",
           "rceptNo": "20261022900633",
           "title": "주주명부폐쇄기간또는기준일설정              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "102460",
-      "corpCode": "00145598",
-      "name": "이연제약",
-      "totalDisclosures": 3,
-      "signals": [
-        {
-          "rule": "CB발행",
-          "weight": 30,
-          "count": 3,
-          "latestDate": "2026-10-27"
-        },
-        {
-          "rule": "CB리픽싱",
-          "weight": 15,
-          "count": 1,
-          "latestDate": "2026-10-26"
-        }
-      ],
-      "riskScore": 45,
-      "recentDisclosures": [
-        {
-          "date": "20261027",
-          "rceptNo": "20261027000356",
-          "title": "[기재정정]주요사항보고서(전환사채권발행결정)",
-          "type": "B"
-        },
-        {
-          "date": "20261026",
-          "rceptNo": "20261026000297",
-          "title": "주요사항보고서(자기전환사채만기전취득결정)",
-          "type": "B"
-        },
-        {
-          "date": "20261026",
-          "rceptNo": "20261026800475",
-          "title": "전환가액ㆍ신주인수권행사가액ㆍ교환가액의조정(안내공시)              ",
           "type": "I"
         }
       ]
@@ -590,6 +602,59 @@
       ]
     },
     {
+      "stockCode": "102460",
+      "corpCode": "00145598",
+      "name": "이연제약",
+      "totalDisclosures": 4,
+      "signals": [
+        {
+          "rule": "CB발행",
+          "weight": 30,
+          "count": 4,
+          "latestDate": "2026-10-28"
+        },
+        {
+          "rule": "CB리픽싱",
+          "weight": 15,
+          "count": 1,
+          "latestDate": "2026-10-26"
+        },
+        {
+          "rule": "증자/감자",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-10-28"
+        }
+      ],
+      "riskScore": 55,
+      "recentDisclosures": [
+        {
+          "date": "20261027",
+          "rceptNo": "20261027000356",
+          "title": "[기재정정]주요사항보고서(전환사채권발행결정)",
+          "type": "B"
+        },
+        {
+          "date": "20261026",
+          "rceptNo": "20261026000297",
+          "title": "주요사항보고서(자기전환사채만기전취득결정)",
+          "type": "B"
+        },
+        {
+          "date": "20261028",
+          "rceptNo": "20261028800573",
+          "title": "유상증자또는주식관련사채등의발행결과(자율공시)              ",
+          "type": "I"
+        },
+        {
+          "date": "20261026",
+          "rceptNo": "20261026800475",
+          "title": "전환가액ㆍ신주인수권행사가액ㆍ교환가액의조정(안내공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "061040",
       "corpCode": "00309831",
       "name": "알에프텍",
@@ -685,47 +750,6 @@
           "date": "20261022",
           "rceptNo": "20261022900633",
           "title": "주주명부폐쇄기간또는기준일설정              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "102460",
-      "corpCode": "00145598",
-      "name": "이연제약",
-      "totalDisclosures": 3,
-      "signals": [
-        {
-          "rule": "CB발행",
-          "weight": 30,
-          "count": 3,
-          "latestDate": "2026-10-27"
-        },
-        {
-          "rule": "CB리픽싱",
-          "weight": 15,
-          "count": 1,
-          "latestDate": "2026-10-26"
-        }
-      ],
-      "riskScore": 45,
-      "recentDisclosures": [
-        {
-          "date": "20261027",
-          "rceptNo": "20261027000356",
-          "title": "[기재정정]주요사항보고서(전환사채권발행결정)",
-          "type": "B"
-        },
-        {
-          "date": "20261026",
-          "rceptNo": "20261026000297",
-          "title": "주요사항보고서(자기전환사채만기전취득결정)",
-          "type": "B"
-        },
-        {
-          "date": "20261026",
-          "rceptNo": "20261026800475",
-          "title": "전환가액ㆍ신주인수권행사가액ㆍ교환가액의조정(안내공시)              ",
           "type": "I"
         }
       ]
@@ -851,7 +875,7 @@
       "stockCode": "114630",
       "corpCode": "00663669",
       "name": "폴라리스우노",
-      "totalDisclosures": 1,
+      "totalDisclosures": 3,
       "signals": [
         {
           "rule": "소송/분쟁",
@@ -862,6 +886,18 @@
       ],
       "riskScore": 25,
       "recentDisclosures": [
+        {
+          "date": "20261028",
+          "rceptNo": "20261028900706",
+          "title": "주주총회소집결의              (임시주주총회)",
+          "type": "I"
+        },
+        {
+          "date": "20261028",
+          "rceptNo": "20261028900683",
+          "title": "주주명부폐쇄기간또는기준일설정              ",
+          "type": "I"
+        },
         {
           "date": "20261021",
           "rceptNo": "20261021900603",
@@ -1084,6 +1120,29 @@
         {
           "date": "20261026",
           "rceptNo": "20261026800269",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "025000",
+      "corpCode": "00191472",
+      "name": "KPX케미칼",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-10-28"
+        }
+      ],
+      "riskScore": 20,
+      "recentDisclosures": [
+        {
+          "date": "20261028",
+          "rceptNo": "20261028800523",
           "title": "최대주주등소유주식변동신고서              ",
           "type": "I"
         }
@@ -1557,6 +1616,50 @@
       ]
     },
     {
+      "stockCode": "096770",
+      "corpCode": "00631518",
+      "name": "SK이노베이션",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261028",
+          "rceptNo": "20261028000291",
+          "title": "[기재정정]주요사항보고서(회사합병결정)",
+          "type": "B"
+        }
+      ]
+    },
+    {
+      "stockCode": "032640",
+      "corpCode": "00231363",
+      "name": "LG유플러스",
+      "totalDisclosures": 3,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261028",
+          "rceptNo": "20261028800449",
+          "title": "기업설명회(IR)개최(안내공시)              ",
+          "type": "I"
+        },
+        {
+          "date": "20261028",
+          "rceptNo": "20261028800443",
+          "title": "기업설명회(IR)개최(안내공시)              ",
+          "type": "I"
+        },
+        {
+          "date": "20261028",
+          "rceptNo": "20261028800411",
+          "title": "[첨부정정]지속가능경영보고서등관련사항(자율공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "109670",
       "corpCode": "00492706",
       "name": "씨싸이트",
@@ -1574,6 +1677,22 @@
           "date": "20261022",
           "rceptNo": "20261022900208",
           "title": "[기재정정]주주총회소집결의              (임시주주총회)",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "214450",
+      "corpCode": "00970453",
+      "name": "파마리서치",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261028",
+          "rceptNo": "20261028900421",
+          "title": "결산실적공시예고              ",
           "type": "I"
         }
       ]
@@ -1718,10 +1837,16 @@
       "stockCode": "006980",
       "corpCode": "00142661",
       "name": "우성",
-      "totalDisclosures": 4,
+      "totalDisclosures": 5,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261028",
+          "rceptNo": "20261028000428",
+          "title": "주요사항보고서(자기주식취득신탁계약해지결정)",
+          "type": "B"
+        },
         {
           "date": "20261027",
           "rceptNo": "20261027000321",
@@ -1752,10 +1877,16 @@
       "stockCode": "281740",
       "corpCode": "01255652",
       "name": "레이크머티리얼즈",
-      "totalDisclosures": 2,
+      "totalDisclosures": 3,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261028",
+          "rceptNo": "20261028900464",
+          "title": "[기재정정]금전대여결정              ",
+          "type": "I"
+        },
         {
           "date": "20261028",
           "rceptNo": "20261028900139",
@@ -1774,10 +1905,16 @@
       "stockCode": "050860",
       "corpCode": "00138747",
       "name": "아세아텍",
-      "totalDisclosures": 1,
+      "totalDisclosures": 2,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261028",
+          "rceptNo": "20261028900689",
+          "title": "중간(분기)배당락              ",
+          "type": "I"
+        },
         {
           "date": "20261021",
           "rceptNo": "20261021900205",
@@ -1806,10 +1943,16 @@
       "stockCode": "047040",
       "corpCode": "00124540",
       "name": "대우건설",
-      "totalDisclosures": 2,
+      "totalDisclosures": 3,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261028",
+          "rceptNo": "20261028800616",
+          "title": "타인에대한채무보증결정              ",
+          "type": "I"
+        },
         {
           "date": "20261027",
           "rceptNo": "20261027800048",
@@ -2119,6 +2262,22 @@
       ]
     },
     {
+      "stockCode": "034730",
+      "corpCode": "00181712",
+      "name": "SK",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261028",
+          "rceptNo": "20261028800466",
+          "title": "[기재정정]주요사항보고서(회사합병결정)(자회사의 주요경영사항)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "0155E0",
       "corpCode": "01947443",
       "name": "해치텍",
@@ -2222,6 +2381,38 @@
           "date": "20261027",
           "rceptNo": "20261027800608",
           "title": "영업(잠정)실적(공정공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "037760",
+      "corpCode": "00239596",
+      "name": "쎄니트",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261028",
+          "rceptNo": "20261028900625",
+          "title": "교환청구권행사              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "445180",
+      "corpCode": "01027828",
+      "name": "퓨릿",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261028",
+          "rceptNo": "20261028900379",
+          "title": "신규시설투자등              ",
           "type": "I"
         }
       ]

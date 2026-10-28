@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T05:09:28.269Z",
+  "generatedAt": "2026-10-28T15:48:09.894Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -12,7 +12,7 @@
   "companies": {},
   "dailyReport": {
     "highRiskCount": 9,
-    "totalSignals": 36,
+    "totalSignals": 38,
     "topRisks": [
       {
         "name": "바른손이앤에이",
@@ -37,6 +37,15 @@
         ]
       },
       {
+        "name": "이연제약",
+        "score": 55,
+        "signals": [
+          "CB발행",
+          "CB리픽싱",
+          "증자/감자"
+        ]
+      },
+      {
         "name": "알에프텍",
         "score": 55,
         "signals": [
@@ -51,14 +60,6 @@
         "signals": [
           "증자/감자",
           "상장폐지위험"
-        ]
-      },
-      {
-        "name": "이연제약",
-        "score": 45,
-        "signals": [
-          "CB발행",
-          "CB리픽싱"
         ]
       },
       {
