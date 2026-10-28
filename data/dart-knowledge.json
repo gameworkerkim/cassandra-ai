@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T15:12:00.707Z",
+  "generatedAt": "2026-10-28T05:09:28.269Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 11,
-    "totalSignals": 40,
+    "highRiskCount": 9,
+    "totalSignals": 36,
     "topRisks": [
       {
         "name": "바른손이앤에이",
@@ -62,14 +62,6 @@
         ]
       },
       {
-        "name": "이오플로우",
-        "score": 45,
-        "signals": [
-          "대주주변경",
-          "소송/분쟁"
-        ]
-      },
-      {
         "name": "하이드로리튬",
         "score": 45,
         "signals": [
@@ -86,7 +78,7 @@
         ]
       },
       {
-        "name": "에코볼트",
+        "name": "이노인스트루먼트",
         "score": 35,
         "signals": [
           "상장폐지위험"
