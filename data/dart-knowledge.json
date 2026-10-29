@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T05:21:23.972Z",
+  "generatedAt": "2026-10-29T15:56:05.775Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 7,
-    "totalSignals": 30,
+    "highRiskCount": 8,
+    "totalSignals": 34,
     "topRisks": [
       {
         "name": "바른손이앤에이",
@@ -58,6 +58,13 @@
         "score": 45,
         "signals": [
           "증자/감자",
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "제일엠앤에스",
+        "score": 35,
+        "signals": [
           "상장폐지위험"
         ]
       },
