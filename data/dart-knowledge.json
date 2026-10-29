@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T15:48:09.894Z",
+  "generatedAt": "2026-10-29T05:21:23.972Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 9,
-    "totalSignals": 38,
+    "highRiskCount": 7,
+    "totalSignals": 30,
     "topRisks": [
       {
         "name": "바른손이앤에이",
@@ -20,13 +20,6 @@
         "signals": [
           "소송/분쟁",
           "상장폐지위험"
-        ]
-      },
-      {
-        "name": "씨씨에스",
-        "score": 75,
-        "signals": [
-          "소송/분쟁"
         ]
       },
       {
@@ -46,12 +39,10 @@
         ]
       },
       {
-        "name": "알에프텍",
-        "score": 55,
+        "name": "씨씨에스",
+        "score": 50,
         "signals": [
-          "소송/분쟁",
-          "CB발행",
-          "증자/감자"
+          "소송/분쟁"
         ]
       },
       {
@@ -68,14 +59,6 @@
         "signals": [
           "증자/감자",
           "상장폐지위험"
-        ]
-      },
-      {
-        "name": "비케이홀딩스",
-        "score": 40,
-        "signals": [
-          "CB발행",
-          "증자/감자"
         ]
       },
       {
