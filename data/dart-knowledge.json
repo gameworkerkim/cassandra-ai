@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T05:21:08.932Z",
+  "generatedAt": "2026-10-30T15:39:29.304Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -23,20 +23,20 @@
         ]
       },
       {
+        "name": "하이드로리튬",
+        "score": 80,
+        "signals": [
+          "증자/감자",
+          "상장폐지위험"
+        ]
+      },
+      {
         "name": "이연제약",
         "score": 55,
         "signals": [
           "CB발행",
           "CB리픽싱",
           "증자/감자"
-        ]
-      },
-      {
-        "name": "하이드로리튬",
-        "score": 45,
-        "signals": [
-          "증자/감자",
-          "상장폐지위험"
         ]
       },
       {
