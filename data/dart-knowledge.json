@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T15:39:29.304Z",
+  "generatedAt": "2026-10-31T05:03:21.236Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,25 +11,9 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 7,
-    "totalSignals": 30,
+    "highRiskCount": 6,
+    "totalSignals": 25,
     "topRisks": [
-      {
-        "name": "바른손이앤에이",
-        "score": 95,
-        "signals": [
-          "소송/분쟁",
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "하이드로리튬",
-        "score": 80,
-        "signals": [
-          "증자/감자",
-          "상장폐지위험"
-        ]
-      },
       {
         "name": "이연제약",
         "score": 55,
@@ -37,6 +21,13 @@
           "CB발행",
           "CB리픽싱",
           "증자/감자"
+        ]
+      },
+      {
+        "name": "한국철강",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
         ]
       },
       {
@@ -54,7 +45,7 @@
         ]
       },
       {
-        "name": "티케이지애강",
+        "name": "하이드로리튬",
         "score": 35,
         "signals": [
           "상장폐지위험"
