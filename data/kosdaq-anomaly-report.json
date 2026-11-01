@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T15:13:08.547Z",
+  "generatedAt": "2026-11-01T05:37:10.393Z",
   "totalStocks": 264,
   "hypothesis": "회사명 변경 + 사업목적 추가 + 소송/경영권 분쟁 → 주가 변동성 증가",
   "filters": {
@@ -7,12 +7,12 @@
     "maxMarketCap": "5,000억원"
   },
   "summary": {
-    "volatilityScoreGt0": 3,
+    "volatilityScoreGt0": 2,
     "nameChanges": 0,
     "majorHolderChanges": 0,
     "purposeAdditions": 0,
     "lawsuits": 2,
-    "cbIssuances": 1
+    "cbIssuances": 0
   },
   "stocks": [
     {
@@ -57,27 +57,6 @@
         "hasCB": false,
         "cbCount": 0,
         "volatilityScore": 25
-      }
-    },
-    {
-      "rank": 11,
-      "name": "앤로보틱스",
-      "code": "138360",
-      "price": "1,720",
-      "change": "-273 (-13.7%)",
-      "changePercent": -13.7,
-      "volume": "4,824,590",
-      "volumeRaw": 4824590,
-      "marketCap": "1513억",
-      "marketCapRaw": 1513,
-      "flags": {
-        "hasNameChange": false,
-        "hasMajorHolderChange": false,
-        "hasPurposeAddition": false,
-        "hasLawsuit": false,
-        "hasCB": true,
-        "cbCount": 1,
-        "volatilityScore": 5
       }
     },
     {
@@ -973,6 +952,27 @@
       "volumeRaw": 4825921,
       "marketCap": "1063억",
       "marketCapRaw": 1063,
+      "flags": {
+        "hasNameChange": false,
+        "hasMajorHolderChange": false,
+        "hasPurposeAddition": false,
+        "hasLawsuit": false,
+        "hasCB": false,
+        "cbCount": 0,
+        "volatilityScore": 0
+      }
+    },
+    {
+      "rank": 11,
+      "name": "앤로보틱스",
+      "code": "138360",
+      "price": "1,720",
+      "change": "-273 (-13.7%)",
+      "changePercent": -13.7,
+      "volume": "4,824,590",
+      "volumeRaw": 4824590,
+      "marketCap": "1513억",
+      "marketCapRaw": 1513,
       "flags": {
         "hasNameChange": false,
         "hasMajorHolderChange": false,
