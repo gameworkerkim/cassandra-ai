@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-02T05:32:25.868Z",
+  "generatedAt": "2026-11-02T19:16:31.634Z",
   "period": {
     "from": "20261026",
     "to": "20261102"
   },
-  "totalCompanies": 79,
-  "totalDisclosures": 155,
+  "totalCompanies": 83,
+  "totalDisclosures": 169,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -60,16 +60,45 @@
   ],
   "highRisk": [
     {
+      "stockCode": "215790",
+      "corpCode": "01065679",
+      "name": "이노인스트루먼트",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "상장폐지위험",
+          "weight": 70,
+          "count": 2,
+          "latestDate": "2026-11-02"
+        }
+      ],
+      "riskScore": 70,
+      "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102900826",
+          "title": "기타시장안내              (주가 미달에 따른 상장폐지 우려 관련 안내)",
+          "type": "I"
+        },
+        {
+          "date": "20261026",
+          "rceptNo": "20261026900428",
+          "title": "주권매매거래정지해제              (액면병합 주권 변경상장)",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "102460",
       "corpCode": "00145598",
       "name": "이연제약",
-      "totalDisclosures": 4,
+      "totalDisclosures": 5,
       "signals": [
         {
           "rule": "CB발행",
           "weight": 30,
-          "count": 4,
-          "latestDate": "2026-10-28"
+          "count": 5,
+          "latestDate": "2026-11-02"
         },
         {
           "rule": "CB리픽싱",
@@ -86,6 +115,12 @@
       ],
       "riskScore": 55,
       "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102000288",
+          "title": "주요사항보고서(자기전환사채만기전취득결정)",
+          "type": "B"
+        },
         {
           "date": "20261027",
           "rceptNo": "20261027000356",
@@ -108,6 +143,82 @@
           "date": "20261026",
           "rceptNo": "20261026800475",
           "title": "전환가액ㆍ신주인수권행사가액ㆍ교환가액의조정(안내공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "078860",
+      "corpCode": "00543204",
+      "name": "아이오케이이엔엠",
+      "totalDisclosures": 3,
+      "signals": [
+        {
+          "rule": "증자/감자",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-10-29"
+        },
+        {
+          "rule": "상장폐지위험",
+          "weight": 35,
+          "count": 1,
+          "latestDate": "2026-11-02"
+        }
+      ],
+      "riskScore": 45,
+      "recentDisclosures": [
+        {
+          "date": "20261029",
+          "rceptNo": "20261029000419",
+          "title": "[기재정정]주요사항보고서(유상증자결정)",
+          "type": "B"
+        },
+        {
+          "date": "20261102",
+          "rceptNo": "20261102900662",
+          "title": "기타시장안내(관리종목지정우려종목)              (시가총액 200억원 미달)",
+          "type": "I"
+        },
+        {
+          "date": "20261030",
+          "rceptNo": "20261030900990",
+          "title": "[기재정정]주주총회소집결의              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "080720",
+      "corpCode": "00532855",
+      "name": "한국유니온제약",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "증자/감자",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-10-29"
+        },
+        {
+          "rule": "상장폐지위험",
+          "weight": 35,
+          "count": 1,
+          "latestDate": "2026-11-02"
+        }
+      ],
+      "riskScore": 45,
+      "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102900614",
+          "title": "주권매매거래정지기간변경              (투자자 보호)",
+          "type": "I"
+        },
+        {
+          "date": "20261029",
+          "rceptNo": "20261029900239",
+          "title": "증권발행결과(자율공시)              (제3자배정 유상증자-출자전환)",
           "type": "I"
         }
       ]
@@ -224,29 +335,6 @@
           "date": "20261030",
           "rceptNo": "20261030901096",
           "title": "기타시장안내              (주가 미달에 따른 상장폐지 우려 관련 안내)",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "215790",
-      "corpCode": "01065679",
-      "name": "이노인스트루먼트",
-      "totalDisclosures": 1,
-      "signals": [
-        {
-          "rule": "상장폐지위험",
-          "weight": 35,
-          "count": 1,
-          "latestDate": "2026-10-26"
-        }
-      ],
-      "riskScore": 35,
-      "recentDisclosures": [
-        {
-          "date": "20261026",
-          "rceptNo": "20261026900428",
-          "title": "주권매매거래정지해제              (액면병합 주권 변경상장)",
           "type": "I"
         }
       ]
@@ -254,16 +342,45 @@
   ],
   "companies": [
     {
+      "stockCode": "215790",
+      "corpCode": "01065679",
+      "name": "이노인스트루먼트",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "상장폐지위험",
+          "weight": 70,
+          "count": 2,
+          "latestDate": "2026-11-02"
+        }
+      ],
+      "riskScore": 70,
+      "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102900826",
+          "title": "기타시장안내              (주가 미달에 따른 상장폐지 우려 관련 안내)",
+          "type": "I"
+        },
+        {
+          "date": "20261026",
+          "rceptNo": "20261026900428",
+          "title": "주권매매거래정지해제              (액면병합 주권 변경상장)",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "102460",
       "corpCode": "00145598",
       "name": "이연제약",
-      "totalDisclosures": 4,
+      "totalDisclosures": 5,
       "signals": [
         {
           "rule": "CB발행",
           "weight": 30,
-          "count": 4,
-          "latestDate": "2026-10-28"
+          "count": 5,
+          "latestDate": "2026-11-02"
         },
         {
           "rule": "CB리픽싱",
@@ -280,6 +397,12 @@
       ],
       "riskScore": 55,
       "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102000288",
+          "title": "주요사항보고서(자기전환사채만기전취득결정)",
+          "type": "B"
+        },
         {
           "date": "20261027",
           "rceptNo": "20261027000356",
@@ -302,6 +425,82 @@
           "date": "20261026",
           "rceptNo": "20261026800475",
           "title": "전환가액ㆍ신주인수권행사가액ㆍ교환가액의조정(안내공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "078860",
+      "corpCode": "00543204",
+      "name": "아이오케이이엔엠",
+      "totalDisclosures": 3,
+      "signals": [
+        {
+          "rule": "증자/감자",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-10-29"
+        },
+        {
+          "rule": "상장폐지위험",
+          "weight": 35,
+          "count": 1,
+          "latestDate": "2026-11-02"
+        }
+      ],
+      "riskScore": 45,
+      "recentDisclosures": [
+        {
+          "date": "20261029",
+          "rceptNo": "20261029000419",
+          "title": "[기재정정]주요사항보고서(유상증자결정)",
+          "type": "B"
+        },
+        {
+          "date": "20261102",
+          "rceptNo": "20261102900662",
+          "title": "기타시장안내(관리종목지정우려종목)              (시가총액 200억원 미달)",
+          "type": "I"
+        },
+        {
+          "date": "20261030",
+          "rceptNo": "20261030900990",
+          "title": "[기재정정]주주총회소집결의              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "080720",
+      "corpCode": "00532855",
+      "name": "한국유니온제약",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "증자/감자",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-10-29"
+        },
+        {
+          "rule": "상장폐지위험",
+          "weight": 35,
+          "count": 1,
+          "latestDate": "2026-11-02"
+        }
+      ],
+      "riskScore": 45,
+      "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102900614",
+          "title": "주권매매거래정지기간변경              (투자자 보호)",
+          "type": "I"
+        },
+        {
+          "date": "20261029",
+          "rceptNo": "20261029900239",
+          "title": "증권발행결과(자율공시)              (제3자배정 유상증자-출자전환)",
           "type": "I"
         }
       ]
@@ -418,29 +617,6 @@
           "date": "20261030",
           "rceptNo": "20261030901096",
           "title": "기타시장안내              (주가 미달에 따른 상장폐지 우려 관련 안내)",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "215790",
-      "corpCode": "01065679",
-      "name": "이노인스트루먼트",
-      "totalDisclosures": 1,
-      "signals": [
-        {
-          "rule": "상장폐지위험",
-          "weight": 35,
-          "count": 1,
-          "latestDate": "2026-10-26"
-        }
-      ],
-      "riskScore": 35,
-      "recentDisclosures": [
-        {
-          "date": "20261026",
-          "rceptNo": "20261026900428",
-          "title": "주권매매거래정지해제              (액면병합 주권 변경상장)",
           "type": "I"
         }
       ]
@@ -574,6 +750,58 @@
       ]
     },
     {
+      "stockCode": "110790",
+      "corpCode": "00522007",
+      "name": "크리스에프앤씨",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "CB발행",
+          "weight": 20,
+          "count": 2,
+          "latestDate": "2026-11-02"
+        }
+      ],
+      "riskScore": 20,
+      "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102900530",
+          "title": "교환사채(해외교환사채포함)발행후만기전사채취득              ",
+          "type": "I"
+        },
+        {
+          "date": "20261102",
+          "rceptNo": "20261102900527",
+          "title": "전환사채(해외전환사채포함)발행후만기전사채취득              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "004830",
+      "corpCode": "00114093",
+      "name": "덕성",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-11-02"
+        }
+      ],
+      "riskScore": 20,
+      "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102800625",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "311390",
       "corpCode": "01219155",
       "name": "네오크레마",
@@ -695,6 +923,29 @@
       ]
     },
     {
+      "stockCode": "340810",
+      "corpCode": "01315042",
+      "name": "시선AI",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "CB발행",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-10-29"
+        }
+      ],
+      "riskScore": 10,
+      "recentDisclosures": [
+        {
+          "date": "20261029",
+          "rceptNo": "20261029900530",
+          "title": "전환사채(해외전환사채포함)발행후만기전사채취득              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "333620",
       "corpCode": "01310773",
       "name": "엔시스",
@@ -754,58 +1005,6 @@
           "date": "20261026",
           "rceptNo": "20261026800112",
           "title": "신규시설투자등(자회사의 주요경영사항)              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "078860",
-      "corpCode": "00543204",
-      "name": "아이오케이이엔엠",
-      "totalDisclosures": 2,
-      "signals": [
-        {
-          "rule": "증자/감자",
-          "weight": 10,
-          "count": 1,
-          "latestDate": "2026-10-29"
-        }
-      ],
-      "riskScore": 10,
-      "recentDisclosures": [
-        {
-          "date": "20261029",
-          "rceptNo": "20261029000419",
-          "title": "[기재정정]주요사항보고서(유상증자결정)",
-          "type": "B"
-        },
-        {
-          "date": "20261030",
-          "rceptNo": "20261030900990",
-          "title": "[기재정정]주주총회소집결의              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "080720",
-      "corpCode": "00532855",
-      "name": "한국유니온제약",
-      "totalDisclosures": 1,
-      "signals": [
-        {
-          "rule": "증자/감자",
-          "weight": 10,
-          "count": 1,
-          "latestDate": "2026-10-29"
-        }
-      ],
-      "riskScore": 10,
-      "recentDisclosures": [
-        {
-          "date": "20261029",
-          "rceptNo": "20261029900239",
-          "title": "증권발행결과(자율공시)              (제3자배정 유상증자-출자전환)",
           "type": "I"
         }
       ]
@@ -1036,10 +1235,16 @@
       "stockCode": "079430",
       "corpCode": "00300548",
       "name": "현대리바트",
-      "totalDisclosures": 1,
+      "totalDisclosures": 2,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102800496",
+          "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+          "type": "I"
+        },
         {
           "date": "20261028",
           "rceptNo": "20261028800113",
@@ -1090,10 +1295,16 @@
       "stockCode": "417010",
       "corpCode": "01524118",
       "name": "나노팀",
-      "totalDisclosures": 1,
+      "totalDisclosures": 2,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102900873",
+          "title": "임시주주총회결과              ",
+          "type": "I"
+        },
         {
           "date": "20261026",
           "rceptNo": "20261026900397",
@@ -1584,10 +1795,16 @@
       "stockCode": "047040",
       "corpCode": "00124540",
       "name": "대우건설",
-      "totalDisclosures": 7,
+      "totalDisclosures": 8,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102800856",
+          "title": "풍문또는보도에대한해명              ",
+          "type": "I"
+        },
         {
           "date": "20261102",
           "rceptNo": "20261102800306",
@@ -1636,10 +1853,16 @@
       "stockCode": "329180",
       "corpCode": "01390344",
       "name": "HD현대중공업",
-      "totalDisclosures": 2,
+      "totalDisclosures": 3,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102800599",
+          "title": "[기재정정]단일판매ㆍ공급계약체결              ",
+          "type": "I"
+        },
         {
           "date": "20261028",
           "rceptNo": "20261028800211",
@@ -1758,10 +1981,16 @@
       "stockCode": "009540",
       "corpCode": "00164830",
       "name": "HD한국조선해양",
-      "totalDisclosures": 3,
+      "totalDisclosures": 4,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102800620",
+          "title": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
         {
           "date": "20261028",
           "rceptNo": "20261028800208",
@@ -2070,6 +2299,22 @@
           "date": "20261030",
           "rceptNo": "20261030800412",
           "title": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "038540",
+      "corpCode": "00306162",
+      "name": "상상인",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102900727",
+          "title": "[기재정정]타법인주식및출자증권처분결정              ",
           "type": "I"
         }
       ]
