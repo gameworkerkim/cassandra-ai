@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-01T15:52:11.408Z",
+  "generatedAt": "2026-11-02T05:32:25.868Z",
   "period": {
-    "from": "20261025",
-    "to": "20261101"
+    "from": "20261026",
+    "to": "20261102"
   },
-  "totalCompanies": 74,
-  "totalDisclosures": 146,
+  "totalCompanies": 79,
+  "totalDisclosures": 155,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -894,10 +894,16 @@
       "stockCode": "066360",
       "corpCode": "00216434",
       "name": "체리부로",
-      "totalDisclosures": 2,
+      "totalDisclosures": 3,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102900318",
+          "title": "[기재정정]현금ㆍ현물배당결정              (분기배당)",
+          "type": "I"
+        },
         {
           "date": "20261030",
           "rceptNo": "20261030901347",
@@ -962,6 +968,38 @@
           "date": "20261027",
           "rceptNo": "20261027600363",
           "title": "증권발행결과(자율공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "215090",
+      "corpCode": "01063884",
+      "name": "솔디펜스",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102900388",
+          "title": "임시주주총회결과              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "064960",
+      "corpCode": "00398792",
+      "name": "SNT모티브",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102800199",
+          "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
           "type": "I"
         }
       ]
@@ -1389,6 +1427,28 @@
       ]
     },
     {
+      "stockCode": "408920",
+      "corpCode": "01596656",
+      "name": "메쎄이상",
+      "totalDisclosures": 2,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102900426",
+          "title": "기업설명회(IR)개최              ",
+          "type": "I"
+        },
+        {
+          "date": "20261102",
+          "rceptNo": "20261102900420",
+          "title": "결산실적공시예고              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "000150",
       "corpCode": "00117212",
       "name": "두산",
@@ -1524,10 +1584,22 @@
       "stockCode": "047040",
       "corpCode": "00124540",
       "name": "대우건설",
-      "totalDisclosures": 5,
+      "totalDisclosures": 7,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102800306",
+          "title": "투자판단관련주요경영사항              ",
+          "type": "I"
+        },
+        {
+          "date": "20261102",
+          "rceptNo": "20261102800295",
+          "title": "투자판단관련주요경영사항              ",
+          "type": "I"
+        },
         {
           "date": "20261030",
           "rceptNo": "20261030800384",
@@ -1577,6 +1649,22 @@
         {
           "date": "20261028",
           "rceptNo": "20261028800199",
+          "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "003160",
+      "corpCode": "00118275",
+      "name": "디아이",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102800245",
           "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
           "type": "I"
         }
@@ -1826,6 +1914,22 @@
           "date": "20261029",
           "rceptNo": "20261029900247",
           "title": "단일판매ㆍ공급계약체결              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "326030",
+      "corpCode": "00878696",
+      "name": "에스케이바이오팜",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261102",
+          "rceptNo": "20261102800256",
+          "title": "기업설명회(IR)개최(안내공시)              ",
           "type": "I"
         }
       ]
