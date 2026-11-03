@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T19:16:31.635Z",
+  "generatedAt": "2026-11-03T06:12:19.687Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -12,21 +12,14 @@
   "companies": {},
   "dailyReport": {
     "highRiskCount": 8,
-    "totalSignals": 30,
+    "totalSignals": 26,
     "topRisks": [
       {
-        "name": "이노인스트루먼트",
-        "score": 70,
+        "name": "그린플러스",
+        "score": 80,
         "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "이연제약",
-        "score": 55,
-        "signals": [
+          "대주주변경",
           "CB발행",
-          "CB리픽싱",
           "증자/감자"
         ]
       },
@@ -47,14 +40,15 @@
         ]
       },
       {
-        "name": "한국철강",
-        "score": 35,
+        "name": "이연제약",
+        "score": 40,
         "signals": [
-          "상장폐지위험"
+          "CB발행",
+          "증자/감자"
         ]
       },
       {
-        "name": "SBI인베스트먼트",
+        "name": "한국철강",
         "score": 35,
         "signals": [
           "상장폐지위험"
@@ -69,6 +63,13 @@
       },
       {
         "name": "하이드로리튬",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "이노인스트루먼트",
         "score": 35,
         "signals": [
           "상장폐지위험"
