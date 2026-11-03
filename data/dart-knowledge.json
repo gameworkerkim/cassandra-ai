@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T06:12:19.687Z",
+  "generatedAt": "2026-11-03T16:54:08.088Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 8,
-    "totalSignals": 26,
+    "highRiskCount": 10,
+    "totalSignals": 30,
     "topRisks": [
       {
         "name": "그린플러스",
@@ -21,6 +21,15 @@
           "대주주변경",
           "CB발행",
           "증자/감자"
+        ]
+      },
+      {
+        "name": "비케이홀딩스",
+        "score": 65,
+        "signals": [
+          "대주주변경",
+          "CB발행",
+          "상장폐지위험"
         ]
       },
       {
@@ -45,6 +54,13 @@
         "signals": [
           "CB발행",
           "증자/감자"
+        ]
+      },
+      {
+        "name": "써니전자",
+        "score": 40,
+        "signals": [
+          "대주주변경"
         ]
       },
       {
