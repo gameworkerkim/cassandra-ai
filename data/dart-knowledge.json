@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T05:49:47.880Z",
+  "generatedAt": "2026-11-04T16:55:59.673Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,14 +11,23 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 9,
-    "totalSignals": 26,
+    "highRiskCount": 10,
+    "totalSignals": 29,
     "topRisks": [
       {
         "name": "비케이홀딩스",
-        "score": 55,
+        "score": 75,
         "signals": [
           "대주주변경",
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "멤레이비티",
+        "score": 70,
+        "signals": [
+          "CB발행",
+          "CB리픽싱",
           "상장폐지위험"
         ]
       },
