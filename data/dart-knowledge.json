@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T16:54:08.088Z",
+  "generatedAt": "2026-11-04T05:49:47.880Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,24 +11,14 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 10,
-    "totalSignals": 30,
+    "highRiskCount": 9,
+    "totalSignals": 26,
     "topRisks": [
       {
-        "name": "그린플러스",
-        "score": 80,
-        "signals": [
-          "대주주변경",
-          "CB발행",
-          "증자/감자"
-        ]
-      },
-      {
         "name": "비케이홀딩스",
-        "score": 65,
+        "score": 55,
         "signals": [
           "대주주변경",
-          "CB발행",
           "상장폐지위험"
         ]
       },
@@ -46,14 +36,6 @@
         "signals": [
           "증자/감자",
           "상장폐지위험"
-        ]
-      },
-      {
-        "name": "이연제약",
-        "score": 40,
-        "signals": [
-          "CB발행",
-          "증자/감자"
         ]
       },
       {
@@ -89,6 +71,14 @@
         "score": 35,
         "signals": [
           "상장폐지위험"
+        ]
+      },
+      {
+        "name": "이연제약",
+        "score": 30,
+        "signals": [
+          "CB발행",
+          "증자/감자"
         ]
       }
     ]
