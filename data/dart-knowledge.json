@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T06:09:16.882Z",
+  "generatedAt": "2026-11-05T17:11:03.065Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 9,
-    "totalSignals": 25,
+    "highRiskCount": 12,
+    "totalSignals": 32,
     "topRisks": [
       {
         "name": "비케이홀딩스",
@@ -48,7 +48,21 @@
         ]
       },
       {
+        "name": "수산인더스트리",
+        "score": 40,
+        "signals": [
+          "대주주변경"
+        ]
+      },
+      {
         "name": "써니전자",
+        "score": 40,
+        "signals": [
+          "대주주변경"
+        ]
+      },
+      {
+        "name": "한화머시너리앤서비스홀딩스",
         "score": 40,
         "signals": [
           "대주주변경"
@@ -69,14 +83,7 @@
         ]
       },
       {
-        "name": "하이드로리튬",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "이노인스트루먼트",
+        "name": "좋은사람들",
         "score": 35,
         "signals": [
           "상장폐지위험"
