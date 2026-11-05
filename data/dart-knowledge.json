@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T16:55:59.673Z",
+  "generatedAt": "2026-11-05T06:09:16.882Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 10,
-    "totalSignals": 29,
+    "highRiskCount": 9,
+    "totalSignals": 25,
     "topRisks": [
       {
         "name": "비케이홀딩스",
@@ -80,14 +80,6 @@
         "score": 35,
         "signals": [
           "상장폐지위험"
-        ]
-      },
-      {
-        "name": "이연제약",
-        "score": 30,
-        "signals": [
-          "CB발행",
-          "증자/감자"
         ]
       }
     ]
