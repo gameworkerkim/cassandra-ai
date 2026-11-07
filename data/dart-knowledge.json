@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T16:39:28.179Z",
+  "generatedAt": "2026-11-07T05:34:33.270Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,21 +11,14 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 12,
-    "totalSignals": 33,
+    "highRiskCount": 11,
+    "totalSignals": 31,
     "topRisks": [
       {
         "name": "비케이홀딩스",
         "score": 100,
         "signals": [
           "대주주변경",
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "하이드로리튬",
-        "score": 70,
-        "signals": [
           "상장폐지위험"
         ]
       },
@@ -75,14 +68,21 @@
         ]
       },
       {
-        "name": "한국철강",
+        "name": "아이오케이이엔엠",
         "score": 35,
         "signals": [
           "상장폐지위험"
         ]
       },
       {
-        "name": "아이오케이이엔엠",
+        "name": "한국유니온제약",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "좋은사람들",
         "score": 35,
         "signals": [
           "상장폐지위험"
