@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T05:46:27.359Z",
+  "generatedAt": "2026-11-09T19:34:23.400Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -12,7 +12,7 @@
   "companies": {},
   "dailyReport": {
     "highRiskCount": 11,
-    "totalSignals": 31,
+    "totalSignals": 34,
     "topRisks": [
       {
         "name": "비케이홀딩스",

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-09T05:46:27.358Z",
+  "generatedAt": "2026-11-09T19:34:23.399Z",
   "period": {
     "from": "20261102",
     "to": "20261109"
   },
-  "totalCompanies": 74,
-  "totalDisclosures": 127,
+  "totalCompanies": 82,
+  "totalDisclosures": 141,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -975,6 +975,29 @@
       ]
     },
     {
+      "stockCode": "000590",
+      "corpCode": "00149026",
+      "name": "CS홀딩스",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-11-09"
+        }
+      ],
+      "riskScore": 20,
+      "recentDisclosures": [
+        {
+          "date": "20261109",
+          "rceptNo": "20261109800582",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "021050",
       "corpCode": "00131197",
       "name": "서원",
@@ -1183,6 +1206,102 @@
       ]
     },
     {
+      "stockCode": "061040",
+      "corpCode": "00309831",
+      "name": "알에프텍",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "CB발행",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-11-09"
+        }
+      ],
+      "riskScore": 10,
+      "recentDisclosures": [
+        {
+          "date": "20261109",
+          "rceptNo": "20261109000304",
+          "title": "[기재정정]주요사항보고서(전환사채권발행결정)",
+          "type": "B"
+        },
+        {
+          "date": "20261105",
+          "rceptNo": "20261105900505",
+          "title": "대표이사변경              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "347700",
+      "corpCode": "01336762",
+      "name": "스피어",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "증자/감자",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-11-09"
+        }
+      ],
+      "riskScore": 10,
+      "recentDisclosures": [
+        {
+          "date": "20261109",
+          "rceptNo": "20261109900581",
+          "title": "유상증자결정(종속회사의주요경영사항)              ",
+          "type": "I"
+        },
+        {
+          "date": "20261109",
+          "rceptNo": "20261109900498",
+          "title": "타법인주식및출자증권취득결정              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "092730",
+      "corpCode": "00551920",
+      "name": "네오팜",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261109",
+          "rceptNo": "20261109900455",
+          "title": "영업(잠정)실적(공정공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "251970",
+      "corpCode": "00761059",
+      "name": "펌텍코리아",
+      "totalDisclosures": 2,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261109",
+          "rceptNo": "20261109900626",
+          "title": "기업설명회(IR)개최              ",
+          "type": "I"
+        },
+        {
+          "date": "20261109",
+          "rceptNo": "20261109900494",
+          "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "048550",
       "corpCode": "00185046",
       "name": "SM C&C",
@@ -1252,10 +1371,16 @@
       "stockCode": "002990",
       "corpCode": "00106313",
       "name": "금호건설",
-      "totalDisclosures": 1,
+      "totalDisclosures": 2,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261109",
+          "rceptNo": "20261109800597",
+          "title": "기업설명회(IR)개최(안내공시)              ",
+          "type": "I"
+        },
         {
           "date": "20261105",
           "rceptNo": "20261105800680",
@@ -1378,6 +1503,22 @@
           "date": "20261105",
           "rceptNo": "20261105900794",
           "title": "주주총회소집결의              (임시주주총회)",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "258050",
+      "corpCode": "01246742",
+      "name": "테크트랜스",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261109",
+          "rceptNo": "20261109600658",
+          "title": "[기재정정]전환주식의전환청구권행사              ",
           "type": "I"
         }
       ]
@@ -1615,6 +1756,22 @@
       ]
     },
     {
+      "stockCode": "064760",
+      "corpCode": "00245472",
+      "name": "티씨케이",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261109",
+          "rceptNo": "20261109900415",
+          "title": "기업설명회(IR)개최              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "499790",
       "corpCode": "01882845",
       "name": "GS피앤엘",
@@ -1819,6 +1976,34 @@
       ]
     },
     {
+      "stockCode": "000150",
+      "corpCode": "00117212",
+      "name": "두산",
+      "totalDisclosures": 3,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261109",
+          "rceptNo": "20261109800497",
+          "title": "현금ㆍ현물배당을위한주주명부폐쇄(기준일)결정              ",
+          "type": "I"
+        },
+        {
+          "date": "20261109",
+          "rceptNo": "20261109800479",
+          "title": "현금ㆍ현물배당결정              ",
+          "type": "I"
+        },
+        {
+          "date": "20261109",
+          "rceptNo": "20261109800403",
+          "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "459510",
       "corpCode": "01594791",
       "name": "나우로보틱스",
@@ -1908,22 +2093,6 @@
           "date": "20261102",
           "rceptNo": "20261102800599",
           "title": "[기재정정]단일판매ㆍ공급계약체결              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "061040",
-      "corpCode": "00309831",
-      "name": "알에프텍",
-      "totalDisclosures": 1,
-      "signals": [],
-      "riskScore": 0,
-      "recentDisclosures": [
-        {
-          "date": "20261105",
-          "rceptNo": "20261105900505",
-          "title": "대표이사변경              ",
           "type": "I"
         }
       ]
@@ -2044,6 +2213,22 @@
           "date": "20261102",
           "rceptNo": "20261102800620",
           "title": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "089600",
+      "corpCode": "00486097",
+      "name": "KT나스미디어",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261109",
+          "rceptNo": "20261109900460",
+          "title": "영업(잠정)실적(공정공시)              ",
           "type": "I"
         }
       ]
