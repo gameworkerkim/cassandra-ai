@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-08T15:51:48.865Z",
+  "generatedAt": "2026-11-09T05:46:27.358Z",
   "period": {
-    "from": "20261101",
-    "to": "20261108"
+    "from": "20261102",
+    "to": "20261109"
   },
   "totalCompanies": 74,
-  "totalDisclosures": 123,
+  "totalDisclosures": 127,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -1760,10 +1760,22 @@
       "stockCode": "408920",
       "corpCode": "01596656",
       "name": "메쎄이상",
-      "totalDisclosures": 3,
+      "totalDisclosures": 5,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261109",
+          "rceptNo": "20261109900216",
+          "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+          "type": "I"
+        },
+        {
+          "date": "20261109",
+          "rceptNo": "20261109900214",
+          "title": "주식소각결정              ",
+          "type": "I"
+        },
         {
           "date": "20261103",
           "rceptNo": "20261103900199",
@@ -1876,10 +1888,16 @@
       "stockCode": "329180",
       "corpCode": "01390344",
       "name": "HD현대중공업",
-      "totalDisclosures": 2,
+      "totalDisclosures": 3,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261109",
+          "rceptNo": "20261109800193",
+          "title": "단일판매ㆍ공급계약체결              ",
+          "type": "I"
+        },
         {
           "date": "20261106",
           "rceptNo": "20261106800310",
@@ -2006,10 +2024,16 @@
       "stockCode": "009540",
       "corpCode": "00164830",
       "name": "HD한국조선해양",
-      "totalDisclosures": 2,
+      "totalDisclosures": 3,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261109",
+          "rceptNo": "20261109800197",
+          "title": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
         {
           "date": "20261106",
           "rceptNo": "20261106800323",
