@@ -1,8 +1,138 @@
 {
-  "generatedAt": "2026-11-10T07:28:01.582Z",
+  "generatedAt": "2026-11-10T17:04:06.975Z",
   "totalDisclosures": 500,
-  "uniquePersons": 376,
+  "uniquePersons": 375,
   "persons": [
+    {
+      "key": "케이투인베스트먼트파트너스_unknown",
+      "name": "케이투인베스트먼트파트너스",
+      "count": 1
+    },
+    {
+      "key": "씨스퀘어자산운용_unknown",
+      "name": "씨스퀘어자산운용",
+      "count": 1
+    },
+    {
+      "key": "명운산업개발_unknown",
+      "name": "명운산업개발",
+      "count": 1
+    },
+    {
+      "key": "아진카인텍_unknown",
+      "name": "아진카인텍",
+      "count": 1
+    },
+    {
+      "key": "이혁재_unknown",
+      "name": "이혁재",
+      "count": 1
+    },
+    {
+      "key": "박영근_unknown",
+      "name": "박영근",
+      "count": 2
+    },
+    {
+      "key": "김지원_unknown",
+      "name": "김지원",
+      "count": 1
+    },
+    {
+      "key": "FederatedHermesLimited_unknown",
+      "name": "FederatedHermesLimited",
+      "count": 1
+    },
+    {
+      "key": "광동제약_unknown",
+      "name": "광동제약",
+      "count": 1
+    },
+    {
+      "key": "김재영_unknown",
+      "name": "김재영",
+      "count": 1
+    },
+    {
+      "key": "최정임_unknown",
+      "name": "최정임",
+      "count": 3
+    },
+    {
+      "key": "상상인플러스저축은행_unknown",
+      "name": "상상인플러스저축은행",
+      "count": 1
+    },
+    {
+      "key": "김기옥_unknown",
+      "name": "김기옥",
+      "count": 1
+    },
+    {
+      "key": "한화자산운용_unknown",
+      "name": "한화자산운용",
+      "count": 2
+    },
+    {
+      "key": "쌍방울_unknown",
+      "name": "쌍방울",
+      "count": 2
+    },
+    {
+      "key": "유텍솔루션_unknown",
+      "name": "유텍솔루션",
+      "count": 2
+    },
+    {
+      "key": "어보브반도체_unknown",
+      "name": "어보브반도체",
+      "count": 1
+    },
+    {
+      "key": "시너지아이비투자_unknown",
+      "name": "시너지아이비투자",
+      "count": 1
+    },
+    {
+      "key": "김영운_unknown",
+      "name": "김영운",
+      "count": 1
+    },
+    {
+      "key": "파워넷_unknown",
+      "name": "파워넷",
+      "count": 1
+    },
+    {
+      "key": "정소영_unknown",
+      "name": "정소영",
+      "count": 1
+    },
+    {
+      "key": "한울소재과학_unknown",
+      "name": "한울소재과학",
+      "count": 1
+    },
+    {
+      "key": "배의호_unknown",
+      "name": "배의호",
+      "count": 1
+    },
+    {
+      "key": "최덕신_unknown",
+      "name": "최덕신",
+      "count": 1
+    },
+    {
+      "key": "현대로템_unknown",
+      "name": "현대로템",
+      "count": 1
+    },
+    {
+      "key": "한국산업은행_unknown",
+      "name": "한국산업은행",
+      "count": 3
+    },
     {
       "key": "박영순_unknown",
       "name": "박영순",
@@ -12,11 +142,6 @@
       "key": "SUN AIJUAN_unknown",
       "name": "SUN AIJUAN",
       "count": 1
-    },
-    {
-      "key": "한국산업은행_unknown",
-      "name": "한국산업은행",
-      "count": 2
     },
     {
       "key": "이재정_unknown",
@@ -106,7 +231,7 @@
     {
       "key": "장금상선_unknown",
       "name": "장금상선",
-      "count": 2
+      "count": 1
     },
     {
       "key": "김광웅_unknown",
@@ -364,11 +489,6 @@
       "count": 1
     },
     {
-      "key": "한화자산운용_unknown",
-      "name": "한화자산운용",
-      "count": 1
-    },
-    {
       "key": "박권일_unknown",
       "name": "박권일",
       "count": 1
@@ -529,11 +649,6 @@
       "count": 1
     },
     {
-      "key": "쌍방울_unknown",
-      "name": "쌍방울",
-      "count": 1
-    },
-    {
       "key": "NICE_unknown",
       "name": "NICE",
       "count": 1
@@ -621,7 +736,7 @@
     {
       "key": "조용준_unknown",
       "name": "조용준",
-      "count": 3
+      "count": 2
     },
     {
       "key": "잇츠한불_unknown",
@@ -856,7 +971,7 @@
     {
       "key": "파인우드프라이빗에쿼티_unknown",
       "name": "파인우드프라이빗에쿼티",
-      "count": 2
+      "count": 1
     },
     {
       "key": "루멘스바이오스_unknown",
@@ -972,11 +1087,6 @@
       "key": "제이투비_unknown",
       "name": "제이투비",
       "count": 3
-    },
-    {
-      "key": "최정임_unknown",
-      "name": "최정임",
-      "count": 1
     },
     {
       "key": "정희석_unknown",
@@ -1766,121 +1876,6 @@
     {
       "key": "구자동_unknown",
       "name": "구자동",
-      "count": 1
-    },
-    {
-      "key": "에코볼트_unknown",
-      "name": "에코볼트",
-      "count": 2
-    },
-    {
-      "key": "우리인터텍스_unknown",
-      "name": "우리인터텍스",
-      "count": 1
-    },
-    {
-      "key": "이덕호_unknown",
-      "name": "이덕호",
-      "count": 1
-    },
-    {
-      "key": "김동관_unknown",
-      "name": "김동관",
-      "count": 1
-    },
-    {
-      "key": "김승연_unknown",
-      "name": "김승연",
-      "count": 1
-    },
-    {
-      "key": "제넥신_unknown",
-      "name": "제넥신",
-      "count": 1
-    },
-    {
-      "key": "에스엠인더스트리_unknown",
-      "name": "에스엠인더스트리",
-      "count": 1
-    },
-    {
-      "key": "최태원_unknown",
-      "name": "최태원",
-      "count": 2
-    },
-    {
-      "key": "KPX홀딩스_unknown",
-      "name": "KPX홀딩스",
-      "count": 1
-    },
-    {
-      "key": "우창균_unknown",
-      "name": "우창균",
-      "count": 1
-    },
-    {
-      "key": "이승열_unknown",
-      "name": "이승열",
-      "count": 1
-    },
-    {
-      "key": "바움인베스트_unknown",
-      "name": "바움인베스트",
-      "count": 1
-    },
-    {
-      "key": "조경호_unknown",
-      "name": "조경호",
-      "count": 1
-    },
-    {
-      "key": "케이앤인터내셔널_unknown",
-      "name": "케이앤인터내셔널",
-      "count": 1
-    },
-    {
-      "key": "동구바이오제약_unknown",
-      "name": "동구바이오제약",
-      "count": 1
-    },
-    {
-      "key": "에이원자산운용_unknown",
-      "name": "에이원자산운용",
-      "count": 1
-    },
-    {
-      "key": "조시영_unknown",
-      "name": "조시영",
-      "count": 1
-    },
-    {
-      "key": "임태련_unknown",
-      "name": "임태련",
-      "count": 1
-    },
-    {
-      "key": "김명종_unknown",
-      "name": "김명종",
-      "count": 1
-    },
-    {
-      "key": "권수호_unknown",
-      "name": "권수호",
-      "count": 1
-    },
-    {
-      "key": "동양알미늄_unknown",
-      "name": "동양알미늄",
-      "count": 2
-    },
-    {
-      "key": "김정호_unknown",
-      "name": "김정호",
-      "count": 1
-    },
-    {
-      "key": "정태식_unknown",
-      "name": "정태식",
       "count": 1
     }
   ]
