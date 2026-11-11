@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T05:44:01.503Z",
+  "generatedAt": "2026-11-11T16:58:12.860Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 9,
-    "totalSignals": 27,
+    "highRiskCount": 10,
+    "totalSignals": 29,
     "topRisks": [
       {
         "name": "씨씨에스",
@@ -58,6 +58,13 @@
         "score": 40,
         "signals": [
           "대주주변경"
+        ]
+      },
+      {
+        "name": "SM C&C",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
         ]
       },
       {
