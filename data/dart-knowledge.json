@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T16:51:51.450Z",
+  "generatedAt": "2026-11-11T05:44:01.503Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -12,16 +12,8 @@
   "companies": {},
   "dailyReport": {
     "highRiskCount": 9,
-    "totalSignals": 31,
+    "totalSignals": 27,
     "topRisks": [
-      {
-        "name": "비케이홀딩스",
-        "score": 100,
-        "signals": [
-          "대주주변경",
-          "상장폐지위험"
-        ]
-      },
       {
         "name": "씨씨에스",
         "score": 85,
@@ -34,6 +26,14 @@
         "name": "인지디스플레",
         "score": 70,
         "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "비케이홀딩스",
+        "score": 55,
+        "signals": [
+          "대주주변경",
           "상장폐지위험"
         ]
       },
@@ -61,13 +61,6 @@
         ]
       },
       {
-        "name": "써니전자",
-        "score": 40,
-        "signals": [
-          "대주주변경"
-        ]
-      },
-      {
         "name": "좋은사람들",
         "score": 35,
         "signals": [
@@ -79,6 +72,13 @@
         "score": 35,
         "signals": [
           "상장폐지위험"
+        ]
+      },
+      {
+        "name": "제일엠앤에스",
+        "score": 30,
+        "signals": [
+          "증자/감자"
         ]
       }
     ]
