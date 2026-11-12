@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T06:50:38.686Z",
+  "generatedAt": "2026-11-12T17:26:17.899Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,12 +11,12 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 9,
-    "totalSignals": 26,
+    "highRiskCount": 10,
+    "totalSignals": 27,
     "topRisks": [
       {
         "name": "씨씨에스",
-        "score": 85,
+        "score": 100,
         "signals": [
           "대주주변경",
           "소송/분쟁"
@@ -24,6 +24,13 @@
       },
       {
         "name": "인지디스플레",
+        "score": 70,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "좋은사람들",
         "score": 70,
         "signals": [
           "상장폐지위험"
@@ -52,7 +59,7 @@
         ]
       },
       {
-        "name": "좋은사람들",
+        "name": "덱스터",
         "score": 35,
         "signals": [
           "상장폐지위험"
