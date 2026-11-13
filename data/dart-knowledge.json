@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T17:26:17.899Z",
+  "generatedAt": "2026-11-13T06:06:39.808Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 10,
-    "totalSignals": 27,
+    "highRiskCount": 9,
+    "totalSignals": 25,
     "topRisks": [
       {
         "name": "씨씨에스",
@@ -20,20 +20,6 @@
         "signals": [
           "대주주변경",
           "소송/분쟁"
-        ]
-      },
-      {
-        "name": "인지디스플레",
-        "score": 70,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "좋은사람들",
-        "score": 70,
-        "signals": [
-          "상장폐지위험"
         ]
       },
       {
@@ -45,10 +31,10 @@
         ]
       },
       {
-        "name": "수산인더스트리",
-        "score": 40,
+        "name": "인지디스플레",
+        "score": 35,
         "signals": [
-          "대주주변경"
+          "상장폐지위험"
         ]
       },
       {
@@ -60,6 +46,13 @@
       },
       {
         "name": "덱스터",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "좋은사람들",
         "score": 35,
         "signals": [
           "상장폐지위험"
