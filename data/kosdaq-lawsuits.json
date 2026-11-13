@@ -1,35 +1,13 @@
 [
   {
-    "rank": 1,
-    "name": "한국비티비",
-    "code": "219750",
-    "price": "2,845",
-    "change": "-20 (-0.7%)",
-    "changePercent": -0.7,
-    "volume": "5,269",
-    "volumeRaw": 5269,
-    "marketCap": "372억",
-    "marketCapRaw": 372,
-    "flags": {
-      "hasNameChange": false,
-      "hasMajorHolderChange": false,
-      "hasPurposeAddition": false,
-      "hasLawsuit": true,
-      "lawsuitDetail": "기타경영사항(자율공시)              (의약품 회수·폐기 및 잠정 제조중지 등 명령 취소 소송 상고심 판결)",
-      "hasCB": false,
-      "cbCount": 0,
-      "volatilityScore": 25
-    }
-  },
-  {
-    "rank": 11,
+    "rank": 5,
     "name": "일월지엠엘",
     "code": "178780",
     "price": "2,040",
     "change": "+40 (+2%)",
     "changePercent": 2,
-    "volume": "13,872",
-    "volumeRaw": 13872,
+    "volume": "14,399",
+    "volumeRaw": 14399,
     "marketCap": "380억",
     "marketCapRaw": 380,
     "flags": {
