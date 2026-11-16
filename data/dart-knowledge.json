@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T05:55:59.862Z",
+  "generatedAt": "2026-11-16T19:21:01.332Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 9,
-    "totalSignals": 27,
+    "highRiskCount": 12,
+    "totalSignals": 29,
     "topRisks": [
       {
         "name": "씨씨에스",
@@ -20,6 +20,21 @@
         "signals": [
           "대주주변경",
           "소송/분쟁"
+        ]
+      },
+      {
+        "name": "삼영이엔씨",
+        "score": 40,
+        "signals": [
+          "대주주변경",
+          "증자/감자"
+        ]
+      },
+      {
+        "name": "CS홀딩스",
+        "score": 40,
+        "signals": [
+          "대주주변경"
         ]
       },
       {
@@ -38,6 +53,13 @@
       },
       {
         "name": "세림B&G",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "깨끗한나라",
         "score": 35,
         "signals": [
           "상장폐지위험"
@@ -63,20 +85,6 @@
         "score": 35,
         "signals": [
           "상장폐지위험"
-        ]
-      },
-      {
-        "name": "비케이홀딩스",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "제일엠앤에스",
-        "score": 30,
-        "signals": [
-          "증자/감자"
         ]
       }
     ]
