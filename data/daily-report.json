@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-15T16:09:02.033Z",
+  "generatedAt": "2026-11-16T05:55:59.861Z",
   "period": {
-    "from": "20261108",
-    "to": "20261115"
+    "from": "20261109",
+    "to": "20261116"
   },
-  "totalCompanies": 74,
-  "totalDisclosures": 117,
+  "totalCompanies": 79,
+  "totalDisclosures": 124,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -1358,6 +1358,28 @@
       ]
     },
     {
+      "stockCode": "0015M0",
+      "corpCode": "00534729",
+      "name": "디티에스",
+      "totalDisclosures": 2,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261116",
+          "rceptNo": "20261116900655",
+          "title": "주주총회소집결의              ",
+          "type": "I"
+        },
+        {
+          "date": "20261116",
+          "rceptNo": "20261116900634",
+          "title": "주주명부폐쇄기간또는기준일설정              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "0230E0",
       "corpCode": "01835944",
       "name": "이스트엔드",
@@ -1698,6 +1720,22 @@
       ]
     },
     {
+      "stockCode": "061090",
+      "corpCode": "01010615",
+      "name": "세나테크놀로지",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261116",
+          "rceptNo": "20261116900232",
+          "title": "기업설명회(IR)개최              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "080720",
       "corpCode": "00532855",
       "name": "한국유니온제약",
@@ -1834,13 +1872,51 @@
       ]
     },
     {
-      "stockCode": "329180",
-      "corpCode": "01390344",
-      "name": "HD현대중공업",
-      "totalDisclosures": 2,
+      "stockCode": "050860",
+      "corpCode": "00138747",
+      "name": "아세아텍",
+      "totalDisclosures": 1,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261116",
+          "rceptNo": "20261116900192",
+          "title": "임시주주총회결과              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "047040",
+      "corpCode": "00124540",
+      "name": "대우건설",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261116",
+          "rceptNo": "20261116800566",
+          "title": "투자판단관련주요경영사항              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "329180",
+      "corpCode": "01390344",
+      "name": "HD현대중공업",
+      "totalDisclosures": 3,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261116",
+          "rceptNo": "20261116800519",
+          "title": "단일판매ㆍ공급계약체결(자율공시)              ",
+          "type": "I"
+        },
         {
           "date": "20261112",
           "rceptNo": "20261112800662",
@@ -1927,6 +2003,22 @@
           "date": "20261113",
           "rceptNo": "20261113900629",
           "title": "영업(잠정)실적(공정공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "031980",
+      "corpCode": "00208444",
+      "name": "피에스케이홀딩스",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261116",
+          "rceptNo": "20261116900099",
+          "title": "기업설명회(IR)개최              ",
           "type": "I"
         }
       ]
