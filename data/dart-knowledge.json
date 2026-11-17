@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T07:33:04.372Z",
+  "generatedAt": "2026-11-17T18:15:06.042Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -12,7 +12,7 @@
   "companies": {},
   "dailyReport": {
     "highRiskCount": 11,
-    "totalSignals": 27,
+    "totalSignals": 28,
     "topRisks": [
       {
         "name": "씨씨에스",

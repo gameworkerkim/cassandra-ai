@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-17T07:33:04.371Z",
+  "generatedAt": "2026-11-17T18:15:06.041Z",
   "period": {
     "from": "20261110",
     "to": "20261117"
   },
-  "totalCompanies": 82,
-  "totalDisclosures": 130,
+  "totalCompanies": 86,
+  "totalDisclosures": 140,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -63,7 +63,7 @@
       "stockCode": "066790",
       "corpCode": "00249441",
       "name": "씨씨에스",
-      "totalDisclosures": 6,
+      "totalDisclosures": 7,
       "signals": [
         {
           "rule": "대주주변경",
@@ -80,6 +80,12 @@
       ],
       "riskScore": 100,
       "recentDisclosures": [
+        {
+          "date": "20261117",
+          "rceptNo": "20261117900645",
+          "title": "임시주주총회결과              ",
+          "type": "I"
+        },
         {
           "date": "20261117",
           "rceptNo": "20261117900333",
@@ -432,7 +438,7 @@
       "stockCode": "066790",
       "corpCode": "00249441",
       "name": "씨씨에스",
-      "totalDisclosures": 6,
+      "totalDisclosures": 7,
       "signals": [
         {
           "rule": "대주주변경",
@@ -449,6 +455,12 @@
       ],
       "riskScore": 100,
       "recentDisclosures": [
+        {
+          "date": "20261117",
+          "rceptNo": "20261117900645",
+          "title": "임시주주총회결과              ",
+          "type": "I"
+        },
         {
           "date": "20261117",
           "rceptNo": "20261117900333",
@@ -1056,6 +1068,29 @@
       ]
     },
     {
+      "stockCode": "102460",
+      "corpCode": "00145598",
+      "name": "이연제약",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "CB발행",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-11-17"
+        }
+      ],
+      "riskScore": 10,
+      "recentDisclosures": [
+        {
+          "date": "20261117",
+          "rceptNo": "20261117000188",
+          "title": "주요사항보고서(자기전환사채만기전취득결정)",
+          "type": "B"
+        }
+      ]
+    },
+    {
       "stockCode": "351320",
       "corpCode": "01440153",
       "name": "넥사다이내믹스",
@@ -1143,6 +1178,56 @@
       ]
     },
     {
+      "stockCode": "151860",
+      "corpCode": "00366137",
+      "name": "KG에코솔루션",
+      "totalDisclosures": 3,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261112",
+          "rceptNo": "20261112900797",
+          "title": "타인에대한채무보증결정(자회사의 주요경영사항)              ",
+          "type": "I"
+        },
+        {
+          "date": "20261111",
+          "rceptNo": "20261111900354",
+          "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+          "type": "I"
+        },
+        {
+          "date": "20261111",
+          "rceptNo": "20261111900351",
+          "title": "영업(잠정)실적(공정공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "0153R0",
+      "corpCode": "01835829",
+      "name": "바로팜",
+      "totalDisclosures": 2,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261116",
+          "rceptNo": "20261116900261",
+          "title": "주주명부폐쇄기간또는기준일설정              ",
+          "type": "I"
+        },
+        {
+          "date": "20261116",
+          "rceptNo": "20261116900249",
+          "title": "주주총회소집결의              (임시주주총회)",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "263860",
       "corpCode": "00962223",
       "name": "지니언스",
@@ -1191,13 +1276,35 @@
       ]
     },
     {
-      "stockCode": "481850",
-      "corpCode": "01714997",
-      "name": "신한글로벌액티브리츠",
+      "stockCode": "004720",
+      "corpCode": "00135050",
+      "name": "팜젠사이언스",
       "totalDisclosures": 1,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261117",
+          "rceptNo": "20261117800423",
+          "title": "기타경영사항(자율공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "481850",
+      "corpCode": "01714997",
+      "name": "신한글로벌액티브리츠",
+      "totalDisclosures": 2,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261117",
+          "rceptNo": "20261117800514",
+          "title": "감사보고서제출              ",
+          "type": "I"
+        },
         {
           "date": "20261111",
           "rceptNo": "20261111800416",
@@ -1272,6 +1379,22 @@
           "date": "20261110",
           "rceptNo": "20261110800575",
           "title": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "495910",
+      "corpCode": "01378005",
+      "name": "이에스티",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261117",
+          "rceptNo": "20261117900500",
+          "title": "주식매수선택권행사              ",
           "type": "I"
         }
       ]
@@ -1620,7 +1743,7 @@
       "stockCode": "064960",
       "corpCode": "00398792",
       "name": "SNT모티브",
-      "totalDisclosures": 2,
+      "totalDisclosures": 3,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
@@ -1629,6 +1752,12 @@
           "rceptNo": "20261112000083",
           "title": "주요사항보고서(자기주식취득신탁계약체결결정)",
           "type": "B"
+        },
+        {
+          "date": "20261117",
+          "rceptNo": "20261117800511",
+          "title": "[기재정정]타법인주식및출자증권취득결정(자율공시)              ",
+          "type": "I"
         },
         {
           "date": "20261111",
@@ -1930,10 +2059,16 @@
       "stockCode": "459510",
       "corpCode": "01594791",
       "name": "나우로보틱스",
-      "totalDisclosures": 1,
+      "totalDisclosures": 2,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261117",
+          "rceptNo": "20261117900512",
+          "title": "[기재정정]단일판매ㆍ공급계약체결(자율공시)              ",
+          "type": "I"
+        },
         {
           "date": "20261112",
           "rceptNo": "20261112900972",
@@ -2188,28 +2323,6 @@
           "date": "20261113",
           "rceptNo": "20261113801383",
           "title": "기업설명회(IR)개최(안내공시)              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "004770",
-      "corpCode": "00138057",
-      "name": "써니전자",
-      "totalDisclosures": 2,
-      "signals": [],
-      "riskScore": 0,
-      "recentDisclosures": [
-        {
-          "date": "20261116",
-          "rceptNo": "20261116801627",
-          "title": "대표이사(대표집행임원)변경(안내공시)              ",
-          "type": "I"
-        },
-        {
-          "date": "20261116",
-          "rceptNo": "20261116801314",
-          "title": "임시주주총회결과              ",
           "type": "I"
         }
       ]
