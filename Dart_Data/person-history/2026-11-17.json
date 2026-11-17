@@ -1,8 +1,73 @@
 {
-  "generatedAt": "2026-11-17T08:04:21.758Z",
+  "generatedAt": "2026-11-17T18:36:07.066Z",
   "totalDisclosures": 500,
-  "uniquePersons": 405,
+  "uniquePersons": 403,
   "persons": [
+    {
+      "key": "비츠로시스_unknown",
+      "name": "비츠로시스",
+      "count": 1
+    },
+    {
+      "key": "디케이마린_unknown",
+      "name": "디케이마린",
+      "count": 2
+    },
+    {
+      "key": "김지원_unknown",
+      "name": "김지원",
+      "count": 1
+    },
+    {
+      "key": "다인투자조합_unknown",
+      "name": "다인투자조합",
+      "count": 2
+    },
+    {
+      "key": "가네마쯔코퍼레이션_unknown",
+      "name": "가네마쯔코퍼레이션",
+      "count": 2
+    },
+    {
+      "key": "이웅열_unknown",
+      "name": "이웅열",
+      "count": 1
+    },
+    {
+      "key": "팜스토리_unknown",
+      "name": "팜스토리",
+      "count": 2
+    },
+    {
+      "key": "엠와이에이치_unknown",
+      "name": "엠와이에이치",
+      "count": 1
+    },
+    {
+      "key": "이환철_unknown",
+      "name": "이환철",
+      "count": 1
+    },
+    {
+      "key": "최승민_unknown",
+      "name": "최승민",
+      "count": 1
+    },
+    {
+      "key": "피스투에스코리아_unknown",
+      "name": "피스투에스코리아",
+      "count": 2
+    },
+    {
+      "key": "하나마이크론_unknown",
+      "name": "하나마이크론",
+      "count": 1
+    },
+    {
+      "key": "오길영_unknown",
+      "name": "오길영",
+      "count": 2
+    },
     {
       "key": "권현미_unknown",
       "name": "권현미",
@@ -17,11 +82,6 @@
       "key": "이메디슨_unknown",
       "name": "이메디슨",
       "count": 2
-    },
-    {
-      "key": "오길영_unknown",
-      "name": "오길영",
-      "count": 1
     },
     {
       "key": "김태욱_unknown",
@@ -101,7 +161,7 @@
     {
       "key": "모바일어플라이언스_unknown",
       "name": "모바일어플라이언스",
-      "count": 3
+      "count": 2
     },
     {
       "key": "한컴위드_unknown",
@@ -406,7 +466,7 @@
     {
       "key": "J.P.MORGANSECURITIESPLC_unknown",
       "name": "J.P.MORGANSECURITIESPLC",
-      "count": 10
+      "count": 8
     },
     {
       "key": "장주환_unknown",
@@ -741,11 +801,6 @@
     {
       "key": "김미경_unknown",
       "name": "김미경",
-      "count": 1
-    },
-    {
-      "key": "다인투자조합_unknown",
-      "name": "다인투자조합",
       "count": 1
     },
     {
@@ -1961,71 +2016,6 @@
     {
       "key": "김용민_unknown",
       "name": "김용민",
-      "count": 1
-    },
-    {
-      "key": "미화물류_unknown",
-      "name": "미화물류",
-      "count": 1
-    },
-    {
-      "key": "김호태_unknown",
-      "name": "김호태",
-      "count": 1
-    },
-    {
-      "key": "양춘식_unknown",
-      "name": "양춘식",
-      "count": 1
-    },
-    {
-      "key": "신한서부티엔디리츠_unknown",
-      "name": "신한서부티엔디리츠",
-      "count": 1
-    },
-    {
-      "key": "이재홍_unknown",
-      "name": "이재홍",
-      "count": 1
-    },
-    {
-      "key": "박중양_unknown",
-      "name": "박중양",
-      "count": 1
-    },
-    {
-      "key": "신기술케이에듀조합_unknown",
-      "name": "신기술케이에듀조합",
-      "count": 2
-    },
-    {
-      "key": "정정기_unknown",
-      "name": "정정기",
-      "count": 1
-    },
-    {
-      "key": "아이디스파워텔_unknown",
-      "name": "아이디스파워텔",
-      "count": 1
-    },
-    {
-      "key": "제모피아인베스트_unknown",
-      "name": "제모피아인베스트",
-      "count": 1
-    },
-    {
-      "key": "한화플러스제5호스팩_unknown",
-      "name": "한화플러스제5호스팩",
-      "count": 1
-    },
-    {
-      "key": "황용하_unknown",
-      "name": "황용하",
-      "count": 1
-    },
-    {
-      "key": "정동철_unknown",
-      "name": "정동철",
       "count": 1
     }
   ]
