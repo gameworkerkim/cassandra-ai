@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T19:21:01.332Z",
+  "generatedAt": "2026-11-17T07:33:04.372Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,12 +11,12 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 12,
-    "totalSignals": 29,
+    "highRiskCount": 11,
+    "totalSignals": 27,
     "topRisks": [
       {
         "name": "씨씨에스",
-        "score": 90,
+        "score": 100,
         "signals": [
           "대주주변경",
           "소송/분쟁"
@@ -28,13 +28,6 @@
         "signals": [
           "대주주변경",
           "증자/감자"
-        ]
-      },
-      {
-        "name": "CS홀딩스",
-        "score": 40,
-        "signals": [
-          "대주주변경"
         ]
       },
       {
@@ -82,6 +75,13 @@
       },
       {
         "name": "좋은사람들",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "비케이홀딩스",
         "score": 35,
         "signals": [
           "상장폐지위험"
