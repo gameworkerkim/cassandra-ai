@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-18T06:56:36.971Z",
+  "generatedAt": "2026-11-18T17:52:36.095Z",
   "period": {
     "from": "20261111",
     "to": "20261118"
   },
-  "totalCompanies": 79,
-  "totalDisclosures": 119,
+  "totalCompanies": 86,
+  "totalDisclosures": 129,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -178,6 +178,29 @@
       ]
     },
     {
+      "stockCode": "065150",
+      "corpCode": "00390860",
+      "name": "대산F&B",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "상장폐지위험",
+          "weight": 35,
+          "count": 1,
+          "latestDate": "2026-11-13"
+        }
+      ],
+      "riskScore": 35,
+      "recentDisclosures": [
+        {
+          "date": "20261113",
+          "rceptNo": "20261113901691",
+          "title": "기타시장안내(관리종목지정우려종목)              (시가총액 200억원 미달)",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "037330",
       "corpCode": "00265421",
       "name": "인지디스플레",
@@ -225,6 +248,29 @@
           "date": "20261111",
           "rceptNo": "20261111900790",
           "title": "기타시장안내(관리종목지정우려종목)              (주가 1,000원 미달)",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "279600",
+      "corpCode": "01190124",
+      "name": "미디어젠",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "상장폐지위험",
+          "weight": 35,
+          "count": 1,
+          "latestDate": "2026-11-18"
+        }
+      ],
+      "riskScore": 35,
+      "recentDisclosures": [
+        {
+          "date": "20261118",
+          "rceptNo": "20261118900558",
+          "title": "기타시장안내(관리종목지정우려종목)              (시가총액 200억원 미달)",
           "type": "I"
         }
       ]
@@ -535,6 +581,29 @@
       ]
     },
     {
+      "stockCode": "065150",
+      "corpCode": "00390860",
+      "name": "대산F&B",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "상장폐지위험",
+          "weight": 35,
+          "count": 1,
+          "latestDate": "2026-11-13"
+        }
+      ],
+      "riskScore": 35,
+      "recentDisclosures": [
+        {
+          "date": "20261113",
+          "rceptNo": "20261113901691",
+          "title": "기타시장안내(관리종목지정우려종목)              (시가총액 200억원 미달)",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "037330",
       "corpCode": "00265421",
       "name": "인지디스플레",
@@ -582,6 +651,29 @@
           "date": "20261111",
           "rceptNo": "20261111900790",
           "title": "기타시장안내(관리종목지정우려종목)              (주가 1,000원 미달)",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "279600",
+      "corpCode": "01190124",
+      "name": "미디어젠",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "상장폐지위험",
+          "weight": 35,
+          "count": 1,
+          "latestDate": "2026-11-18"
+        }
+      ],
+      "riskScore": 35,
+      "recentDisclosures": [
+        {
+          "date": "20261118",
+          "rceptNo": "20261118900558",
+          "title": "기타시장안내(관리종목지정우려종목)              (시가총액 200억원 미달)",
           "type": "I"
         }
       ]
@@ -873,7 +965,7 @@
       "stockCode": "051900",
       "corpCode": "00356370",
       "name": "LG생활건강",
-      "totalDisclosures": 2,
+      "totalDisclosures": 3,
       "signals": [
         {
           "rule": "대주주변경",
@@ -884,6 +976,12 @@
       ],
       "riskScore": 20,
       "recentDisclosures": [
+        {
+          "date": "20261118",
+          "rceptNo": "20261118800553",
+          "title": "풍문또는보도에대한해명(미확정)              ",
+          "type": "I"
+        },
         {
           "date": "20261113",
           "rceptNo": "20261113801125",
@@ -1016,6 +1114,28 @@
           "rceptNo": "20261111000261",
           "title": "[기재정정]주요사항보고서(유상증자결정)",
           "type": "B"
+        }
+      ]
+    },
+    {
+      "stockCode": "050890",
+      "corpCode": "00364403",
+      "name": "쏠리드",
+      "totalDisclosures": 2,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261118",
+          "rceptNo": "20261118000286",
+          "title": "주요사항보고서(자기주식취득신탁계약해지결정)",
+          "type": "B"
+        },
+        {
+          "date": "20261118",
+          "rceptNo": "20261118900538",
+          "title": "주식소각결정              ",
+          "type": "I"
         }
       ]
     },
@@ -1248,6 +1368,22 @@
       ]
     },
     {
+      "stockCode": "311960",
+      "corpCode": "01290132",
+      "name": "인터로이드",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261118",
+          "rceptNo": "20261118600323",
+          "title": "기업설명회(IR)개최              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "0077H0",
       "corpCode": "01877728",
       "name": "모비콘텐츠테크",
@@ -1416,6 +1552,22 @@
       ]
     },
     {
+      "stockCode": "052420",
+      "corpCode": "00350048",
+      "name": "오성첨단소재",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261118",
+          "rceptNo": "20261118000215",
+          "title": "[기재정정]주요사항보고서(타법인주식및출자증권양도결정)",
+          "type": "B"
+        }
+      ]
+    },
+    {
       "stockCode": "122830",
       "corpCode": "00337296",
       "name": "원포유",
@@ -1556,6 +1708,22 @@
       ]
     },
     {
+      "stockCode": "041590",
+      "corpCode": "00297448",
+      "name": "플래스크",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261118",
+          "rceptNo": "20261118900424",
+          "title": "[기재정정]주주총회소집결의              (임시주주총회)",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "054180",
       "corpCode": "00356839",
       "name": "메디콕스",
@@ -1665,6 +1833,22 @@
           "date": "20261116",
           "rceptNo": "20261116801609",
           "title": "단일판매ㆍ공급계약체결              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "064760",
+      "corpCode": "00245472",
+      "name": "티씨케이",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261118",
+          "rceptNo": "20261118900426",
+          "title": "기업설명회(IR)개최              ",
           "type": "I"
         }
       ]
@@ -1949,10 +2133,16 @@
       "stockCode": "352820",
       "corpCode": "01204056",
       "name": "하이브",
-      "totalDisclosures": 2,
+      "totalDisclosures": 3,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261118",
+          "rceptNo": "20261118800338",
+          "title": "타법인주식및출자증권취득결정(자율공시)(종속회사의주요경영사항)              ",
+          "type": "I"
+        },
         {
           "date": "20261118",
           "rceptNo": "20261118800279",

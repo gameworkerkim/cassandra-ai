@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T06:56:36.972Z",
+  "generatedAt": "2026-11-18T17:52:36.096Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 11,
-    "totalSignals": 24,
+    "highRiskCount": 13,
+    "totalSignals": 26,
     "topRisks": [
       {
         "name": "씨씨에스",
@@ -31,6 +31,13 @@
         ]
       },
       {
+        "name": "대산F&B",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
         "name": "인지디스플레",
         "score": 35,
         "signals": [
@@ -39,6 +46,13 @@
       },
       {
         "name": "SM C&C",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "미디어젠",
         "score": 35,
         "signals": [
           "상장폐지위험"
@@ -71,20 +85,6 @@
         "signals": [
           "소송/분쟁",
           "CB발행"
-        ]
-      },
-      {
-        "name": "좋은사람들",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "비케이홀딩스",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
         ]
       }
     ]
