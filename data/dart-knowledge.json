@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T18:15:06.042Z",
+  "generatedAt": "2026-11-18T06:56:36.972Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -12,11 +12,11 @@
   "companies": {},
   "dailyReport": {
     "highRiskCount": 11,
-    "totalSignals": 28,
+    "totalSignals": 24,
     "topRisks": [
       {
         "name": "씨씨에스",
-        "score": 100,
+        "score": 95,
         "signals": [
           "대주주변경",
           "소송/분쟁"
