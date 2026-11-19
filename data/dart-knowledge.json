@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T06:57:15.097Z",
+  "generatedAt": "2026-11-19T18:01:42.598Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 11,
-    "totalSignals": 25,
+    "highRiskCount": 13,
+    "totalSignals": 31,
     "topRisks": [
       {
         "name": "씨씨에스",
@@ -20,6 +20,37 @@
         "signals": [
           "대주주변경",
           "소송/분쟁"
+        ]
+      },
+      {
+        "name": "세림B&G",
+        "score": 70,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "에스아이리소스",
+        "score": 60,
+        "signals": [
+          "소송/분쟁",
+          "CB발행"
+        ]
+      },
+      {
+        "name": "WISCOM",
+        "score": 55,
+        "signals": [
+          "대주주변경",
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "롯데손해보험",
+        "score": 45,
+        "signals": [
+          "증자/감자",
+          "상장폐지위험"
         ]
       },
       {
@@ -52,36 +83,7 @@
         ]
       },
       {
-        "name": "세림B&G",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
         "name": "깨끗한나라",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "덱스터",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "에스아이리소스",
-        "score": 35,
-        "signals": [
-          "소송/분쟁",
-          "CB발행"
-        ]
-      },
-      {
-        "name": "좋은사람들",
         "score": 35,
         "signals": [
           "상장폐지위험"
