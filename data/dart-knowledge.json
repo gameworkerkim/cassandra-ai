@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T06:48:39.446Z",
+  "generatedAt": "2026-11-20T17:37:37.340Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 12,
-    "totalSignals": 28,
+    "highRiskCount": 13,
+    "totalSignals": 30,
     "topRisks": [
       {
         "name": "세림B&G",
@@ -68,6 +68,13 @@
         ]
       },
       {
+        "name": "모나용평",
+        "score": 40,
+        "signals": [
+          "대주주변경"
+        ]
+      },
+      {
         "name": "대산F&B",
         "score": 35,
         "signals": [
@@ -76,13 +83,6 @@
       },
       {
         "name": "인지디스플레",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "미디어젠",
         "score": 35,
         "signals": [
           "상장폐지위험"

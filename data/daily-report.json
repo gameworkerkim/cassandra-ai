@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-20T06:48:39.442Z",
+  "generatedAt": "2026-11-20T17:37:37.339Z",
   "period": {
     "from": "20261113",
     "to": "20261120"
   },
-  "totalCompanies": 74,
-  "totalDisclosures": 111,
+  "totalCompanies": 75,
+  "totalDisclosures": 116,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -341,6 +341,35 @@
       ]
     },
     {
+      "stockCode": "070960",
+      "corpCode": "00365989",
+      "name": "모나용평",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 40,
+          "count": 2,
+          "latestDate": "2026-11-20"
+        }
+      ],
+      "riskScore": 40,
+      "recentDisclosures": [
+        {
+          "date": "20261120",
+          "rceptNo": "20261120800757",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        },
+        {
+          "date": "20261113",
+          "rceptNo": "20261113800940",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "065150",
       "corpCode": "00390860",
       "name": "대산F&B",
@@ -393,6 +422,29 @@
       ]
     },
     {
+      "stockCode": "373110",
+      "corpCode": "01492217",
+      "name": "엑셀세라퓨틱스",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "상장폐지위험",
+          "weight": 35,
+          "count": 1,
+          "latestDate": "2026-11-20"
+        }
+      ],
+      "riskScore": 35,
+      "recentDisclosures": [
+        {
+          "date": "20261120",
+          "rceptNo": "20261120900866",
+          "title": "기타시장안내(관리종목지정우려종목)              (시가총액 200억원 미달)",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "279600",
       "corpCode": "01190124",
       "name": "미디어젠",
@@ -434,29 +486,6 @@
           "date": "20261116",
           "rceptNo": "20261116802583",
           "title": "투자유의안내              (깨끗한나라 1우선주 시가총액요건 미달로 인한 상장폐지 우려 예고)",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "050090",
-      "corpCode": "00369569",
-      "name": "비케이홀딩스",
-      "totalDisclosures": 1,
-      "signals": [
-        {
-          "rule": "상장폐지위험",
-          "weight": 35,
-          "count": 1,
-          "latestDate": "2026-11-13"
-        }
-      ],
-      "riskScore": 35,
-      "recentDisclosures": [
-        {
-          "date": "20261113",
-          "rceptNo": "20261113901902",
-          "title": "기타시장안내              (주가 미달에 따른 상장폐지 우려 관련 안내)",
           "type": "I"
         }
       ]
@@ -745,6 +774,35 @@
       ]
     },
     {
+      "stockCode": "070960",
+      "corpCode": "00365989",
+      "name": "모나용평",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 40,
+          "count": 2,
+          "latestDate": "2026-11-20"
+        }
+      ],
+      "riskScore": 40,
+      "recentDisclosures": [
+        {
+          "date": "20261120",
+          "rceptNo": "20261120800757",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        },
+        {
+          "date": "20261113",
+          "rceptNo": "20261113800940",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "065150",
       "corpCode": "00390860",
       "name": "대산F&B",
@@ -797,6 +855,29 @@
       ]
     },
     {
+      "stockCode": "373110",
+      "corpCode": "01492217",
+      "name": "엑셀세라퓨틱스",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "상장폐지위험",
+          "weight": 35,
+          "count": 1,
+          "latestDate": "2026-11-20"
+        }
+      ],
+      "riskScore": 35,
+      "recentDisclosures": [
+        {
+          "date": "20261120",
+          "rceptNo": "20261120900866",
+          "title": "기타시장안내(관리종목지정우려종목)              (시가총액 200억원 미달)",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "279600",
       "corpCode": "01190124",
       "name": "미디어젠",
@@ -843,24 +924,30 @@
       ]
     },
     {
-      "stockCode": "050090",
-      "corpCode": "00369569",
-      "name": "비케이홀딩스",
-      "totalDisclosures": 1,
+      "stockCode": "114630",
+      "corpCode": "00663669",
+      "name": "폴라리스우노",
+      "totalDisclosures": 2,
       "signals": [
         {
-          "rule": "상장폐지위험",
-          "weight": 35,
+          "rule": "소송/분쟁",
+          "weight": 25,
           "count": 1,
-          "latestDate": "2026-11-13"
+          "latestDate": "2026-11-20"
         }
       ],
-      "riskScore": 35,
+      "riskScore": 25,
       "recentDisclosures": [
         {
-          "date": "20261113",
-          "rceptNo": "20261113901902",
-          "title": "기타시장안내              (주가 미달에 따른 상장폐지 우려 관련 안내)",
+          "date": "20261120",
+          "rceptNo": "20261120900926",
+          "title": "[기재정정]경영권변경등에관한계약체결              ",
+          "type": "I"
+        },
+        {
+          "date": "20261120",
+          "rceptNo": "20261120900901",
+          "title": "[기재정정]주주총회소집결의              (임시주주총회)",
           "type": "I"
         }
       ]
@@ -999,24 +1086,30 @@
       ]
     },
     {
-      "stockCode": "070960",
-      "corpCode": "00365989",
-      "name": "모나용평",
-      "totalDisclosures": 1,
+      "stockCode": "329180",
+      "corpCode": "01390344",
+      "name": "HD현대중공업",
+      "totalDisclosures": 2,
       "signals": [
         {
           "rule": "대주주변경",
           "weight": 20,
           "count": 1,
-          "latestDate": "2026-11-13"
+          "latestDate": "2026-11-20"
         }
       ],
       "riskScore": 20,
       "recentDisclosures": [
         {
-          "date": "20261113",
-          "rceptNo": "20261113800940",
+          "date": "20261120",
+          "rceptNo": "20261120800761",
           "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        },
+        {
+          "date": "20261116",
+          "rceptNo": "20261116800519",
+          "title": "단일판매ㆍ공급계약체결(자율공시)              ",
           "type": "I"
         }
       ]
@@ -1274,6 +1367,22 @@
       ]
     },
     {
+      "stockCode": "217320",
+      "corpCode": "00963000",
+      "name": "썬테크",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261120",
+          "rceptNo": "20261120600921",
+          "title": "기업설명회(IR)개최결과              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "495910",
       "corpCode": "01378005",
       "name": "이에스티",
@@ -1309,10 +1418,22 @@
       "stockCode": "002990",
       "corpCode": "00106313",
       "name": "금호건설",
-      "totalDisclosures": 2,
+      "totalDisclosures": 4,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261120",
+          "rceptNo": "20261120800884",
+          "title": "투자판단관련주요경영사항              ",
+          "type": "I"
+        },
+        {
+          "date": "20261120",
+          "rceptNo": "20261120800722",
+          "title": "단일판매ㆍ공급계약체결              ",
+          "type": "I"
+        },
         {
           "date": "20261120",
           "rceptNo": "20261120800170",
@@ -1926,22 +2047,6 @@
       ]
     },
     {
-      "stockCode": "329180",
-      "corpCode": "01390344",
-      "name": "HD현대중공업",
-      "totalDisclosures": 1,
-      "signals": [],
-      "riskScore": 0,
-      "recentDisclosures": [
-        {
-          "date": "20261116",
-          "rceptNo": "20261116800519",
-          "title": "단일판매ㆍ공급계약체결(자율공시)              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
       "stockCode": "347700",
       "corpCode": "01336762",
       "name": "스피어",
@@ -2008,6 +2113,22 @@
       ]
     },
     {
+      "stockCode": "009540",
+      "corpCode": "00164830",
+      "name": "HD한국조선해양",
+      "totalDisclosures": 1,
+      "signals": [],
+      "riskScore": 0,
+      "recentDisclosures": [
+        {
+          "date": "20261120",
+          "rceptNo": "20261120800700",
+          "title": "풍문또는보도에대한해명(미확정)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "263020",
       "corpCode": "00892526",
       "name": "디케이앤디",
@@ -2019,44 +2140,6 @@
           "date": "20261120",
           "rceptNo": "20261120900185",
           "title": "주식소각결정              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "465480",
-      "corpCode": "01284876",
-      "name": "인스피언",
-      "totalDisclosures": 1,
-      "signals": [],
-      "riskScore": 0,
-      "recentDisclosures": [
-        {
-          "date": "20261113",
-          "rceptNo": "20261113900629",
-          "title": "영업(잠정)실적(공정공시)              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "002790",
-      "corpCode": "00154462",
-      "name": "아모레퍼시픽홀딩스",
-      "totalDisclosures": 2,
-      "signals": [],
-      "riskScore": 0,
-      "recentDisclosures": [
-        {
-          "date": "20261117",
-          "rceptNo": "20261117800143",
-          "title": "기업가치제고계획(자율공시)              ",
-          "type": "I"
-        },
-        {
-          "date": "20261117",
-          "rceptNo": "20261117800135",
-          "title": "수시공시의무관련사항(공정공시)              ",
           "type": "I"
         }
       ]
