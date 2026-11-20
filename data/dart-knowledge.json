@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T18:01:42.598Z",
+  "generatedAt": "2026-11-20T06:48:39.446Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,22 +11,22 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 13,
-    "totalSignals": 31,
+    "highRiskCount": 12,
+    "totalSignals": 28,
     "topRisks": [
-      {
-        "name": "씨씨에스",
-        "score": 95,
-        "signals": [
-          "대주주변경",
-          "소송/분쟁"
-        ]
-      },
       {
         "name": "세림B&G",
         "score": 70,
         "signals": [
           "상장폐지위험"
+        ]
+      },
+      {
+        "name": "씨씨에스",
+        "score": 70,
+        "signals": [
+          "대주주변경",
+          "소송/분쟁"
         ]
       },
       {
@@ -38,14 +38,6 @@
         ]
       },
       {
-        "name": "WISCOM",
-        "score": 55,
-        "signals": [
-          "대주주변경",
-          "상장폐지위험"
-        ]
-      },
-      {
         "name": "롯데손해보험",
         "score": 45,
         "signals": [
@@ -54,11 +46,25 @@
         ]
       },
       {
+        "name": "WISCOM",
+        "score": 40,
+        "signals": [
+          "대주주변경"
+        ]
+      },
+      {
         "name": "삼영이엔씨",
         "score": 40,
         "signals": [
           "대주주변경",
           "증자/감자"
+        ]
+      },
+      {
+        "name": "서원",
+        "score": 40,
+        "signals": [
+          "대주주변경"
         ]
       },
       {
@@ -77,13 +83,6 @@
       },
       {
         "name": "미디어젠",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "깨끗한나라",
         "score": 35,
         "signals": [
           "상장폐지위험"
