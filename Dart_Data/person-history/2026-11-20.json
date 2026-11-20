@@ -1,12 +1,142 @@
 {
-  "generatedAt": "2026-11-20T07:28:18.467Z",
+  "generatedAt": "2026-11-20T17:50:18.701Z",
   "totalDisclosures": 500,
-  "uniquePersons": 403,
+  "uniquePersons": 406,
   "persons": [
+    {
+      "key": "피스투에스피티이_unknown",
+      "name": "피스투에스피티이",
+      "count": 2
+    },
+    {
+      "key": "한울반도체_unknown",
+      "name": "한울반도체",
+      "count": 2
+    },
+    {
+      "key": "김기철_unknown",
+      "name": "김기철",
+      "count": 1
+    },
+    {
+      "key": "최민찬_unknown",
+      "name": "최민찬",
+      "count": 1
+    },
+    {
+      "key": "심본투자파트너스 1호 투자조합_unknown",
+      "name": "심본투자파트너스 1호 투자조합",
+      "count": 1
+    },
+    {
+      "key": "김한준_unknown",
+      "name": "김한준",
+      "count": 1
+    },
+    {
+      "key": "김기병_unknown",
+      "name": "김기병",
+      "count": 1
+    },
+    {
+      "key": "폴라리스세원_unknown",
+      "name": "폴라리스세원",
+      "count": 2
+    },
+    {
+      "key": "삼성전자_unknown",
+      "name": "삼성전자",
+      "count": 1
+    },
+    {
+      "key": "폴라리스우노_unknown",
+      "name": "폴라리스우노",
+      "count": 1
+    },
+    {
+      "key": "평산파트너스_unknown",
+      "name": "평산파트너스",
+      "count": 1
+    },
+    {
+      "key": "아미코젠_unknown",
+      "name": "아미코젠",
+      "count": 1
+    },
+    {
+      "key": "강원랜드_unknown",
+      "name": "강원랜드",
+      "count": 2
+    },
+    {
+      "key": "삼성물산_unknown",
+      "name": "삼성물산",
+      "count": 1
+    },
+    {
+      "key": "초록뱀미디어_unknown",
+      "name": "초록뱀미디어",
+      "count": 4
+    },
+    {
+      "key": "모아라이프플러스_unknown",
+      "name": "모아라이프플러스",
+      "count": 1
+    },
+    {
+      "key": "문덕영_unknown",
+      "name": "문덕영",
+      "count": 1
+    },
+    {
+      "key": "원익뉴그로쓰2020사모투자_unknown",
+      "name": "원익뉴그로쓰2020사모투자",
+      "count": 1
+    },
+    {
+      "key": "김중건_unknown",
+      "name": "김중건",
+      "count": 2
+    },
+    {
+      "key": "바이오스마트_unknown",
+      "name": "바이오스마트",
+      "count": 2
+    },
+    {
+      "key": "박태형_unknown",
+      "name": "박태형",
+      "count": 1
+    },
+    {
+      "key": "삼영엔지니어링_unknown",
+      "name": "삼영엔지니어링",
+      "count": 1
+    },
+    {
+      "key": "전성호_unknown",
+      "name": "전성호",
+      "count": 1
+    },
+    {
+      "key": "안효정_unknown",
+      "name": "안효정",
+      "count": 1
+    },
+    {
+      "key": "전방텍스타일_unknown",
+      "name": "전방텍스타일",
+      "count": 1
+    },
+    {
+      "key": "김창수_unknown",
+      "name": "김창수",
+      "count": 1
+    },
     {
       "key": "LAPISSemiconductorCo.,Ltd._unknown",
       "name": "LAPISSemiconductorCo.,Ltd.",
-      "count": 1
+      "count": 2
     },
     {
       "key": "코너스톤 펜타스톤 7호 신기술조합_unknown",
@@ -339,11 +469,6 @@
       "count": 1
     },
     {
-      "key": "강원랜드_unknown",
-      "name": "강원랜드",
-      "count": 1
-    },
-    {
       "key": "조종암_unknown",
       "name": "조종암",
       "count": 1
@@ -541,7 +666,7 @@
     {
       "key": "J.P.MORGANSECURITIESPLC_unknown",
       "name": "J.P.MORGANSECURITIESPLC",
-      "count": 5
+      "count": 4
     },
     {
       "key": "대신증권_unknown",
@@ -874,11 +999,6 @@
       "count": 1
     },
     {
-      "key": "김중건_unknown",
-      "name": "김중건",
-      "count": 1
-    },
-    {
       "key": "엔비티_unknown",
       "name": "엔비티",
       "count": 1
@@ -989,11 +1109,6 @@
       "count": 1
     },
     {
-      "key": "초록뱀미디어_unknown",
-      "name": "초록뱀미디어",
-      "count": 2
-    },
-    {
       "key": "John Chongbo Rim_unknown",
       "name": "John Chongbo Rim",
       "count": 1
@@ -1096,7 +1211,7 @@
     {
       "key": "강희철_unknown",
       "name": "강희철",
-      "count": 4
+      "count": 2
     },
     {
       "key": "안조홍_unknown",
@@ -1281,7 +1396,7 @@
     {
       "key": "다인투자조합_unknown",
       "name": "다인투자조합",
-      "count": 2
+      "count": 1
     },
     {
       "key": "가네마쯔코퍼레이션_unknown",
@@ -1426,7 +1541,7 @@
     {
       "key": "에코프로_unknown",
       "name": "에코프로",
-      "count": 3
+      "count": 1
     },
     {
       "key": "MarubeniCorporation_unknown",
@@ -1586,7 +1701,7 @@
     {
       "key": "최세영_unknown",
       "name": "최세영",
-      "count": 2
+      "count": 1
     },
     {
       "key": "정필문_unknown",
@@ -1596,7 +1711,7 @@
     {
       "key": "구자은_unknown",
       "name": "구자은",
-      "count": 4
+      "count": 2
     },
     {
       "key": "서승완_unknown",
@@ -1916,106 +2031,6 @@
     {
       "key": "FILLIMITED_unknown",
       "name": "FILLIMITED",
-      "count": 1
-    },
-    {
-      "key": "지란지교시큐리티_unknown",
-      "name": "지란지교시큐리티",
-      "count": 2
-    },
-    {
-      "key": "홍기광_unknown",
-      "name": "홍기광",
-      "count": 1
-    },
-    {
-      "key": "박무곤_unknown",
-      "name": "박무곤",
-      "count": 1
-    },
-    {
-      "key": "고기영_unknown",
-      "name": "고기영",
-      "count": 1
-    },
-    {
-      "key": "농협금융지주_unknown",
-      "name": "농협금융지주",
-      "count": 1
-    },
-    {
-      "key": "황보상일_unknown",
-      "name": "황보상일",
-      "count": 1
-    },
-    {
-      "key": "윤기섭_unknown",
-      "name": "윤기섭",
-      "count": 1
-    },
-    {
-      "key": "이동채_unknown",
-      "name": "이동채",
-      "count": 1
-    },
-    {
-      "key": "조민기_unknown",
-      "name": "조민기",
-      "count": 1
-    },
-    {
-      "key": "조광식_unknown",
-      "name": "조광식",
-      "count": 2
-    },
-    {
-      "key": "한상호_unknown",
-      "name": "한상호",
-      "count": 1
-    },
-    {
-      "key": "신승곤_unknown",
-      "name": "신승곤",
-      "count": 1
-    },
-    {
-      "key": "광명전기_unknown",
-      "name": "광명전기",
-      "count": 2
-    },
-    {
-      "key": "윤남선_unknown",
-      "name": "윤남선",
-      "count": 1
-    },
-    {
-      "key": "고태일_unknown",
-      "name": "고태일",
-      "count": 1
-    },
-    {
-      "key": "김경수_unknown",
-      "name": "김경수",
-      "count": 1
-    },
-    {
-      "key": "이기호_unknown",
-      "name": "이기호",
-      "count": 1
-    },
-    {
-      "key": "임욱빈_unknown",
-      "name": "임욱빈",
-      "count": 1
-    },
-    {
-      "key": "김미경_unknown",
-      "name": "김미경",
-      "count": 1
-    },
-    {
-      "key": "우신산업_unknown",
-      "name": "우신산업",
       "count": 1
     }
   ]
