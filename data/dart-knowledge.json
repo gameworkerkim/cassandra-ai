@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T17:37:37.340Z",
+  "generatedAt": "2026-11-21T06:41:29.108Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,30 +11,15 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 13,
-    "totalSignals": 30,
+    "highRiskCount": 8,
+    "totalSignals": 26,
     "topRisks": [
-      {
-        "name": "세림B&G",
-        "score": 70,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
       {
         "name": "씨씨에스",
         "score": 70,
         "signals": [
           "대주주변경",
           "소송/분쟁"
-        ]
-      },
-      {
-        "name": "에스아이리소스",
-        "score": 60,
-        "signals": [
-          "소송/분쟁",
-          "CB발행"
         ]
       },
       {
@@ -53,14 +38,6 @@
         ]
       },
       {
-        "name": "삼영이엔씨",
-        "score": 40,
-        "signals": [
-          "대주주변경",
-          "증자/감자"
-        ]
-      },
-      {
         "name": "서원",
         "score": 40,
         "signals": [
@@ -68,21 +45,28 @@
         ]
       },
       {
-        "name": "모나용평",
-        "score": 40,
-        "signals": [
-          "대주주변경"
-        ]
-      },
-      {
-        "name": "대산F&B",
+        "name": "엑셀세라퓨틱스",
         "score": 35,
         "signals": [
           "상장폐지위험"
         ]
       },
       {
-        "name": "인지디스플레",
+        "name": "미디어젠",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "세림B&G",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "깨끗한나라",
         "score": 35,
         "signals": [
           "상장폐지위험"
