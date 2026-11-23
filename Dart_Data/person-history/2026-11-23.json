@@ -1,8 +1,108 @@
 {
-  "generatedAt": "2026-11-23T07:51:16.517Z",
+  "generatedAt": "2026-11-23T21:28:13.394Z",
   "totalDisclosures": 500,
-  "uniquePersons": 401,
+  "uniquePersons": 400,
   "persons": [
+    {
+      "key": "그린플러스_unknown",
+      "name": "그린플러스",
+      "count": 1
+    },
+    {
+      "key": "강원호_unknown",
+      "name": "강원호",
+      "count": 1
+    },
+    {
+      "key": "장철민_unknown",
+      "name": "장철민",
+      "count": 1
+    },
+    {
+      "key": "김진섭_unknown",
+      "name": "김진섭",
+      "count": 1
+    },
+    {
+      "key": "케이에이아이-오퍼스원 소부장 펀드_unknown",
+      "name": "케이에이아이-오퍼스원 소부장 펀드",
+      "count": 1
+    },
+    {
+      "key": "광림_unknown",
+      "name": "광림",
+      "count": 1
+    },
+    {
+      "key": "임창순_unknown",
+      "name": "임창순",
+      "count": 1
+    },
+    {
+      "key": "이규항_unknown",
+      "name": "이규항",
+      "count": 1
+    },
+    {
+      "key": "지란지교시큐리티_unknown",
+      "name": "지란지교시큐리티",
+      "count": 2
+    },
+    {
+      "key": "최준호_unknown",
+      "name": "최준호",
+      "count": 1
+    },
+    {
+      "key": "한국산업은행_unknown",
+      "name": "한국산업은행",
+      "count": 1
+    },
+    {
+      "key": "패션그룹형지_unknown",
+      "name": "패션그룹형지",
+      "count": 1
+    },
+    {
+      "key": "김흥섭_unknown",
+      "name": "김흥섭",
+      "count": 1
+    },
+    {
+      "key": "넥스턴앤롤코리아_unknown",
+      "name": "넥스턴앤롤코리아",
+      "count": 4
+    },
+    {
+      "key": "알파에어로_unknown",
+      "name": "알파에어로",
+      "count": 2
+    },
+    {
+      "key": "황인찬_unknown",
+      "name": "황인찬",
+      "count": 1
+    },
+    {
+      "key": "최병삼_unknown",
+      "name": "최병삼",
+      "count": 2
+    },
+    {
+      "key": "로아앤코홀딩스_unknown",
+      "name": "로아앤코홀딩스",
+      "count": 3
+    },
+    {
+      "key": "박헌직_unknown",
+      "name": "박헌직",
+      "count": 1
+    },
+    {
+      "key": "조영진_unknown",
+      "name": "조영진",
+      "count": 1
+    },
     {
       "key": "김치환_unknown",
       "name": "김치환",
@@ -26,11 +126,6 @@
     {
       "key": "이예진_unknown",
       "name": "이예진",
-      "count": 1
-    },
-    {
-      "key": "알파에어로_unknown",
-      "name": "알파에어로",
       "count": 1
     },
     {
@@ -286,12 +381,12 @@
     {
       "key": "정필문_unknown",
       "name": "정필문",
-      "count": 3
+      "count": 2
     },
     {
       "key": "구자은_unknown",
       "name": "구자은",
-      "count": 4
+      "count": 2
     },
     {
       "key": "김현태_unknown",
@@ -1189,11 +1284,6 @@
       "count": 1
     },
     {
-      "key": "최병삼_unknown",
-      "name": "최병삼",
-      "count": 1
-    },
-    {
       "key": "장원보_unknown",
       "name": "장원보",
       "count": 1
@@ -1379,11 +1469,6 @@
       "count": 1
     },
     {
-      "key": "넥스턴앤롤코리아_unknown",
-      "name": "넥스턴앤롤코리아",
-      "count": 2
-    },
-    {
       "key": "길병주_unknown",
       "name": "길병주",
       "count": 1
@@ -1407,11 +1492,6 @@
       "key": "이준호_unknown",
       "name": "이준호",
       "count": 1
-    },
-    {
-      "key": "로아앤코홀딩스_unknown",
-      "name": "로아앤코홀딩스",
-      "count": 2
     },
     {
       "key": "이동범_unknown",
@@ -1921,91 +2001,6 @@
     {
       "key": "이준녕_unknown",
       "name": "이준녕",
-      "count": 1
-    },
-    {
-      "key": "최영재_unknown",
-      "name": "최영재",
-      "count": 1
-    },
-    {
-      "key": "한철호_unknown",
-      "name": "한철호",
-      "count": 1
-    },
-    {
-      "key": "신경도_unknown",
-      "name": "신경도",
-      "count": 1
-    },
-    {
-      "key": "김슬기_unknown",
-      "name": "김슬기",
-      "count": 2
-    },
-    {
-      "key": "전웅_unknown",
-      "name": "전웅",
-      "count": 1
-    },
-    {
-      "key": "이효중_unknown",
-      "name": "이효중",
-      "count": 1
-    },
-    {
-      "key": "박주형_unknown",
-      "name": "박주형",
-      "count": 1
-    },
-    {
-      "key": "김근영_unknown",
-      "name": "김근영",
-      "count": 1
-    },
-    {
-      "key": "황호찬_unknown",
-      "name": "황호찬",
-      "count": 1
-    },
-    {
-      "key": "에코_unknown",
-      "name": "에코",
-      "count": 1
-    },
-    {
-      "key": "우숙_unknown",
-      "name": "우숙",
-      "count": 1
-    },
-    {
-      "key": "유정준_unknown",
-      "name": "유정준",
-      "count": 1
-    },
-    {
-      "key": "KG케미칼_unknown",
-      "name": "KG케미칼",
-      "count": 1
-    },
-    {
-      "key": "김진서_unknown",
-      "name": "김진서",
-      "count": 1
-    },
-    {
-      "key": "이근용_unknown",
-      "name": "이근용",
-      "count": 2
-    },
-    {
-      "key": "최세영_unknown",
-      "name": "최세영",
-      "count": 1
-    },
-    {
-      "key": "서승완_unknown",
-      "name": "서승완",
       "count": 1
     }
   ]
