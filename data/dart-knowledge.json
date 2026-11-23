@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T16:57:52.735Z",
+  "generatedAt": "2026-11-23T07:02:02.437Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 8,
-    "totalSignals": 26,
+    "highRiskCount": 10,
+    "totalSignals": 28,
     "topRisks": [
       {
         "name": "씨씨에스",
@@ -38,7 +38,21 @@
         ]
       },
       {
+        "name": "메디콕스",
+        "score": 40,
+        "signals": [
+          "횡령/배임"
+        ]
+      },
+      {
         "name": "서원",
+        "score": 40,
+        "signals": [
+          "대주주변경"
+        ]
+      },
+      {
+        "name": "HD현대중공업",
         "score": 40,
         "signals": [
           "대주주변경"
