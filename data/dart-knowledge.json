@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:02:02.437Z",
+  "generatedAt": "2026-11-23T20:57:05.814Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,15 +11,36 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 10,
-    "totalSignals": 28,
+    "highRiskCount": 12,
+    "totalSignals": 32,
     "topRisks": [
+      {
+        "name": "한국자산신탁",
+        "score": 75,
+        "signals": [
+          "소송/분쟁"
+        ]
+      },
       {
         "name": "씨씨에스",
         "score": 70,
         "signals": [
           "대주주변경",
           "소송/분쟁"
+        ]
+      },
+      {
+        "name": "한성기업",
+        "score": 60,
+        "signals": [
+          "대주주변경"
+        ]
+      },
+      {
+        "name": "서원",
+        "score": 60,
+        "signals": [
+          "대주주변경"
         ]
       },
       {
@@ -45,13 +66,6 @@
         ]
       },
       {
-        "name": "서원",
-        "score": 40,
-        "signals": [
-          "대주주변경"
-        ]
-      },
-      {
         "name": "HD현대중공업",
         "score": 40,
         "signals": [
@@ -67,20 +81,6 @@
       },
       {
         "name": "미디어젠",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "세림B&G",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "깨끗한나라",
         "score": 35,
         "signals": [
           "상장폐지위험"

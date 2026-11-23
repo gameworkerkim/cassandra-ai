@@ -1,15 +1,15 @@
 [
   {
-    "rank": 4,
+    "rank": 9,
     "name": "한국비티비",
     "code": "219750",
-    "price": "2,655",
-    "change": "+15 (+0.57%)",
-    "changePercent": 0.57,
-    "volume": "4,040",
-    "volumeRaw": 4040,
-    "marketCap": "347억",
-    "marketCapRaw": 347,
+    "price": "2,950",
+    "change": "+310 (+11.74%)",
+    "changePercent": 11.74,
+    "volume": "5,280",
+    "volumeRaw": 5280,
+    "marketCap": "386억",
+    "marketCapRaw": 386,
     "flags": {
       "hasNameChange": false,
       "hasMajorHolderChange": false,
@@ -22,7 +22,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 9,
     "name": "유틸렉스",
     "code": "263050",
     "price": "959",
@@ -37,6 +37,27 @@
       "hasPurposeAddition": false,
       "hasLawsuit": true,
       "lawsuitDetail": "소송등의판결ㆍ결정              ",
+      "hasCB": false,
+      "cbCount": 0,
+      "volatilityScore": 25
+    }
+  },
+  {
+    "rank": 18,
+    "name": "셀피글로벌",
+    "code": "068940",
+    "price": "778",
+    "change": "+0 (+0%)",
+    "changePercent": 0,
+    "volumeRaw": null,
+    "marketCap": "357억",
+    "marketCapRaw": 357,
+    "flags": {
+      "hasNameChange": false,
+      "hasMajorHolderChange": false,
+      "hasPurposeAddition": false,
+      "hasLawsuit": true,
+      "lawsuitDetail": "소송등의판결ㆍ결정              (주주총회결의 취소 청구의 소)",
       "hasCB": false,
       "cbCount": 0,
       "volatilityScore": 25
