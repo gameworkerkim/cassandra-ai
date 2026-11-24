@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T20:57:05.814Z",
+  "generatedAt": "2026-11-24T09:28:15.795Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 12,
-    "totalSignals": 32,
+    "highRiskCount": 13,
+    "totalSignals": 30,
     "topRisks": [
       {
         "name": "한국자산신탁",
@@ -41,6 +41,14 @@
         "score": 60,
         "signals": [
           "대주주변경"
+        ]
+      },
+      {
+        "name": "엑셀세라퓨틱스",
+        "score": 55,
+        "signals": [
+          "증자/감자",
+          "상장폐지위험"
         ]
       },
       {
@@ -73,14 +81,7 @@
         ]
       },
       {
-        "name": "엑셀세라퓨틱스",
-        "score": 35,
-        "signals": [
-          "상장폐지위험"
-        ]
-      },
-      {
-        "name": "미디어젠",
+        "name": "앱코",
         "score": 35,
         "signals": [
           "상장폐지위험"
