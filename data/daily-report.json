@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-24T09:28:15.794Z",
+  "generatedAt": "2026-11-24T20:01:11.760Z",
   "period": {
     "from": "20261117",
     "to": "20261124"
   },
-  "totalCompanies": 75,
-  "totalDisclosures": 133,
+  "totalCompanies": 74,
+  "totalDisclosures": 127,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -2245,52 +2245,6 @@
           "date": "20261119",
           "rceptNo": "20261119900165",
           "title": "기업설명회(IR)개최              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "352820",
-      "corpCode": "01204056",
-      "name": "하이브",
-      "totalDisclosures": 6,
-      "signals": [],
-      "riskScore": 0,
-      "recentDisclosures": [
-        {
-          "date": "20261124",
-          "rceptNo": "20261124801000",
-          "title": "[기재정정]타법인주식및출자증권취득결정              ",
-          "type": "I"
-        },
-        {
-          "date": "20261124",
-          "rceptNo": "20261124800807",
-          "title": "[기재정정]주주총회소집결의              ",
-          "type": "I"
-        },
-        {
-          "date": "20261124",
-          "rceptNo": "20261124800768",
-          "title": "[기재정정]타법인주식및출자증권처분결정              ",
-          "type": "I"
-        },
-        {
-          "date": "20261118",
-          "rceptNo": "20261118800338",
-          "title": "타법인주식및출자증권취득결정(자율공시)(종속회사의주요경영사항)              ",
-          "type": "I"
-        },
-        {
-          "date": "20261118",
-          "rceptNo": "20261118800279",
-          "title": "주주명부폐쇄기간또는기준일설정              ",
-          "type": "I"
-        },
-        {
-          "date": "20261118",
-          "rceptNo": "20261118800277",
-          "title": "주주총회소집결의              ",
           "type": "I"
         }
       ]

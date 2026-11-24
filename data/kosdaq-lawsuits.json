@@ -1,6 +1,27 @@
 [
   {
-    "rank": 10,
+    "rank": 3,
+    "name": "유틸렉스",
+    "code": "263050",
+    "price": "959",
+    "change": "+0 (+0%)",
+    "changePercent": 0,
+    "volumeRaw": null,
+    "marketCap": "353억",
+    "marketCapRaw": 353,
+    "flags": {
+      "hasNameChange": false,
+      "hasMajorHolderChange": false,
+      "hasPurposeAddition": false,
+      "hasLawsuit": true,
+      "lawsuitDetail": "소송등의판결ㆍ결정              ",
+      "hasCB": false,
+      "cbCount": 0,
+      "volatilityScore": 25
+    }
+  },
+  {
+    "rank": 11,
     "name": "셀피글로벌",
     "code": "068940",
     "price": "778",
