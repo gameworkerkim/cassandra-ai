@@ -1,6 +1,28 @@
 [
   {
-    "rank": 3,
+    "rank": 17,
+    "name": "CJ 바이오사이언스",
+    "code": "311690",
+    "price": "3,300",
+    "change": "+270 (+8.91%)",
+    "changePercent": 8.91,
+    "volume": "8,421",
+    "volumeRaw": 8421,
+    "marketCap": "431억",
+    "marketCapRaw": 431,
+    "flags": {
+      "hasNameChange": false,
+      "hasMajorHolderChange": false,
+      "hasPurposeAddition": false,
+      "hasLawsuit": true,
+      "lawsuitDetail": "소송등의판결ㆍ결정(일정금액이상의청구)              ",
+      "hasCB": false,
+      "cbCount": 0,
+      "volatilityScore": 25
+    }
+  },
+  {
+    "rank": 8,
     "name": "유틸렉스",
     "code": "263050",
     "price": "959",
@@ -21,7 +43,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 16,
     "name": "셀피글로벌",
     "code": "068940",
     "price": "778",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T20:01:11.761Z",
+  "generatedAt": "2026-11-25T08:00:47.275Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -12,32 +12,18 @@
   "companies": {},
   "dailyReport": {
     "highRiskCount": 13,
-    "totalSignals": 30,
+    "totalSignals": 32,
     "topRisks": [
       {
-        "name": "한국자산신탁",
-        "score": 75,
-        "signals": [
-          "소송/분쟁"
-        ]
-      },
-      {
-        "name": "씨씨에스",
+        "name": "서원",
         "score": 70,
         "signals": [
           "대주주변경",
-          "소송/분쟁"
+          "증자/감자"
         ]
       },
       {
-        "name": "한성기업",
-        "score": 60,
-        "signals": [
-          "대주주변경"
-        ]
-      },
-      {
-        "name": "서원",
+        "name": "HD현대중공업",
         "score": 60,
         "signals": [
           "대주주변경"
@@ -52,11 +38,33 @@
         ]
       },
       {
+        "name": "한국자산신탁",
+        "score": 50,
+        "signals": [
+          "소송/분쟁"
+        ]
+      },
+      {
         "name": "롯데손해보험",
         "score": 45,
         "signals": [
           "증자/감자",
           "상장폐지위험"
+        ]
+      },
+      {
+        "name": "씨씨에스",
+        "score": 45,
+        "signals": [
+          "대주주변경",
+          "소송/분쟁"
+        ]
+      },
+      {
+        "name": "한성기업",
+        "score": 40,
+        "signals": [
+          "대주주변경"
         ]
       },
       {
@@ -71,13 +79,6 @@
         "score": 40,
         "signals": [
           "횡령/배임"
-        ]
-      },
-      {
-        "name": "HD현대중공업",
-        "score": 40,
-        "signals": [
-          "대주주변경"
         ]
       },
       {
