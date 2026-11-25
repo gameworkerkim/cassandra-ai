@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:00:47.275Z",
+  "generatedAt": "2026-11-25T19:01:49.698Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,9 +11,18 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 13,
-    "totalSignals": 32,
+    "highRiskCount": 14,
+    "totalSignals": 35,
     "topRisks": [
+      {
+        "name": "씨씨에스",
+        "score": 100,
+        "signals": [
+          "대주주변경",
+          "소송/분쟁",
+          "상장폐지위험"
+        ]
+      },
       {
         "name": "서원",
         "score": 70,
@@ -53,14 +62,6 @@
         ]
       },
       {
-        "name": "씨씨에스",
-        "score": 45,
-        "signals": [
-          "대주주변경",
-          "소송/분쟁"
-        ]
-      },
-      {
         "name": "한성기업",
         "score": 40,
         "signals": [
@@ -82,7 +83,7 @@
         ]
       },
       {
-        "name": "앱코",
+        "name": "모나미",
         "score": 35,
         "signals": [
           "상장폐지위험"

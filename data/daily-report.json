@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-25T08:00:47.274Z",
+  "generatedAt": "2026-11-25T19:01:49.697Z",
   "period": {
     "from": "20261118",
     "to": "20261125"
   },
-  "totalCompanies": 73,
-  "totalDisclosures": 129,
+  "totalCompanies": 74,
+  "totalDisclosures": 135,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -59,6 +59,59 @@
     }
   ],
   "highRisk": [
+    {
+      "stockCode": "066790",
+      "corpCode": "00249441",
+      "name": "씨씨에스",
+      "totalDisclosures": 4,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-11-20"
+        },
+        {
+          "rule": "소송/분쟁",
+          "weight": 25,
+          "count": 1,
+          "latestDate": "2026-11-19"
+        },
+        {
+          "rule": "상장폐지위험",
+          "weight": 70,
+          "count": 2,
+          "latestDate": "2026-11-25"
+        }
+      ],
+      "riskScore": 100,
+      "recentDisclosures": [
+        {
+          "date": "20261125",
+          "rceptNo": "20261125900759",
+          "title": "주권매매거래정지해제              (상장폐지에 따른 정리매매 개시)",
+          "type": "I"
+        },
+        {
+          "date": "20261125",
+          "rceptNo": "20261125900743",
+          "title": "기타시장안내              (코스닥시장위원회 개최 결과 및 상장폐지 결정 안내)",
+          "type": "I"
+        },
+        {
+          "date": "20261120",
+          "rceptNo": "20261120900282",
+          "title": "기타경영사항(자율공시)              (변경예정 최대주주의 방송미디어통신위원회 [최다액출자자 변경승인 신청서] 접수)",
+          "type": "I"
+        },
+        {
+          "date": "20261119",
+          "rceptNo": "20261119900593",
+          "title": "소송등의판결ㆍ결정              (의결권행사금지 가처분-취하)",
+          "type": "I"
+        }
+      ]
+    },
     {
       "stockCode": "021050",
       "corpCode": "00131197",
@@ -301,41 +354,6 @@
       ]
     },
     {
-      "stockCode": "066790",
-      "corpCode": "00249441",
-      "name": "씨씨에스",
-      "totalDisclosures": 2,
-      "signals": [
-        {
-          "rule": "대주주변경",
-          "weight": 20,
-          "count": 1,
-          "latestDate": "2026-11-20"
-        },
-        {
-          "rule": "소송/분쟁",
-          "weight": 25,
-          "count": 1,
-          "latestDate": "2026-11-19"
-        }
-      ],
-      "riskScore": 45,
-      "recentDisclosures": [
-        {
-          "date": "20261120",
-          "rceptNo": "20261120900282",
-          "title": "기타경영사항(자율공시)              (변경예정 최대주주의 방송미디어통신위원회 [최다액출자자 변경승인 신청서] 접수)",
-          "type": "I"
-        },
-        {
-          "date": "20261119",
-          "rceptNo": "20261119900593",
-          "title": "소송등의판결ㆍ결정              (의결권행사금지 가처분-취하)",
-          "type": "I"
-        }
-      ]
-    },
-    {
       "stockCode": "003680",
       "corpCode": "00161860",
       "name": "한성기업",
@@ -430,6 +448,29 @@
           "date": "20261123",
           "rceptNo": "20261123900157",
           "title": "횡령ㆍ배임사실확인              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "005360",
+      "corpCode": "00121288",
+      "name": "모나미",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "상장폐지위험",
+          "weight": 35,
+          "count": 1,
+          "latestDate": "2026-11-25"
+        }
+      ],
+      "riskScore": 35,
+      "recentDisclosures": [
+        {
+          "date": "20261125",
+          "rceptNo": "20261125800661",
+          "title": "투자유의안내              (관리종목지정 우려 예고)",
           "type": "I"
         }
       ]
@@ -553,6 +594,59 @@
   ],
   "companies": [
     {
+      "stockCode": "066790",
+      "corpCode": "00249441",
+      "name": "씨씨에스",
+      "totalDisclosures": 4,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-11-20"
+        },
+        {
+          "rule": "소송/분쟁",
+          "weight": 25,
+          "count": 1,
+          "latestDate": "2026-11-19"
+        },
+        {
+          "rule": "상장폐지위험",
+          "weight": 70,
+          "count": 2,
+          "latestDate": "2026-11-25"
+        }
+      ],
+      "riskScore": 100,
+      "recentDisclosures": [
+        {
+          "date": "20261125",
+          "rceptNo": "20261125900759",
+          "title": "주권매매거래정지해제              (상장폐지에 따른 정리매매 개시)",
+          "type": "I"
+        },
+        {
+          "date": "20261125",
+          "rceptNo": "20261125900743",
+          "title": "기타시장안내              (코스닥시장위원회 개최 결과 및 상장폐지 결정 안내)",
+          "type": "I"
+        },
+        {
+          "date": "20261120",
+          "rceptNo": "20261120900282",
+          "title": "기타경영사항(자율공시)              (변경예정 최대주주의 방송미디어통신위원회 [최다액출자자 변경승인 신청서] 접수)",
+          "type": "I"
+        },
+        {
+          "date": "20261119",
+          "rceptNo": "20261119900593",
+          "title": "소송등의판결ㆍ결정              (의결권행사금지 가처분-취하)",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "021050",
       "corpCode": "00131197",
       "name": "서원",
@@ -794,41 +888,6 @@
       ]
     },
     {
-      "stockCode": "066790",
-      "corpCode": "00249441",
-      "name": "씨씨에스",
-      "totalDisclosures": 2,
-      "signals": [
-        {
-          "rule": "대주주변경",
-          "weight": 20,
-          "count": 1,
-          "latestDate": "2026-11-20"
-        },
-        {
-          "rule": "소송/분쟁",
-          "weight": 25,
-          "count": 1,
-          "latestDate": "2026-11-19"
-        }
-      ],
-      "riskScore": 45,
-      "recentDisclosures": [
-        {
-          "date": "20261120",
-          "rceptNo": "20261120900282",
-          "title": "기타경영사항(자율공시)              (변경예정 최대주주의 방송미디어통신위원회 [최다액출자자 변경승인 신청서] 접수)",
-          "type": "I"
-        },
-        {
-          "date": "20261119",
-          "rceptNo": "20261119900593",
-          "title": "소송등의판결ㆍ결정              (의결권행사금지 가처분-취하)",
-          "type": "I"
-        }
-      ]
-    },
-    {
       "stockCode": "003680",
       "corpCode": "00161860",
       "name": "한성기업",
@@ -923,6 +982,29 @@
           "date": "20261123",
           "rceptNo": "20261123900157",
           "title": "횡령ㆍ배임사실확인              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "005360",
+      "corpCode": "00121288",
+      "name": "모나미",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "상장폐지위험",
+          "weight": 35,
+          "count": 1,
+          "latestDate": "2026-11-25"
+        }
+      ],
+      "riskScore": 35,
+      "recentDisclosures": [
+        {
+          "date": "20261125",
+          "rceptNo": "20261125800661",
+          "title": "투자유의안내              (관리종목지정 우려 예고)",
           "type": "I"
         }
       ]
@@ -1339,6 +1421,35 @@
       ]
     },
     {
+      "stockCode": "186230",
+      "corpCode": "00602279",
+      "name": "그린플러스",
+      "totalDisclosures": 2,
+      "signals": [
+        {
+          "rule": "CB발행",
+          "weight": 10,
+          "count": 1,
+          "latestDate": "2026-11-25"
+        }
+      ],
+      "riskScore": 10,
+      "recentDisclosures": [
+        {
+          "date": "20261125",
+          "rceptNo": "20261125000689",
+          "title": "[기재정정]주요사항보고서(전환사채권발행결정)",
+          "type": "B"
+        },
+        {
+          "date": "20261123",
+          "rceptNo": "20261123900616",
+          "title": "[기재정정]주주총회소집결의              (임시주주총회)",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "110790",
       "corpCode": "00522007",
       "name": "크리스에프앤씨",
@@ -1446,10 +1557,16 @@
       "stockCode": "076340",
       "corpCode": "00321204",
       "name": "지에이이노더스",
-      "totalDisclosures": 1,
+      "totalDisclosures": 2,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261125",
+          "rceptNo": "20261125000777",
+          "title": "주요사항보고서(자기주식처분결정)",
+          "type": "B"
+        },
         {
           "date": "20261125",
           "rceptNo": "20261125600398",
@@ -1608,10 +1725,16 @@
       "stockCode": "095700",
       "corpCode": "00545929",
       "name": "제넥신",
-      "totalDisclosures": 1,
+      "totalDisclosures": 2,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261125",
+          "rceptNo": "20261125900769",
+          "title": "불성실공시법인지정예고              (공시번복)",
+          "type": "I"
+        },
         {
           "date": "20261120",
           "rceptNo": "20261120900297",
@@ -1676,22 +1799,6 @@
           "date": "20261118",
           "rceptNo": "20261118600323",
           "title": "기업설명회(IR)개최              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "186230",
-      "corpCode": "00602279",
-      "name": "그린플러스",
-      "totalDisclosures": 1,
-      "signals": [],
-      "riskScore": 0,
-      "recentDisclosures": [
-        {
-          "date": "20261123",
-          "rceptNo": "20261123900616",
-          "title": "[기재정정]주주총회소집결의              (임시주주총회)",
           "type": "I"
         }
       ]
