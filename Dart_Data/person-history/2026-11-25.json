@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-11-25T08:48:02.693Z",
+  "generatedAt": "2026-11-25T19:19:31.007Z",
   "totalDisclosures": 500,
   "uniquePersons": 409,
   "persons": [
+    {
+      "key": "안병철_unknown",
+      "name": "안병철",
+      "count": 1
+    },
     {
       "key": "하우자산운용_unknown",
       "name": "하우자산운용",
@@ -2041,11 +2046,6 @@
     {
       "key": "손진법_unknown",
       "name": "손진법",
-      "count": 1
-    },
-    {
-      "key": "김주원_unknown",
-      "name": "김주원",
       "count": 1
     }
   ]
