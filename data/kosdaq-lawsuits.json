@@ -1,12 +1,13 @@
 [
   {
-    "rank": 4,
-    "name": "유틸렉스",
-    "code": "263050",
-    "price": "959",
-    "change": "+0 (+0%)",
-    "changePercent": 0,
-    "volumeRaw": null,
+    "rank": 3,
+    "name": "하이즈항공",
+    "code": "221840",
+    "price": "1,889",
+    "change": "+146 (+8.38%)",
+    "changePercent": 8.38,
+    "volume": "7,887",
+    "volumeRaw": 7887,
     "marketCap": "353억",
     "marketCapRaw": 353,
     "flags": {
@@ -14,14 +15,14 @@
       "hasMajorHolderChange": false,
       "hasPurposeAddition": false,
       "hasLawsuit": true,
-      "lawsuitDetail": "소송등의판결ㆍ결정              ",
+      "lawsuitDetail": "소송등의판결ㆍ결정              (회계장부 등 열람등사 신청)",
       "hasCB": false,
       "cbCount": 0,
       "volatilityScore": 25
     }
   },
   {
-    "rank": 8,
+    "rank": 6,
     "name": "셀피글로벌",
     "code": "068940",
     "price": "778",

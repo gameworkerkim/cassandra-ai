@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T07:51:24.446Z",
+  "generatedAt": "2026-11-26T18:53:43.382Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,15 +11,20 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 13,
-    "totalSignals": 38,
+    "highRiskCount": 14,
+    "totalSignals": 39,
     "topRisks": [
       {
-        "name": "씨씨에스",
-        "score": 100,
+        "name": "한국자산신탁",
+        "score": 75,
         "signals": [
-          "대주주변경",
-          "소송/분쟁",
+          "소송/분쟁"
+        ]
+      },
+      {
+        "name": "세림B&G",
+        "score": 70,
+        "signals": [
           "상장폐지위험"
         ]
       },
@@ -44,13 +49,6 @@
         "signals": [
           "증자/감자",
           "상장폐지위험"
-        ]
-      },
-      {
-        "name": "한국자산신탁",
-        "score": 50,
-        "signals": [
-          "소송/분쟁"
         ]
       },
       {
@@ -83,7 +81,7 @@
         ]
       },
       {
-        "name": "모나미",
+        "name": "영진약품",
         "score": 35,
         "signals": [
           "상장폐지위험"

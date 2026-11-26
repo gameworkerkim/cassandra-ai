@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-26T07:51:24.444Z",
+  "generatedAt": "2026-11-26T18:53:43.381Z",
   "period": {
     "from": "20261119",
     "to": "20261126"
   },
-  "totalCompanies": 72,
-  "totalDisclosures": 138,
+  "totalCompanies": 73,
+  "totalDisclosures": 131,
   "rules": [
     {
       "key": "NAME_CHANGE",
@@ -60,72 +60,77 @@
   ],
   "highRisk": [
     {
-      "stockCode": "066790",
-      "corpCode": "00249441",
-      "name": "씨씨에스",
-      "totalDisclosures": 7,
+      "stockCode": "123890",
+      "corpCode": "00404701",
+      "name": "한국자산신탁",
+      "totalDisclosures": 3,
       "signals": [
         {
-          "rule": "대주주변경",
-          "weight": 20,
-          "count": 1,
-          "latestDate": "2026-11-20"
-        },
-        {
           "rule": "소송/분쟁",
-          "weight": 50,
-          "count": 2,
-          "latestDate": "2026-11-26"
-        },
-        {
-          "rule": "상장폐지위험",
-          "weight": 100,
-          "count": 4,
+          "weight": 75,
+          "count": 3,
           "latestDate": "2026-11-26"
         }
       ],
-      "riskScore": 100,
+      "riskScore": 75,
       "recentDisclosures": [
         {
           "date": "20261126",
-          "rceptNo": "20261126900136",
-          "title": "주권매매거래정지              (투자자 보호)",
+          "rceptNo": "20261126800642",
+          "title": "[기재정정]소송등의제기ㆍ신청(일정금액이상의청구)              ",
           "type": "I"
         },
         {
-          "date": "20261126",
-          "rceptNo": "20261126900135",
-          "title": "기타시장안내              (정리매매 보류 관련)",
-          "type": "I"
-        },
-        {
-          "date": "20261126",
-          "rceptNo": "20261126900130",
-          "title": "기타경영사항(자율공시)              (상장폐지결정 등 효력정지 가처분 신청)",
-          "type": "I"
-        },
-        {
-          "date": "20261125",
-          "rceptNo": "20261125900759",
-          "title": "주권매매거래정지해제              (상장폐지에 따른 정리매매 개시)",
-          "type": "I"
-        },
-        {
-          "date": "20261125",
-          "rceptNo": "20261125900743",
-          "title": "기타시장안내              (코스닥시장위원회 개최 결과 및 상장폐지 결정 안내)",
-          "type": "I"
-        },
-        {
-          "date": "20261120",
-          "rceptNo": "20261120900282",
-          "title": "기타경영사항(자율공시)              (변경예정 최대주주의 방송미디어통신위원회 [최다액출자자 변경승인 신청서] 접수)",
+          "date": "20261123",
+          "rceptNo": "20261123800606",
+          "title": "[기재정정]소송등의제기ㆍ신청(일정금액이상의청구)              ",
           "type": "I"
         },
         {
           "date": "20261119",
-          "rceptNo": "20261119900593",
-          "title": "소송등의판결ㆍ결정              (의결권행사금지 가처분-취하)",
+          "rceptNo": "20261119800610",
+          "title": "[기재정정]소송등의제기ㆍ신청(일정금액이상의청구)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "340440",
+      "corpCode": "01416572",
+      "name": "세림B&G",
+      "totalDisclosures": 4,
+      "signals": [
+        {
+          "rule": "상장폐지위험",
+          "weight": 70,
+          "count": 2,
+          "latestDate": "2026-11-26"
+        }
+      ],
+      "riskScore": 70,
+      "recentDisclosures": [
+        {
+          "date": "20261126",
+          "rceptNo": "20261126900739",
+          "title": "기타시장안내              (주가 미달에 따른 상장폐지 우려 관련 안내)",
+          "type": "I"
+        },
+        {
+          "date": "20261124",
+          "rceptNo": "20261124900488",
+          "title": "수시공시의무관련사항(공정공시)              (주주가치 제고를 위한 중장기 배당정책 수립)",
+          "type": "I"
+        },
+        {
+          "date": "20261123",
+          "rceptNo": "20261123900630",
+          "title": "기업설명회(IR)개최              ",
+          "type": "I"
+        },
+        {
+          "date": "20261119",
+          "rceptNo": "20261119900716",
+          "title": "기타시장안내              (주가 미달에 따른 상장폐지 우려 관련 안내)",
           "type": "I"
         }
       ]
@@ -302,35 +307,6 @@
       ]
     },
     {
-      "stockCode": "123890",
-      "corpCode": "00404701",
-      "name": "한국자산신탁",
-      "totalDisclosures": 2,
-      "signals": [
-        {
-          "rule": "소송/분쟁",
-          "weight": 50,
-          "count": 2,
-          "latestDate": "2026-11-23"
-        }
-      ],
-      "riskScore": 50,
-      "recentDisclosures": [
-        {
-          "date": "20261123",
-          "rceptNo": "20261123800606",
-          "title": "[기재정정]소송등의제기ㆍ신청(일정금액이상의청구)              ",
-          "type": "I"
-        },
-        {
-          "date": "20261119",
-          "rceptNo": "20261119800610",
-          "title": "[기재정정]소송등의제기ㆍ신청(일정금액이상의청구)              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
       "stockCode": "000400",
       "corpCode": "00113562",
       "name": "롯데손해보험",
@@ -477,6 +453,41 @@
       ]
     },
     {
+      "stockCode": "003520",
+      "corpCode": "00141149",
+      "name": "영진약품",
+      "totalDisclosures": 3,
+      "signals": [
+        {
+          "rule": "상장폐지위험",
+          "weight": 35,
+          "count": 1,
+          "latestDate": "2026-11-25"
+        }
+      ],
+      "riskScore": 35,
+      "recentDisclosures": [
+        {
+          "date": "20261125",
+          "rceptNo": "20261125800716",
+          "title": "투자유의안내              (관리종목지정 우려 예고)",
+          "type": "I"
+        },
+        {
+          "date": "20261125",
+          "rceptNo": "20261125800353",
+          "title": "[기재정정]주주총회소집결의              ",
+          "type": "I"
+        },
+        {
+          "date": "20261125",
+          "rceptNo": "20261125800314",
+          "title": "단기차입금증가결정              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "005360",
       "corpCode": "00121288",
       "name": "모나미",
@@ -529,36 +540,24 @@
       ]
     },
     {
-      "stockCode": "340440",
-      "corpCode": "01416572",
-      "name": "세림B&G",
-      "totalDisclosures": 3,
+      "stockCode": "024940",
+      "corpCode": "00133557",
+      "name": "PN풍년",
+      "totalDisclosures": 1,
       "signals": [
         {
           "rule": "상장폐지위험",
           "weight": 35,
           "count": 1,
-          "latestDate": "2026-11-19"
+          "latestDate": "2026-11-26"
         }
       ],
       "riskScore": 35,
       "recentDisclosures": [
         {
-          "date": "20261124",
-          "rceptNo": "20261124900488",
-          "title": "수시공시의무관련사항(공정공시)              (주주가치 제고를 위한 중장기 배당정책 수립)",
-          "type": "I"
-        },
-        {
-          "date": "20261123",
-          "rceptNo": "20261123900630",
-          "title": "기업설명회(IR)개최              ",
-          "type": "I"
-        },
-        {
-          "date": "20261119",
-          "rceptNo": "20261119900716",
-          "title": "기타시장안내              (주가 미달에 따른 상장폐지 우려 관련 안내)",
+          "date": "20261126",
+          "rceptNo": "20261126900713",
+          "title": "기타시장안내(관리종목지정우려종목)              (시가총액 200억원 미달)",
           "type": "I"
         }
       ]
@@ -595,72 +594,77 @@
   ],
   "companies": [
     {
-      "stockCode": "066790",
-      "corpCode": "00249441",
-      "name": "씨씨에스",
-      "totalDisclosures": 7,
+      "stockCode": "123890",
+      "corpCode": "00404701",
+      "name": "한국자산신탁",
+      "totalDisclosures": 3,
       "signals": [
         {
-          "rule": "대주주변경",
-          "weight": 20,
-          "count": 1,
-          "latestDate": "2026-11-20"
-        },
-        {
           "rule": "소송/분쟁",
-          "weight": 50,
-          "count": 2,
-          "latestDate": "2026-11-26"
-        },
-        {
-          "rule": "상장폐지위험",
-          "weight": 100,
-          "count": 4,
+          "weight": 75,
+          "count": 3,
           "latestDate": "2026-11-26"
         }
       ],
-      "riskScore": 100,
+      "riskScore": 75,
       "recentDisclosures": [
         {
           "date": "20261126",
-          "rceptNo": "20261126900136",
-          "title": "주권매매거래정지              (투자자 보호)",
+          "rceptNo": "20261126800642",
+          "title": "[기재정정]소송등의제기ㆍ신청(일정금액이상의청구)              ",
           "type": "I"
         },
         {
-          "date": "20261126",
-          "rceptNo": "20261126900135",
-          "title": "기타시장안내              (정리매매 보류 관련)",
-          "type": "I"
-        },
-        {
-          "date": "20261126",
-          "rceptNo": "20261126900130",
-          "title": "기타경영사항(자율공시)              (상장폐지결정 등 효력정지 가처분 신청)",
-          "type": "I"
-        },
-        {
-          "date": "20261125",
-          "rceptNo": "20261125900759",
-          "title": "주권매매거래정지해제              (상장폐지에 따른 정리매매 개시)",
-          "type": "I"
-        },
-        {
-          "date": "20261125",
-          "rceptNo": "20261125900743",
-          "title": "기타시장안내              (코스닥시장위원회 개최 결과 및 상장폐지 결정 안내)",
-          "type": "I"
-        },
-        {
-          "date": "20261120",
-          "rceptNo": "20261120900282",
-          "title": "기타경영사항(자율공시)              (변경예정 최대주주의 방송미디어통신위원회 [최다액출자자 변경승인 신청서] 접수)",
+          "date": "20261123",
+          "rceptNo": "20261123800606",
+          "title": "[기재정정]소송등의제기ㆍ신청(일정금액이상의청구)              ",
           "type": "I"
         },
         {
           "date": "20261119",
-          "rceptNo": "20261119900593",
-          "title": "소송등의판결ㆍ결정              (의결권행사금지 가처분-취하)",
+          "rceptNo": "20261119800610",
+          "title": "[기재정정]소송등의제기ㆍ신청(일정금액이상의청구)              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "340440",
+      "corpCode": "01416572",
+      "name": "세림B&G",
+      "totalDisclosures": 4,
+      "signals": [
+        {
+          "rule": "상장폐지위험",
+          "weight": 70,
+          "count": 2,
+          "latestDate": "2026-11-26"
+        }
+      ],
+      "riskScore": 70,
+      "recentDisclosures": [
+        {
+          "date": "20261126",
+          "rceptNo": "20261126900739",
+          "title": "기타시장안내              (주가 미달에 따른 상장폐지 우려 관련 안내)",
+          "type": "I"
+        },
+        {
+          "date": "20261124",
+          "rceptNo": "20261124900488",
+          "title": "수시공시의무관련사항(공정공시)              (주주가치 제고를 위한 중장기 배당정책 수립)",
+          "type": "I"
+        },
+        {
+          "date": "20261123",
+          "rceptNo": "20261123900630",
+          "title": "기업설명회(IR)개최              ",
+          "type": "I"
+        },
+        {
+          "date": "20261119",
+          "rceptNo": "20261119900716",
+          "title": "기타시장안내              (주가 미달에 따른 상장폐지 우려 관련 안내)",
           "type": "I"
         }
       ]
@@ -837,35 +841,6 @@
       ]
     },
     {
-      "stockCode": "123890",
-      "corpCode": "00404701",
-      "name": "한국자산신탁",
-      "totalDisclosures": 2,
-      "signals": [
-        {
-          "rule": "소송/분쟁",
-          "weight": 50,
-          "count": 2,
-          "latestDate": "2026-11-23"
-        }
-      ],
-      "riskScore": 50,
-      "recentDisclosures": [
-        {
-          "date": "20261123",
-          "rceptNo": "20261123800606",
-          "title": "[기재정정]소송등의제기ㆍ신청(일정금액이상의청구)              ",
-          "type": "I"
-        },
-        {
-          "date": "20261119",
-          "rceptNo": "20261119800610",
-          "title": "[기재정정]소송등의제기ㆍ신청(일정금액이상의청구)              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
       "stockCode": "000400",
       "corpCode": "00113562",
       "name": "롯데손해보험",
@@ -1012,6 +987,41 @@
       ]
     },
     {
+      "stockCode": "003520",
+      "corpCode": "00141149",
+      "name": "영진약품",
+      "totalDisclosures": 3,
+      "signals": [
+        {
+          "rule": "상장폐지위험",
+          "weight": 35,
+          "count": 1,
+          "latestDate": "2026-11-25"
+        }
+      ],
+      "riskScore": 35,
+      "recentDisclosures": [
+        {
+          "date": "20261125",
+          "rceptNo": "20261125800716",
+          "title": "투자유의안내              (관리종목지정 우려 예고)",
+          "type": "I"
+        },
+        {
+          "date": "20261125",
+          "rceptNo": "20261125800353",
+          "title": "[기재정정]주주총회소집결의              ",
+          "type": "I"
+        },
+        {
+          "date": "20261125",
+          "rceptNo": "20261125800314",
+          "title": "단기차입금증가결정              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
       "stockCode": "005360",
       "corpCode": "00121288",
       "name": "모나미",
@@ -1064,36 +1074,24 @@
       ]
     },
     {
-      "stockCode": "340440",
-      "corpCode": "01416572",
-      "name": "세림B&G",
-      "totalDisclosures": 3,
+      "stockCode": "024940",
+      "corpCode": "00133557",
+      "name": "PN풍년",
+      "totalDisclosures": 1,
       "signals": [
         {
           "rule": "상장폐지위험",
           "weight": 35,
           "count": 1,
-          "latestDate": "2026-11-19"
+          "latestDate": "2026-11-26"
         }
       ],
       "riskScore": 35,
       "recentDisclosures": [
         {
-          "date": "20261124",
-          "rceptNo": "20261124900488",
-          "title": "수시공시의무관련사항(공정공시)              (주주가치 제고를 위한 중장기 배당정책 수립)",
-          "type": "I"
-        },
-        {
-          "date": "20261123",
-          "rceptNo": "20261123900630",
-          "title": "기업설명회(IR)개최              ",
-          "type": "I"
-        },
-        {
-          "date": "20261119",
-          "rceptNo": "20261119900716",
-          "title": "기타시장안내              (주가 미달에 따른 상장폐지 우려 관련 안내)",
+          "date": "20261126",
+          "rceptNo": "20261126900713",
+          "title": "기타시장안내(관리종목지정우려종목)              (시가총액 200억원 미달)",
           "type": "I"
         }
       ]
@@ -1123,6 +1121,29 @@
           "date": "20261123",
           "rceptNo": "20261123900226",
           "title": "전환가액의조정              (제3회차)",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "389140",
+      "corpCode": "01513699",
+      "name": "포바이포",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "소송/분쟁",
+          "weight": 25,
+          "count": 1,
+          "latestDate": "2026-11-25"
+        }
+      ],
+      "riskScore": 25,
+      "recentDisclosures": [
+        {
+          "date": "20261125",
+          "rceptNo": "20261125900603",
+          "title": "출자법인의회생절차및파산절차관련사실등발생              ",
           "type": "I"
         }
       ]
@@ -1295,6 +1316,29 @@
         {
           "date": "20261126",
           "rceptNo": "20261126800524",
+          "title": "최대주주등소유주식변동신고서              ",
+          "type": "I"
+        }
+      ]
+    },
+    {
+      "stockCode": "003200",
+      "corpCode": "00146269",
+      "name": "일신방직",
+      "totalDisclosures": 1,
+      "signals": [
+        {
+          "rule": "대주주변경",
+          "weight": 20,
+          "count": 1,
+          "latestDate": "2026-11-26"
+        }
+      ],
+      "riskScore": 20,
+      "recentDisclosures": [
+        {
+          "date": "20261126",
+          "rceptNo": "20261126800668",
           "title": "최대주주등소유주식변동신고서              ",
           "type": "I"
         }
@@ -2079,10 +2123,16 @@
       "stockCode": "032640",
       "corpCode": "00231363",
       "name": "LG유플러스",
-      "totalDisclosures": 3,
+      "totalDisclosures": 4,
       "signals": [],
       "riskScore": 0,
       "recentDisclosures": [
+        {
+          "date": "20261126",
+          "rceptNo": "20261126800740",
+          "title": "[첨부정정]기업가치제고계획(자율공시)              ",
+          "type": "I"
+        },
         {
           "date": "20261123",
           "rceptNo": "20261123800371",
@@ -2325,80 +2375,6 @@
           "date": "20261119",
           "rceptNo": "20261119800587",
           "title": "[기재정정]단일판매ㆍ공급계약체결              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "347700",
-      "corpCode": "01336762",
-      "name": "스피어",
-      "totalDisclosures": 7,
-      "signals": [],
-      "riskScore": 0,
-      "recentDisclosures": [
-        {
-          "date": "20261125",
-          "rceptNo": "20261125900567",
-          "title": "[기재정정]타인에대한담보제공결정              ",
-          "type": "I"
-        },
-        {
-          "date": "20261124",
-          "rceptNo": "20261124900582",
-          "title": "[기재정정]단일판매ㆍ공급계약체결              ",
-          "type": "I"
-        },
-        {
-          "date": "20261124",
-          "rceptNo": "20261124900577",
-          "title": "[기재정정]단일판매ㆍ공급계약체결              ",
-          "type": "I"
-        },
-        {
-          "date": "20261123",
-          "rceptNo": "20261123900428",
-          "title": "[기재정정]단일판매ㆍ공급계약체결              ",
-          "type": "I"
-        },
-        {
-          "date": "20261123",
-          "rceptNo": "20261123900430",
-          "title": "[기재정정]단일판매ㆍ공급계약체결              ",
-          "type": "I"
-        },
-        {
-          "date": "20261123",
-          "rceptNo": "20261123900425",
-          "title": "[기재정정]단일판매ㆍ공급계약체결              ",
-          "type": "I"
-        },
-        {
-          "date": "20261119",
-          "rceptNo": "20261119900165",
-          "title": "기업설명회(IR)개최              ",
-          "type": "I"
-        }
-      ]
-    },
-    {
-      "stockCode": "006840",
-      "corpCode": "00125080",
-      "name": "AK홀딩스",
-      "totalDisclosures": 2,
-      "signals": [],
-      "riskScore": 0,
-      "recentDisclosures": [
-        {
-          "date": "20261126",
-          "rceptNo": "20261126800483",
-          "title": "[기재정정]금전대여결정              ",
-          "type": "I"
-        },
-        {
-          "date": "20261126",
-          "rceptNo": "20261126800473",
-          "title": "[기재정정]금전대여결정              ",
           "type": "I"
         }
       ]
