@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-11-26T08:34:06.050Z",
+  "generatedAt": "2026-11-26T19:03:34.651Z",
   "totalDisclosures": 500,
-  "uniquePersons": 407,
+  "uniquePersons": 408,
   "persons": [
+    {
+      "key": "케플러_unknown",
+      "name": "케플러",
+      "count": 1
+    },
+    {
+      "key": "케이 바이오테크 1호 신기술사업투자조합_unknown",
+      "name": "케이 바이오테크 1호 신기술사업투자조합",
+      "count": 5
+    },
+    {
+      "key": "최민석_unknown",
+      "name": "최민석",
+      "count": 2
+    },
+    {
+      "key": "유안타씨큐리티즈아시아파이낸셜서비시스프라이빗리미티드_unknown",
+      "name": "유안타씨큐리티즈아시아파이낸셜서비시스프라이빗리미티드",
+      "count": 1
+    },
+    {
+      "key": "퀀텀포트_unknown",
+      "name": "퀀텀포트",
+      "count": 1
+    },
+    {
+      "key": "최광천_unknown",
+      "name": "최광천",
+      "count": 1
+    },
+    {
+      "key": "김두호_unknown",
+      "name": "김두호",
+      "count": 1
+    },
+    {
+      "key": "이명헌_unknown",
+      "name": "이명헌",
+      "count": 1
+    },
+    {
+      "key": "안진호_unknown",
+      "name": "안진호",
+      "count": 1
+    },
     {
       "key": "디케이마린_unknown",
       "name": "디케이마린",
@@ -734,11 +779,6 @@
       "count": 1
     },
     {
-      "key": "최민석_unknown",
-      "name": "최민석",
-      "count": 1
-    },
-    {
       "key": "이동현_unknown",
       "name": "이동현",
       "count": 1
@@ -1136,7 +1176,7 @@
     {
       "key": "김효준_unknown",
       "name": "김효준",
-      "count": 2
+      "count": 1
     },
     {
       "key": "케이피티유_unknown",
@@ -1186,7 +1226,7 @@
     {
       "key": "권오택_unknown",
       "name": "권오택",
-      "count": 2
+      "count": 1
     },
     {
       "key": "엔비티_unknown",
@@ -1271,12 +1311,7 @@
     {
       "key": "여현국_unknown",
       "name": "여현국",
-      "count": 2
-    },
-    {
-      "key": "케이 바이오테크 1호 신기술사업투자조합_unknown",
-      "name": "케이 바이오테크 1호 신기술사업투자조합",
-      "count": 2
+      "count": 1
     },
     {
       "key": "코스모화학_unknown",
@@ -2006,36 +2041,6 @@
     {
       "key": "심본투자파트너스_unknown",
       "name": "심본투자파트너스",
-      "count": 1
-    },
-    {
-      "key": "이용범_unknown",
-      "name": "이용범",
-      "count": 1
-    },
-    {
-      "key": "유승선_unknown",
-      "name": "유승선",
-      "count": 1
-    },
-    {
-      "key": "대덕_unknown",
-      "name": "대덕",
-      "count": 2
-    },
-    {
-      "key": "약진통상_unknown",
-      "name": "약진통상",
-      "count": 2
-    },
-    {
-      "key": "김정배_unknown",
-      "name": "김정배",
-      "count": 1
-    },
-    {
-      "key": "박태헌_unknown",
-      "name": "박태헌",
       "count": 1
     }
   ]
