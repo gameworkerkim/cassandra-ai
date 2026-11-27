@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T07:52:16.772Z",
+  "generatedAt": "2026-11-27T18:45:16.888Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,7 +11,7 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 13,
+    "highRiskCount": 12,
     "totalSignals": 36,
     "topRisks": [
       {
@@ -20,13 +20,6 @@
         "signals": [
           "대주주변경",
           "증자/감자"
-        ]
-      },
-      {
-        "name": "HD현대중공업",
-        "score": 60,
-        "signals": [
-          "대주주변경"
         ]
       },
       {
@@ -81,6 +74,13 @@
       },
       {
         "name": "DGI",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "세림B&G",
         "score": 35,
         "signals": [
           "상장폐지위험"
