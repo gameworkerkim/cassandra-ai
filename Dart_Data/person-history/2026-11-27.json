@@ -1,0 +1,2057 @@
+{
+  "generatedAt": "2026-11-27T08:46:02.226Z",
+  "totalDisclosures": 500,
+  "uniquePersons": 410,
+  "persons": [
+    {
+      "key": "전방텍스타일_unknown",
+      "name": "전방텍스타일",
+      "count": 1
+    },
+    {
+      "key": "홍성_unknown",
+      "name": "홍성",
+      "count": 1
+    },
+    {
+      "key": "GAN XIAOCHUN_unknown",
+      "name": "GAN XIAOCHUN",
+      "count": 2
+    },
+    {
+      "key": "안재현_unknown",
+      "name": "안재현",
+      "count": 1
+    },
+    {
+      "key": "넥스턴앤롤코리아_unknown",
+      "name": "넥스턴앤롤코리아",
+      "count": 3
+    },
+    {
+      "key": "엑시콘_unknown",
+      "name": "엑시콘",
+      "count": 1
+    },
+    {
+      "key": "이랜드리테일_unknown",
+      "name": "이랜드리테일",
+      "count": 1
+    },
+    {
+      "key": "김재웅_unknown",
+      "name": "김재웅",
+      "count": 1
+    },
+    {
+      "key": "정창규_unknown",
+      "name": "정창규",
+      "count": 1
+    },
+    {
+      "key": "박태오_unknown",
+      "name": "박태오",
+      "count": 1
+    },
+    {
+      "key": "박정인_unknown",
+      "name": "박정인",
+      "count": 1
+    },
+    {
+      "key": "권동찬_unknown",
+      "name": "권동찬",
+      "count": 1
+    },
+    {
+      "key": "심기봉_unknown",
+      "name": "심기봉",
+      "count": 2
+    },
+    {
+      "key": "여은석_unknown",
+      "name": "여은석",
+      "count": 1
+    },
+    {
+      "key": "로아앤코홀딩스_unknown",
+      "name": "로아앤코홀딩스",
+      "count": 1
+    },
+    {
+      "key": "박관호_unknown",
+      "name": "박관호",
+      "count": 2
+    },
+    {
+      "key": "양효순_unknown",
+      "name": "양효순",
+      "count": 1
+    },
+    {
+      "key": "시만_unknown",
+      "name": "시만",
+      "count": 1
+    },
+    {
+      "key": "한세예스24홀딩스_unknown",
+      "name": "한세예스24홀딩스",
+      "count": 2
+    },
+    {
+      "key": "평산파트너스_unknown",
+      "name": "평산파트너스",
+      "count": 1
+    },
+    {
+      "key": "유명훈_unknown",
+      "name": "유명훈",
+      "count": 2
+    },
+    {
+      "key": "임주현_unknown",
+      "name": "임주현",
+      "count": 1
+    },
+    {
+      "key": "송영숙_unknown",
+      "name": "송영숙",
+      "count": 1
+    },
+    {
+      "key": "스페코_unknown",
+      "name": "스페코",
+      "count": 1
+    },
+    {
+      "key": "에스텍_unknown",
+      "name": "에스텍",
+      "count": 1
+    },
+    {
+      "key": "송성근_unknown",
+      "name": "송성근",
+      "count": 1
+    },
+    {
+      "key": "이정철_unknown",
+      "name": "이정철",
+      "count": 1
+    },
+    {
+      "key": "이홍선_unknown",
+      "name": "이홍선",
+      "count": 1
+    },
+    {
+      "key": "조태훈_unknown",
+      "name": "조태훈",
+      "count": 1
+    },
+    {
+      "key": "세종_unknown",
+      "name": "세종",
+      "count": 2
+    },
+    {
+      "key": "제이제이미디어웍스_unknown",
+      "name": "제이제이미디어웍스",
+      "count": 1
+    },
+    {
+      "key": "이용운_unknown",
+      "name": "이용운",
+      "count": 1
+    },
+    {
+      "key": "김태화_unknown",
+      "name": "김태화",
+      "count": 1
+    },
+    {
+      "key": "오태정_unknown",
+      "name": "오태정",
+      "count": 1
+    },
+    {
+      "key": "프라임자산운용_unknown",
+      "name": "프라임자산운용",
+      "count": 1
+    },
+    {
+      "key": "주갑수_unknown",
+      "name": "주갑수",
+      "count": 1
+    },
+    {
+      "key": "에스와이_unknown",
+      "name": "에스와이",
+      "count": 1
+    },
+    {
+      "key": "와이씨_unknown",
+      "name": "와이씨",
+      "count": 1
+    },
+    {
+      "key": "박승현_unknown",
+      "name": "박승현",
+      "count": 1
+    },
+    {
+      "key": "미래에셋자산운용_unknown",
+      "name": "미래에셋자산운용",
+      "count": 13
+    },
+    {
+      "key": "최동호_unknown",
+      "name": "최동호",
+      "count": 2
+    },
+    {
+      "key": "배윤영_unknown",
+      "name": "배윤영",
+      "count": 1
+    },
+    {
+      "key": "강승곤_unknown",
+      "name": "강승곤",
+      "count": 1
+    },
+    {
+      "key": "에버코어인베스트먼트홀딩스_unknown",
+      "name": "에버코어인베스트먼트홀딩스",
+      "count": 3
+    },
+    {
+      "key": "박민우_unknown",
+      "name": "박민우",
+      "count": 1
+    },
+    {
+      "key": "이윤우_unknown",
+      "name": "이윤우",
+      "count": 1
+    },
+    {
+      "key": "이희준_unknown",
+      "name": "이희준",
+      "count": 1
+    },
+    {
+      "key": "상미당홀딩스_unknown",
+      "name": "상미당홀딩스",
+      "count": 1
+    },
+    {
+      "key": "LAPISSemiconductorCo.,Ltd._unknown",
+      "name": "LAPISSemiconductorCo.,Ltd.",
+      "count": 1
+    },
+    {
+      "key": "효성_unknown",
+      "name": "효성",
+      "count": 1
+    },
+    {
+      "key": "유비벨록스_unknown",
+      "name": "유비벨록스",
+      "count": 1
+    },
+    {
+      "key": "이흥복_unknown",
+      "name": "이흥복",
+      "count": 1
+    },
+    {
+      "key": "한상호_unknown",
+      "name": "한상호",
+      "count": 1
+    },
+    {
+      "key": "한철호_unknown",
+      "name": "한철호",
+      "count": 1
+    },
+    {
+      "key": "윤지용_unknown",
+      "name": "윤지용",
+      "count": 1
+    },
+    {
+      "key": "윤철주_unknown",
+      "name": "윤철주",
+      "count": 2
+    },
+    {
+      "key": "정철_unknown",
+      "name": "정철",
+      "count": 1
+    },
+    {
+      "key": "정명일_unknown",
+      "name": "정명일",
+      "count": 1
+    },
+    {
+      "key": "티앤케이나우에어로디펜스사모투자_unknown",
+      "name": "티앤케이나우에어로디펜스사모투자",
+      "count": 2
+    },
+    {
+      "key": "디에스자산운용_unknown",
+      "name": "디에스자산운용",
+      "count": 1
+    },
+    {
+      "key": "박정원_unknown",
+      "name": "박정원",
+      "count": 1
+    },
+    {
+      "key": "오성권_unknown",
+      "name": "오성권",
+      "count": 1
+    },
+    {
+      "key": "한화_unknown",
+      "name": "한화",
+      "count": 1
+    },
+    {
+      "key": "상상인저축은행_unknown",
+      "name": "상상인저축은행",
+      "count": 1
+    },
+    {
+      "key": "현대엘리베이터_unknown",
+      "name": "현대엘리베이터",
+      "count": 2
+    },
+    {
+      "key": "이종주_unknown",
+      "name": "이종주",
+      "count": 1
+    },
+    {
+      "key": "차기현_unknown",
+      "name": "차기현",
+      "count": 1
+    },
+    {
+      "key": "산돌커뮤니케이션_unknown",
+      "name": "산돌커뮤니케이션",
+      "count": 1
+    },
+    {
+      "key": "김슬기_unknown",
+      "name": "김슬기",
+      "count": 1
+    },
+    {
+      "key": "MDS스피어_unknown",
+      "name": "MDS스피어",
+      "count": 1
+    },
+    {
+      "key": "홈캐스트_unknown",
+      "name": "홈캐스트",
+      "count": 1
+    },
+    {
+      "key": "이완근_unknown",
+      "name": "이완근",
+      "count": 1
+    },
+    {
+      "key": "김재민_unknown",
+      "name": "김재민",
+      "count": 1
+    },
+    {
+      "key": "지엘앤코_unknown",
+      "name": "지엘앤코",
+      "count": 2
+    },
+    {
+      "key": "박종수_unknown",
+      "name": "박종수",
+      "count": 1
+    },
+    {
+      "key": "박재영_unknown",
+      "name": "박재영",
+      "count": 1
+    },
+    {
+      "key": "알파벳파트너스_unknown",
+      "name": "알파벳파트너스",
+      "count": 1
+    },
+    {
+      "key": "팜스토리_unknown",
+      "name": "팜스토리",
+      "count": 2
+    },
+    {
+      "key": "김민이_unknown",
+      "name": "김민이",
+      "count": 1
+    },
+    {
+      "key": "에스케이에코플랜트_unknown",
+      "name": "에스케이에코플랜트",
+      "count": 2
+    },
+    {
+      "key": "케이씨지아이_unknown",
+      "name": "케이씨지아이",
+      "count": 1
+    },
+    {
+      "key": "정경찬_unknown",
+      "name": "정경찬",
+      "count": 1
+    },
+    {
+      "key": "구훈회_unknown",
+      "name": "구훈회",
+      "count": 1
+    },
+    {
+      "key": "티엘비_unknown",
+      "name": "티엘비",
+      "count": 1
+    },
+    {
+      "key": "J.P.MORGANSECURITIESPLC_unknown",
+      "name": "J.P.MORGANSECURITIESPLC",
+      "count": 8
+    },
+    {
+      "key": "구자은_unknown",
+      "name": "구자은",
+      "count": 2
+    },
+    {
+      "key": "조원혁_unknown",
+      "name": "조원혁",
+      "count": 1
+    },
+    {
+      "key": "김건식_unknown",
+      "name": "김건식",
+      "count": 1
+    },
+    {
+      "key": "양성진_unknown",
+      "name": "양성진",
+      "count": 1
+    },
+    {
+      "key": "브이에이치1_unknown",
+      "name": "브이에이치1",
+      "count": 1
+    },
+    {
+      "key": "이근용_unknown",
+      "name": "이근용",
+      "count": 2
+    },
+    {
+      "key": "임준묵_unknown",
+      "name": "임준묵",
+      "count": 1
+    },
+    {
+      "key": "하찬효_unknown",
+      "name": "하찬효",
+      "count": 1
+    },
+    {
+      "key": "이응규_unknown",
+      "name": "이응규",
+      "count": 2
+    },
+    {
+      "key": "KG스틸_unknown",
+      "name": "KG스틸",
+      "count": 1
+    },
+    {
+      "key": "김정돈_unknown",
+      "name": "김정돈",
+      "count": 2
+    },
+    {
+      "key": "이훈구_unknown",
+      "name": "이훈구",
+      "count": 2
+    },
+    {
+      "key": "이명종_unknown",
+      "name": "이명종",
+      "count": 1
+    },
+    {
+      "key": "이동현_unknown",
+      "name": "이동현",
+      "count": 2
+    },
+    {
+      "key": "이브이첨단소재_unknown",
+      "name": "이브이첨단소재",
+      "count": 1
+    },
+    {
+      "key": "이재복_unknown",
+      "name": "이재복",
+      "count": 1
+    },
+    {
+      "key": "나윤복_unknown",
+      "name": "나윤복",
+      "count": 1
+    },
+    {
+      "key": "이상엽_unknown",
+      "name": "이상엽",
+      "count": 1
+    },
+    {
+      "key": "손명정_unknown",
+      "name": "손명정",
+      "count": 1
+    },
+    {
+      "key": "구범석_unknown",
+      "name": "구범석",
+      "count": 1
+    },
+    {
+      "key": "정찬윤_unknown",
+      "name": "정찬윤",
+      "count": 1
+    },
+    {
+      "key": "애드바이오텍_unknown",
+      "name": "애드바이오텍",
+      "count": 1
+    },
+    {
+      "key": "화인파트너스_unknown",
+      "name": "화인파트너스",
+      "count": 1
+    },
+    {
+      "key": "홍성한_unknown",
+      "name": "홍성한",
+      "count": 1
+    },
+    {
+      "key": "루멘스바이오스_unknown",
+      "name": "루멘스바이오스",
+      "count": 1
+    },
+    {
+      "key": "김현진_unknown",
+      "name": "김현진",
+      "count": 1
+    },
+    {
+      "key": "박용열_unknown",
+      "name": "박용열",
+      "count": 1
+    },
+    {
+      "key": "퀀텀포트_unknown",
+      "name": "퀀텀포트",
+      "count": 2
+    },
+    {
+      "key": "임충기_unknown",
+      "name": "임충기",
+      "count": 1
+    },
+    {
+      "key": "강찬호_unknown",
+      "name": "강찬호",
+      "count": 1
+    },
+    {
+      "key": "김성락_unknown",
+      "name": "김성락",
+      "count": 1
+    },
+    {
+      "key": "박효대_unknown",
+      "name": "박효대",
+      "count": 1
+    },
+    {
+      "key": "황진호_unknown",
+      "name": "황진호",
+      "count": 1
+    },
+    {
+      "key": "블루로터스_unknown",
+      "name": "블루로터스",
+      "count": 1
+    },
+    {
+      "key": "이준호_unknown",
+      "name": "이준호",
+      "count": 1
+    },
+    {
+      "key": "최동철_unknown",
+      "name": "최동철",
+      "count": 1
+    },
+    {
+      "key": "APS_unknown",
+      "name": "APS",
+      "count": 1
+    },
+    {
+      "key": "정기로_unknown",
+      "name": "정기로",
+      "count": 3
+    },
+    {
+      "key": "디앤디파트너스_unknown",
+      "name": "디앤디파트너스",
+      "count": 1
+    },
+    {
+      "key": "김일학_unknown",
+      "name": "김일학",
+      "count": 1
+    },
+    {
+      "key": "주신홍_unknown",
+      "name": "주신홍",
+      "count": 2
+    },
+    {
+      "key": "엑스_unknown",
+      "name": "엑스",
+      "count": 2
+    },
+    {
+      "key": "김택관_unknown",
+      "name": "김택관",
+      "count": 1
+    },
+    {
+      "key": "알트_unknown",
+      "name": "알트",
+      "count": 1
+    },
+    {
+      "key": "M&GINVESTMENTMANAGEMENTLIMITED_unknown",
+      "name": "M&GINVESTMENTMANAGEMENTLIMITED",
+      "count": 1
+    },
+    {
+      "key": "이승창_unknown",
+      "name": "이승창",
+      "count": 1
+    },
+    {
+      "key": "장세홍_unknown",
+      "name": "장세홍",
+      "count": 1
+    },
+    {
+      "key": "문창성_unknown",
+      "name": "문창성",
+      "count": 1
+    },
+    {
+      "key": "에코프로_unknown",
+      "name": "에코프로",
+      "count": 7
+    },
+    {
+      "key": "이상원_unknown",
+      "name": "이상원",
+      "count": 1
+    },
+    {
+      "key": "윤대현_unknown",
+      "name": "윤대현",
+      "count": 1
+    },
+    {
+      "key": "곽정현_unknown",
+      "name": "곽정현",
+      "count": 4
+    },
+    {
+      "key": "박명수_unknown",
+      "name": "박명수",
+      "count": 1
+    },
+    {
+      "key": "이효진_unknown",
+      "name": "이효진",
+      "count": 1
+    },
+    {
+      "key": "HLB_unknown",
+      "name": "HLB",
+      "count": 1
+    },
+    {
+      "key": "김상윤_unknown",
+      "name": "김상윤",
+      "count": 1
+    },
+    {
+      "key": "이용재_unknown",
+      "name": "이용재",
+      "count": 1
+    },
+    {
+      "key": "강남이_unknown",
+      "name": "강남이",
+      "count": 1
+    },
+    {
+      "key": "유웅진_unknown",
+      "name": "유웅진",
+      "count": 1
+    },
+    {
+      "key": "권태일_unknown",
+      "name": "권태일",
+      "count": 1
+    },
+    {
+      "key": "조준희_unknown",
+      "name": "조준희",
+      "count": 2
+    },
+    {
+      "key": "KG에코솔루션_unknown",
+      "name": "KG에코솔루션",
+      "count": 1
+    },
+    {
+      "key": "이동복_unknown",
+      "name": "이동복",
+      "count": 1
+    },
+    {
+      "key": "하영민_unknown",
+      "name": "하영민",
+      "count": 1
+    },
+    {
+      "key": "김정준_unknown",
+      "name": "김정준",
+      "count": 1
+    },
+    {
+      "key": "김봉수_unknown",
+      "name": "김봉수",
+      "count": 1
+    },
+    {
+      "key": "김지훈_unknown",
+      "name": "김지훈",
+      "count": 1
+    },
+    {
+      "key": "이윤수_unknown",
+      "name": "이윤수",
+      "count": 1
+    },
+    {
+      "key": "정민용_unknown",
+      "name": "정민용",
+      "count": 1
+    },
+    {
+      "key": "케플러_unknown",
+      "name": "케플러",
+      "count": 1
+    },
+    {
+      "key": "케이 바이오테크 1호 신기술사업투자조합_unknown",
+      "name": "케이 바이오테크 1호 신기술사업투자조합",
+      "count": 5
+    },
+    {
+      "key": "최민석_unknown",
+      "name": "최민석",
+      "count": 2
+    },
+    {
+      "key": "유안타씨큐리티즈아시아파이낸셜서비시스프라이빗리미티드_unknown",
+      "name": "유안타씨큐리티즈아시아파이낸셜서비시스프라이빗리미티드",
+      "count": 1
+    },
+    {
+      "key": "최광천_unknown",
+      "name": "최광천",
+      "count": 1
+    },
+    {
+      "key": "김두호_unknown",
+      "name": "김두호",
+      "count": 1
+    },
+    {
+      "key": "이명헌_unknown",
+      "name": "이명헌",
+      "count": 1
+    },
+    {
+      "key": "안진호_unknown",
+      "name": "안진호",
+      "count": 1
+    },
+    {
+      "key": "디케이마린_unknown",
+      "name": "디케이마린",
+      "count": 2
+    },
+    {
+      "key": "롯데렌탈_unknown",
+      "name": "롯데렌탈",
+      "count": 1
+    },
+    {
+      "key": "오진상사_unknown",
+      "name": "오진상사",
+      "count": 1
+    },
+    {
+      "key": "김남구_unknown",
+      "name": "김남구",
+      "count": 1
+    },
+    {
+      "key": "지티에프홀딩스_unknown",
+      "name": "지티에프홀딩스",
+      "count": 1
+    },
+    {
+      "key": "엑스페릭스_unknown",
+      "name": "엑스페릭스",
+      "count": 1
+    },
+    {
+      "key": "엠와이에이치_unknown",
+      "name": "엠와이에이치",
+      "count": 1
+    },
+    {
+      "key": "김귀자_unknown",
+      "name": "김귀자",
+      "count": 2
+    },
+    {
+      "key": "이주한_unknown",
+      "name": "이주한",
+      "count": 1
+    },
+    {
+      "key": "Lee Drew Sukhwan 이석환_unknown",
+      "name": "Lee Drew Sukhwan 이석환",
+      "count": 2
+    },
+    {
+      "key": "안병훈_unknown",
+      "name": "안병훈",
+      "count": 1
+    },
+    {
+      "key": "우리벤처-에버베스트기업재무안정사모투자_unknown",
+      "name": "우리벤처-에버베스트기업재무안정사모투자",
+      "count": 1
+    },
+    {
+      "key": "김영호_unknown",
+      "name": "김영호",
+      "count": 1
+    },
+    {
+      "key": "레이노코리아_unknown",
+      "name": "레이노코리아",
+      "count": 3
+    },
+    {
+      "key": "윤준호_unknown",
+      "name": "윤준호",
+      "count": 1
+    },
+    {
+      "key": "얼라인파트너스자산운용_unknown",
+      "name": "얼라인파트너스자산운용",
+      "count": 1
+    },
+    {
+      "key": "콜마홀딩스_unknown",
+      "name": "콜마홀딩스",
+      "count": 1
+    },
+    {
+      "key": "윤상현_unknown",
+      "name": "윤상현",
+      "count": 1
+    },
+    {
+      "key": "최일_unknown",
+      "name": "최일",
+      "count": 1
+    },
+    {
+      "key": "송호근_unknown",
+      "name": "송호근",
+      "count": 1
+    },
+    {
+      "key": "장원영_unknown",
+      "name": "장원영",
+      "count": 1
+    },
+    {
+      "key": "조영수_unknown",
+      "name": "조영수",
+      "count": 1
+    },
+    {
+      "key": "정혜승_unknown",
+      "name": "정혜승",
+      "count": 1
+    },
+    {
+      "key": "정종수_unknown",
+      "name": "정종수",
+      "count": 1
+    },
+    {
+      "key": "류지훈_unknown",
+      "name": "류지훈",
+      "count": 1
+    },
+    {
+      "key": "배성일_unknown",
+      "name": "배성일",
+      "count": 1
+    },
+    {
+      "key": "이민상_unknown",
+      "name": "이민상",
+      "count": 1
+    },
+    {
+      "key": "박창엽_unknown",
+      "name": "박창엽",
+      "count": 1
+    },
+    {
+      "key": "한상원_unknown",
+      "name": "한상원",
+      "count": 1
+    },
+    {
+      "key": "주광연_unknown",
+      "name": "주광연",
+      "count": 1
+    },
+    {
+      "key": "박경희_unknown",
+      "name": "박경희",
+      "count": 1
+    },
+    {
+      "key": "김영주_unknown",
+      "name": "김영주",
+      "count": 1
+    },
+    {
+      "key": "이종성_unknown",
+      "name": "이종성",
+      "count": 1
+    },
+    {
+      "key": "김민용_unknown",
+      "name": "김민용",
+      "count": 1
+    },
+    {
+      "key": "최덕규_unknown",
+      "name": "최덕규",
+      "count": 1
+    },
+    {
+      "key": "넷마블_unknown",
+      "name": "넷마블",
+      "count": 1
+    },
+    {
+      "key": "김장우_unknown",
+      "name": "김장우",
+      "count": 1
+    },
+    {
+      "key": "김용민_unknown",
+      "name": "김용민",
+      "count": 1
+    },
+    {
+      "key": "고기영_unknown",
+      "name": "고기영",
+      "count": 1
+    },
+    {
+      "key": "KISCO홀딩스_unknown",
+      "name": "KISCO홀딩스",
+      "count": 4
+    },
+    {
+      "key": "MiriCapitalManagementLLC_unknown",
+      "name": "MiriCapitalManagementLLC",
+      "count": 1
+    },
+    {
+      "key": "조종암_unknown",
+      "name": "조종암",
+      "count": 1
+    },
+    {
+      "key": "신동우_unknown",
+      "name": "신동우",
+      "count": 2
+    },
+    {
+      "key": "영진약품_unknown",
+      "name": "영진약품",
+      "count": 1
+    },
+    {
+      "key": "드림아크코리아_unknown",
+      "name": "드림아크코리아",
+      "count": 2
+    },
+    {
+      "key": "최병삼_unknown",
+      "name": "최병삼",
+      "count": 1
+    },
+    {
+      "key": "원스카이_unknown",
+      "name": "원스카이",
+      "count": 1
+    },
+    {
+      "key": "최병홍_unknown",
+      "name": "최병홍",
+      "count": 2
+    },
+    {
+      "key": "KANG SAEIL_unknown",
+      "name": "KANG SAEIL",
+      "count": 1
+    },
+    {
+      "key": "이환희_unknown",
+      "name": "이환희",
+      "count": 1
+    },
+    {
+      "key": "함영준_unknown",
+      "name": "함영준",
+      "count": 1
+    },
+    {
+      "key": "유희은_unknown",
+      "name": "유희은",
+      "count": 1
+    },
+    {
+      "key": "서승완_unknown",
+      "name": "서승완",
+      "count": 1
+    },
+    {
+      "key": "진우엔지니어링_unknown",
+      "name": "진우엔지니어링",
+      "count": 1
+    },
+    {
+      "key": "이충환_unknown",
+      "name": "이충환",
+      "count": 1
+    },
+    {
+      "key": "권영이_unknown",
+      "name": "권영이",
+      "count": 1
+    },
+    {
+      "key": "최수민_unknown",
+      "name": "최수민",
+      "count": 1
+    },
+    {
+      "key": "최민찬_unknown",
+      "name": "최민찬",
+      "count": 1
+    },
+    {
+      "key": "이병화_unknown",
+      "name": "이병화",
+      "count": 1
+    },
+    {
+      "key": "오광식_unknown",
+      "name": "오광식",
+      "count": 1
+    },
+    {
+      "key": "박규석_unknown",
+      "name": "박규석",
+      "count": 1
+    },
+    {
+      "key": "어성수_unknown",
+      "name": "어성수",
+      "count": 1
+    },
+    {
+      "key": "신재명_unknown",
+      "name": "신재명",
+      "count": 1
+    },
+    {
+      "key": "지본_unknown",
+      "name": "지본",
+      "count": 1
+    },
+    {
+      "key": "최헌_unknown",
+      "name": "최헌",
+      "count": 1
+    },
+    {
+      "key": "김태호_unknown",
+      "name": "김태호",
+      "count": 1
+    },
+    {
+      "key": "김인식_unknown",
+      "name": "김인식",
+      "count": 1
+    },
+    {
+      "key": "황보인_unknown",
+      "name": "황보인",
+      "count": 1
+    },
+    {
+      "key": "노은식_unknown",
+      "name": "노은식",
+      "count": 1
+    },
+    {
+      "key": "시엠테크놀로지_unknown",
+      "name": "시엠테크놀로지",
+      "count": 1
+    },
+    {
+      "key": "김주영_unknown",
+      "name": "김주영",
+      "count": 1
+    },
+    {
+      "key": "평화홀딩스_unknown",
+      "name": "평화홀딩스",
+      "count": 1
+    },
+    {
+      "key": "에셋플러스자산운용_unknown",
+      "name": "에셋플러스자산운용",
+      "count": 2
+    },
+    {
+      "key": "최기혁_unknown",
+      "name": "최기혁",
+      "count": 2
+    },
+    {
+      "key": "이용화_unknown",
+      "name": "이용화",
+      "count": 1
+    },
+    {
+      "key": "정태우_unknown",
+      "name": "정태우",
+      "count": 1
+    },
+    {
+      "key": "안병철_unknown",
+      "name": "안병철",
+      "count": 1
+    },
+    {
+      "key": "하우자산운용_unknown",
+      "name": "하우자산운용",
+      "count": 1
+    },
+    {
+      "key": "유태인_unknown",
+      "name": "유태인",
+      "count": 1
+    },
+    {
+      "key": "최해호_unknown",
+      "name": "최해호",
+      "count": 1
+    },
+    {
+      "key": "솔본_unknown",
+      "name": "솔본",
+      "count": 1
+    },
+    {
+      "key": "김중건_unknown",
+      "name": "김중건",
+      "count": 1
+    },
+    {
+      "key": "곽재선_unknown",
+      "name": "곽재선",
+      "count": 1
+    },
+    {
+      "key": "정현석_unknown",
+      "name": "정현석",
+      "count": 1
+    },
+    {
+      "key": "조민수_unknown",
+      "name": "조민수",
+      "count": 1
+    },
+    {
+      "key": "석재호_unknown",
+      "name": "석재호",
+      "count": 2
+    },
+    {
+      "key": "정광춘_unknown",
+      "name": "정광춘",
+      "count": 1
+    },
+    {
+      "key": "조민기_unknown",
+      "name": "조민기",
+      "count": 1
+    },
+    {
+      "key": "서경배_unknown",
+      "name": "서경배",
+      "count": 1
+    },
+    {
+      "key": "최석진_unknown",
+      "name": "최석진",
+      "count": 1
+    },
+    {
+      "key": "조광식_unknown",
+      "name": "조광식",
+      "count": 1
+    },
+    {
+      "key": "아침해_unknown",
+      "name": "아침해",
+      "count": 1
+    },
+    {
+      "key": "정영민_unknown",
+      "name": "정영민",
+      "count": 1
+    },
+    {
+      "key": "조재근_unknown",
+      "name": "조재근",
+      "count": 1
+    },
+    {
+      "key": "지앤텍벤처투자_unknown",
+      "name": "지앤텍벤처투자",
+      "count": 1
+    },
+    {
+      "key": "동양주택개발_unknown",
+      "name": "동양주택개발",
+      "count": 3
+    },
+    {
+      "key": "케이엠기술_unknown",
+      "name": "케이엠기술",
+      "count": 1
+    },
+    {
+      "key": "박종현_unknown",
+      "name": "박종현",
+      "count": 1
+    },
+    {
+      "key": "미래에셋증권_unknown",
+      "name": "미래에셋증권",
+      "count": 1
+    },
+    {
+      "key": "최익현_unknown",
+      "name": "최익현",
+      "count": 1
+    },
+    {
+      "key": "조병일_unknown",
+      "name": "조병일",
+      "count": 1
+    },
+    {
+      "key": "유준원_unknown",
+      "name": "유준원",
+      "count": 1
+    },
+    {
+      "key": "이영재_unknown",
+      "name": "이영재",
+      "count": 1
+    },
+    {
+      "key": "홍종호_unknown",
+      "name": "홍종호",
+      "count": 1
+    },
+    {
+      "key": "KG케미칼_unknown",
+      "name": "KG케미칼",
+      "count": 2
+    },
+    {
+      "key": "임종윤_unknown",
+      "name": "임종윤",
+      "count": 1
+    },
+    {
+      "key": "금석호_unknown",
+      "name": "금석호",
+      "count": 1
+    },
+    {
+      "key": "케이티비엔(KTBN) 18호 벤처투자조합_unknown",
+      "name": "케이티비엔(KTBN) 18호 벤처투자조합",
+      "count": 1
+    },
+    {
+      "key": "비케이자산관리대부_unknown",
+      "name": "비케이자산관리대부",
+      "count": 1
+    },
+    {
+      "key": "신동윤_unknown",
+      "name": "신동윤",
+      "count": 1
+    },
+    {
+      "key": "휴림로봇_unknown",
+      "name": "휴림로봇",
+      "count": 1
+    },
+    {
+      "key": "오재성_unknown",
+      "name": "오재성",
+      "count": 1
+    },
+    {
+      "key": "장혁진_unknown",
+      "name": "장혁진",
+      "count": 1
+    },
+    {
+      "key": "윤철수_unknown",
+      "name": "윤철수",
+      "count": 2
+    },
+    {
+      "key": "강희철_unknown",
+      "name": "강희철",
+      "count": 1
+    },
+    {
+      "key": "모아라이프플러스_unknown",
+      "name": "모아라이프플러스",
+      "count": 1
+    },
+    {
+      "key": "한국산업은행_unknown",
+      "name": "한국산업은행",
+      "count": 1
+    },
+    {
+      "key": "김상욱_unknown",
+      "name": "김상욱",
+      "count": 1
+    },
+    {
+      "key": "테라사이언스_unknown",
+      "name": "테라사이언스",
+      "count": 1
+    },
+    {
+      "key": "조현범_unknown",
+      "name": "조현범",
+      "count": 1
+    },
+    {
+      "key": "공현기_unknown",
+      "name": "공현기",
+      "count": 1
+    },
+    {
+      "key": "권혁운_unknown",
+      "name": "권혁운",
+      "count": 1
+    },
+    {
+      "key": "엘에스케이디비_unknown",
+      "name": "엘에스케이디비",
+      "count": 2
+    },
+    {
+      "key": "이녹스_unknown",
+      "name": "이녹스",
+      "count": 1
+    },
+    {
+      "key": "대산홀딩스컴퍼니_unknown",
+      "name": "대산홀딩스컴퍼니",
+      "count": 1
+    },
+    {
+      "key": "우리벤처파트너스_unknown",
+      "name": "우리벤처파트너스",
+      "count": 2
+    },
+    {
+      "key": "이동원_unknown",
+      "name": "이동원",
+      "count": 1
+    },
+    {
+      "key": "송명준_unknown",
+      "name": "송명준",
+      "count": 1
+    },
+    {
+      "key": "화인인터내셔날_unknown",
+      "name": "화인인터내셔날",
+      "count": 3
+    },
+    {
+      "key": "장인화_unknown",
+      "name": "장인화",
+      "count": 1
+    },
+    {
+      "key": "남궁훈_unknown",
+      "name": "남궁훈",
+      "count": 1
+    },
+    {
+      "key": "현대차증권_unknown",
+      "name": "현대차증권",
+      "count": 1
+    },
+    {
+      "key": "아이비케이에스 로봇 솔루션 신기술투자조합_unknown",
+      "name": "아이비케이에스 로봇 솔루션 신기술투자조합",
+      "count": 2
+    },
+    {
+      "key": "조문수_unknown",
+      "name": "조문수",
+      "count": 1
+    },
+    {
+      "key": "이해연_unknown",
+      "name": "이해연",
+      "count": 1
+    },
+    {
+      "key": "김광수_unknown",
+      "name": "김광수",
+      "count": 1
+    },
+    {
+      "key": "오길호_unknown",
+      "name": "오길호",
+      "count": 1
+    },
+    {
+      "key": "일진홀딩스_unknown",
+      "name": "일진홀딩스",
+      "count": 1
+    },
+    {
+      "key": "김재욱_unknown",
+      "name": "김재욱",
+      "count": 1
+    },
+    {
+      "key": "이원호_unknown",
+      "name": "이원호",
+      "count": 1
+    },
+    {
+      "key": "강원랜드_unknown",
+      "name": "강원랜드",
+      "count": 1
+    },
+    {
+      "key": "허정욱_unknown",
+      "name": "허정욱",
+      "count": 1
+    },
+    {
+      "key": "퀀텀레일_unknown",
+      "name": "퀀텀레일",
+      "count": 1
+    },
+    {
+      "key": "한상진_unknown",
+      "name": "한상진",
+      "count": 1
+    },
+    {
+      "key": "박재순_unknown",
+      "name": "박재순",
+      "count": 1
+    },
+    {
+      "key": "김성준_unknown",
+      "name": "김성준",
+      "count": 1
+    },
+    {
+      "key": "문덕영_unknown",
+      "name": "문덕영",
+      "count": 1
+    },
+    {
+      "key": "윤원일_unknown",
+      "name": "윤원일",
+      "count": 1
+    },
+    {
+      "key": "김필한_unknown",
+      "name": "김필한",
+      "count": 1
+    },
+    {
+      "key": "케이지제로인_unknown",
+      "name": "케이지제로인",
+      "count": 1
+    },
+    {
+      "key": "손동식_unknown",
+      "name": "손동식",
+      "count": 1
+    },
+    {
+      "key": "김추호_unknown",
+      "name": "김추호",
+      "count": 1
+    },
+    {
+      "key": "황용하_unknown",
+      "name": "황용하",
+      "count": 1
+    },
+    {
+      "key": "정동철_unknown",
+      "name": "정동철",
+      "count": 1
+    },
+    {
+      "key": "국민연금공단_unknown",
+      "name": "국민연금공단",
+      "count": 1
+    },
+    {
+      "key": "FILLIMITED_unknown",
+      "name": "FILLIMITED",
+      "count": 2
+    },
+    {
+      "key": "김환규_unknown",
+      "name": "김환규",
+      "count": 1
+    },
+    {
+      "key": "이용익_unknown",
+      "name": "이용익",
+      "count": 1
+    },
+    {
+      "key": "서룡전자_unknown",
+      "name": "서룡전자",
+      "count": 1
+    },
+    {
+      "key": "이한우_unknown",
+      "name": "이한우",
+      "count": 1
+    },
+    {
+      "key": "한화엔진_unknown",
+      "name": "한화엔진",
+      "count": 1
+    },
+    {
+      "key": "천병규_unknown",
+      "name": "천병규",
+      "count": 1
+    },
+    {
+      "key": "연룡모_unknown",
+      "name": "연룡모",
+      "count": 1
+    },
+    {
+      "key": "이서규_unknown",
+      "name": "이서규",
+      "count": 1
+    },
+    {
+      "key": "전재국_unknown",
+      "name": "전재국",
+      "count": 1
+    },
+    {
+      "key": "최미로_unknown",
+      "name": "최미로",
+      "count": 1
+    },
+    {
+      "key": "천병태_unknown",
+      "name": "천병태",
+      "count": 1
+    },
+    {
+      "key": "주식회사 투비소프트 우리사주조합_unknown",
+      "name": "주식회사 투비소프트 우리사주조합",
+      "count": 1
+    },
+    {
+      "key": "이충열_unknown",
+      "name": "이충열",
+      "count": 1
+    },
+    {
+      "key": "이형석_unknown",
+      "name": "이형석",
+      "count": 1
+    },
+    {
+      "key": "에스비브이에이_unknown",
+      "name": "에스비브이에이",
+      "count": 1
+    },
+    {
+      "key": "제이스커머스_unknown",
+      "name": "제이스커머스",
+      "count": 1
+    },
+    {
+      "key": "최상주_unknown",
+      "name": "최상주",
+      "count": 1
+    },
+    {
+      "key": "김홍국_unknown",
+      "name": "김홍국",
+      "count": 1
+    },
+    {
+      "key": "제이더블유씨인터내셔널_unknown",
+      "name": "제이더블유씨인터내셔널",
+      "count": 1
+    },
+    {
+      "key": "레저플러스_unknown",
+      "name": "레저플러스",
+      "count": 1
+    },
+    {
+      "key": "최원석_unknown",
+      "name": "최원석",
+      "count": 1
+    },
+    {
+      "key": "KX_unknown",
+      "name": "KX",
+      "count": 1
+    },
+    {
+      "key": "박종갑_unknown",
+      "name": "박종갑",
+      "count": 1
+    },
+    {
+      "key": "방한민_unknown",
+      "name": "방한민",
+      "count": 1
+    },
+    {
+      "key": "정몽규_unknown",
+      "name": "정몽규",
+      "count": 1
+    },
+    {
+      "key": "김기철_unknown",
+      "name": "김기철",
+      "count": 1
+    },
+    {
+      "key": "아미코젠_unknown",
+      "name": "아미코젠",
+      "count": 1
+    },
+    {
+      "key": "에치와이_unknown",
+      "name": "에치와이",
+      "count": 1
+    },
+    {
+      "key": "폴라리스우노_unknown",
+      "name": "폴라리스우노",
+      "count": 1
+    },
+    {
+      "key": "김정혁_unknown",
+      "name": "김정혁",
+      "count": 1
+    },
+    {
+      "key": "유제천_unknown",
+      "name": "유제천",
+      "count": 1
+    },
+    {
+      "key": "오성첨단소재_unknown",
+      "name": "오성첨단소재",
+      "count": 2
+    },
+    {
+      "key": "한기수_unknown",
+      "name": "한기수",
+      "count": 1
+    },
+    {
+      "key": "김병창_unknown",
+      "name": "김병창",
+      "count": 1
+    },
+    {
+      "key": "아트만자산운용_unknown",
+      "name": "아트만자산운용",
+      "count": 1
+    },
+    {
+      "key": "강두홍_unknown",
+      "name": "강두홍",
+      "count": 1
+    },
+    {
+      "key": "구본걸_unknown",
+      "name": "구본걸",
+      "count": 1
+    },
+    {
+      "key": "이준혁_unknown",
+      "name": "이준혁",
+      "count": 1
+    },
+    {
+      "key": "JPMorganAssetManagement(AsiaPacific)Limited_unknown",
+      "name": "JPMorganAssetManagement(AsiaPacific)Limited",
+      "count": 3
+    },
+    {
+      "key": "형지I&C_unknown",
+      "name": "형지I&C",
+      "count": 1
+    },
+    {
+      "key": "김창현_unknown",
+      "name": "김창현",
+      "count": 1
+    },
+    {
+      "key": "박정섭_unknown",
+      "name": "박정섭",
+      "count": 1
+    },
+    {
+      "key": "온코닉테라퓨틱스_unknown",
+      "name": "온코닉테라퓨틱스",
+      "count": 1
+    },
+    {
+      "key": "이종민_unknown",
+      "name": "이종민",
+      "count": 1
+    },
+    {
+      "key": "라이언자산운용_unknown",
+      "name": "라이언자산운용",
+      "count": 1
+    },
+    {
+      "key": "김현욱_unknown",
+      "name": "김현욱",
+      "count": 1
+    },
+    {
+      "key": "조용준_unknown",
+      "name": "조용준",
+      "count": 1
+    },
+    {
+      "key": "다산모바일_unknown",
+      "name": "다산모바일",
+      "count": 1
+    },
+    {
+      "key": "디앤디플랫폼리츠_unknown",
+      "name": "디앤디플랫폼리츠",
+      "count": 1
+    },
+    {
+      "key": "에스폼_unknown",
+      "name": "에스폼",
+      "count": 1
+    },
+    {
+      "key": "크립토그로스1호_unknown",
+      "name": "크립토그로스1호",
+      "count": 1
+    },
+    {
+      "key": "김승근_unknown",
+      "name": "김승근",
+      "count": 1
+    },
+    {
+      "key": "김영운_unknown",
+      "name": "김영운",
+      "count": 1
+    },
+    {
+      "key": "배의호_unknown",
+      "name": "배의호",
+      "count": 1
+    },
+    {
+      "key": "박범준_unknown",
+      "name": "박범준",
+      "count": 1
+    },
+    {
+      "key": "박영준_unknown",
+      "name": "박영준",
+      "count": 1
+    },
+    {
+      "key": "김효준_unknown",
+      "name": "김효준",
+      "count": 1
+    },
+    {
+      "key": "케이피티유_unknown",
+      "name": "케이피티유",
+      "count": 1
+    },
+    {
+      "key": "정재열_unknown",
+      "name": "정재열",
+      "count": 1
+    },
+    {
+      "key": "이재영_unknown",
+      "name": "이재영",
+      "count": 1
+    },
+    {
+      "key": "정기선_unknown",
+      "name": "정기선",
+      "count": 1
+    },
+    {
+      "key": "모트렉스이에프엠_unknown",
+      "name": "모트렉스이에프엠",
+      "count": 1
+    },
+    {
+      "key": "조영철_unknown",
+      "name": "조영철",
+      "count": 1
+    },
+    {
+      "key": "김정훈_unknown",
+      "name": "김정훈",
+      "count": 1
+    },
+    {
+      "key": "배성민_unknown",
+      "name": "배성민",
+      "count": 1
+    },
+    {
+      "key": "이혁재_unknown",
+      "name": "이혁재",
+      "count": 1
+    },
+    {
+      "key": "권오택_unknown",
+      "name": "권오택",
+      "count": 1
+    },
+    {
+      "key": "엔비티_unknown",
+      "name": "엔비티",
+      "count": 1
+    },
+    {
+      "key": "김영기_unknown",
+      "name": "김영기",
+      "count": 1
+    },
+    {
+      "key": "최호형_unknown",
+      "name": "최호형",
+      "count": 1
+    },
+    {
+      "key": "대성출판_unknown",
+      "name": "대성출판",
+      "count": 1
+    },
+    {
+      "key": "박정준_unknown",
+      "name": "박정준",
+      "count": 1
+    },
+    {
+      "key": "HMM_unknown",
+      "name": "HMM",
+      "count": 1
+    },
+    {
+      "key": "신승영_unknown",
+      "name": "신승영",
+      "count": 1
+    },
+    {
+      "key": "김태원_unknown",
+      "name": "김태원",
+      "count": 1
+    },
+    {
+      "key": "송하윤_unknown",
+      "name": "송하윤",
+      "count": 1
+    },
+    {
+      "key": "주원호_unknown",
+      "name": "주원호",
+      "count": 1
+    },
+    {
+      "key": "오길영_unknown",
+      "name": "오길영",
+      "count": 1
+    },
+    {
+      "key": "손영웅_unknown",
+      "name": "손영웅",
+      "count": 2
+    },
+    {
+      "key": "여용화_unknown",
+      "name": "여용화",
+      "count": 1
+    },
+    {
+      "key": "정봉진_unknown",
+      "name": "정봉진",
+      "count": 1
+    },
+    {
+      "key": "류시영_unknown",
+      "name": "류시영",
+      "count": 1
+    },
+    {
+      "key": "방상훈_unknown",
+      "name": "방상훈",
+      "count": 1
+    },
+    {
+      "key": "여현국_unknown",
+      "name": "여현국",
+      "count": 1
+    },
+    {
+      "key": "코스모화학_unknown",
+      "name": "코스모화학",
+      "count": 1
+    },
+    {
+      "key": "차진욱_unknown",
+      "name": "차진욱",
+      "count": 1
+    },
+    {
+      "key": "박봉용_unknown",
+      "name": "박봉용",
+      "count": 1
+    },
+    {
+      "key": "김관중_unknown",
+      "name": "김관중",
+      "count": 1
+    },
+    {
+      "key": "이재웅_unknown",
+      "name": "이재웅",
+      "count": 1
+    },
+    {
+      "key": "손창환_unknown",
+      "name": "손창환",
+      "count": 1
+    },
+    {
+      "key": "오지수_unknown",
+      "name": "오지수",
+      "count": 1
+    },
+    {
+      "key": "윤종필_unknown",
+      "name": "윤종필",
+      "count": 1
+    }
+  ]
+}
