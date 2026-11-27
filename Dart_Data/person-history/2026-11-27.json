@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-11-27T08:46:02.226Z",
+  "generatedAt": "2026-11-27T19:01:04.206Z",
   "totalDisclosures": 500,
   "uniquePersons": 410,
   "persons": [
+    {
+      "key": "이미연_unknown",
+      "name": "이미연",
+      "count": 1
+    },
+    {
+      "key": "조용선_unknown",
+      "name": "조용선",
+      "count": 1
+    },
     {
       "key": "전방텍스타일_unknown",
       "name": "전방텍스타일",
@@ -2041,16 +2051,6 @@
     {
       "key": "손창환_unknown",
       "name": "손창환",
-      "count": 1
-    },
-    {
-      "key": "오지수_unknown",
-      "name": "오지수",
-      "count": 1
-    },
-    {
-      "key": "윤종필_unknown",
-      "name": "윤종필",
       "count": 1
     }
   ]
