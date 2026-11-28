@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T18:45:16.888Z",
+  "generatedAt": "2026-11-28T07:19:47.030Z",
   "totalCompanies": 0,
   "totalDisclosures": 0,
   "categories": {
@@ -11,8 +11,8 @@
   },
   "companies": {},
   "dailyReport": {
-    "highRiskCount": 12,
-    "totalSignals": 36,
+    "highRiskCount": 11,
+    "totalSignals": 31,
     "topRisks": [
       {
         "name": "서원",
@@ -20,14 +20,6 @@
         "signals": [
           "대주주변경",
           "증자/감자"
-        ]
-      },
-      {
-        "name": "엑셀세라퓨틱스",
-        "score": 55,
-        "signals": [
-          "증자/감자",
-          "상장폐지위험"
         ]
       },
       {
@@ -81,6 +73,13 @@
       },
       {
         "name": "세림B&G",
+        "score": 35,
+        "signals": [
+          "상장폐지위험"
+        ]
+      },
+      {
+        "name": "PN풍년",
         "score": 35,
         "signals": [
           "상장폐지위험"
